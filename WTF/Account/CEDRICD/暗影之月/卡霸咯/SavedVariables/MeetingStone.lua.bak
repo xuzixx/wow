@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["卡霸咯 - 暗影之月"] = "卡霸咯 - 暗影之月",
+	},
+	["profiles"] = {
+		["卡霸咯 - 暗影之月"] = {
+		},
+	},
+}

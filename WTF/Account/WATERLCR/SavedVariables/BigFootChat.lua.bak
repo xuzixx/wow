@@ -1,0 +1,17 @@
+
+BFCDB = {
+	["namespaces"] = {
+		["CHATFRAME"] = {
+		},
+		["ICONFRAME"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Dadanion - 石爪峰"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+BFCSystemCacheDB = nil

@@ -1,0 +1,317 @@
+
+ItemSourceDB = {
+}
+ObjectLocationDB = {
+	["小宝箱"] = {
+		["y"] = 86,
+		["x"] = 46,
+		["name"] = "小宝箱",
+		["zone"] = "瓦尔莎拉",
+		["subzone"] = "燃皮林地",
+	},
+}
+CreatureLocationDB = {
+}
+CreatureDB = {
+}
+QuestDB = {
+}
+QuestCompleteDB = {
+}
+QuestEventDB = {
+}
+SkillSourceDB = {
+}
+BigFootBot_Version = {
+}
+BigFootBot_Info = nil
+PlayersDB = {
+	["为祸人间:暗影之月"] = {
+		["race"] = 4,
+		["name"] = "为祸人间",
+		["guild"] = "Burning Expedition",
+		["level"] = 100,
+		["gender"] = 3,
+		["class"] = 3,
+		["server"] = "暗影之月",
+	},
+	["伊俐丹丶陆虎:暗影之月"] = {
+		["race"] = 7,
+		["name"] = "伊俐丹丶陆虎",
+		["guild"] = "不灭信仰",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 12,
+		["server"] = "暗影之月",
+	},
+	["守护木叶:暗影之月"] = {
+		["race"] = 10,
+		["name"] = "守护木叶",
+		["guild"] = "锋出无右",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 8,
+		["server"] = "暗影之月",
+	},
+	["缩水的维尼:暗影之月"] = {
+		["race"] = 6,
+		["name"] = "缩水的维尼",
+		["guild"] = "蓝月军团",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 5,
+		["server"] = "暗影之月",
+	},
+	["珍藏版呆猪:暗影之月"] = {
+		["race"] = 11,
+		["name"] = "珍藏版呆猪",
+		["guild"] = "黎明之愿",
+		["level"] = 100,
+		["gender"] = 2,
+		["class"] = 4,
+		["server"] = "暗影之月",
+	},
+	["醉梦生:暗影之月"] = {
+		["race"] = 15,
+		["name"] = "醉梦生",
+		["guild"] = "星 光",
+		["level"] = 104,
+		["gender"] = 2,
+		["class"] = 11,
+		["server"] = "暗影之月",
+	},
+	["傻韬:暗影之月"] = {
+		["race"] = 9,
+		["name"] = "傻韬",
+		["guild"] = "Purgatorio Sangriento",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 9,
+		["server"] = "暗影之月",
+	},
+	["手残法神:暗影之月"] = {
+		["race"] = 10,
+		["name"] = "手残法神",
+		["guild"] = "蓝月军团",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 9,
+		["server"] = "暗影之月",
+	},
+	["斩丶天:暗影之月"] = {
+		["race"] = 6,
+		["name"] = "斩丶天",
+		["guild"] = "污妖汪之怒",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 2,
+		["server"] = "暗影之月",
+	},
+	["凯丶洛论:卡珊德拉"] = {
+		["race"] = 6,
+		["name"] = "凯丶洛论",
+		["guild"] = "不灭信仰",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 5,
+		["server"] = "卡珊德拉",
+	},
+	["南波旺:贫瘠之地"] = {
+		["race"] = 9,
+		["name"] = "南波旺",
+		["guild"] = "开拓者",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 4,
+		["server"] = "贫瘠之地",
+	},
+	["一怒风云变:暗影之月"] = {
+		["race"] = 7,
+		["name"] = "一怒风云变",
+		["guild"] = "高三二班",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 12,
+		["server"] = "暗影之月",
+	},
+	["风火图腾:暗影之月"] = {
+		["race"] = 15,
+		["name"] = "风火图腾",
+		["guild"] = "一人一剑一江湖",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 8,
+		["server"] = "暗影之月",
+	},
+	["不会爬树猴子:暗影之月"] = {
+		["race"] = 2,
+		["name"] = "不会爬树猴子",
+		["guild"] = "联盟不干我不是人",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 2,
+		["server"] = "暗影之月",
+	},
+	["坚决不奶会长:暗影之月"] = {
+		["race"] = 10,
+		["name"] = "坚决不奶会长",
+		["guild"] = "最初的梦想",
+		["level"] = 101,
+		["gender"] = 3,
+		["class"] = 8,
+		["server"] = "暗影之月",
+	},
+	["伊利达綝:暗影之月"] = {
+		["race"] = 7,
+		["name"] = "伊利达綝",
+		["guild"] = "看在眼里疼在蛋上",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 12,
+		["server"] = "暗影之月",
+	},
+	["Jingo:暗影之月"] = {
+		["race"] = 9,
+		["name"] = "Jingo",
+		["guild"] = "丨兰若寺丨",
+		["level"] = 104,
+		["gender"] = 2,
+		["class"] = 2,
+		["server"] = "暗影之月",
+	},
+	["双采是小德好:暗影之月"] = {
+		["race"] = 11,
+		["name"] = "双采是小德好",
+		["guild"] = "最初的梦想",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 10,
+		["server"] = "暗影之月",
+	},
+	["Mieha:暗影之月"] = {
+		["race"] = 10,
+		["name"] = "Mieha",
+		["guild"] = "Memories",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 8,
+		["server"] = "暗影之月",
+	},
+	["施韵似命丶:暗影之月"] = {
+		["race"] = 7,
+		["name"] = "施韵似命丶",
+		["guild"] = "Elegy",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 10,
+		["server"] = "暗影之月",
+	},
+	["羽黛:暗影之月"] = {
+		["race"] = 11,
+		["name"] = "羽黛",
+		["guild"] = "月神殿",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 5,
+		["server"] = "暗影之月",
+	},
+	["阿柯萌德丶:暗影之月"] = {
+		["race"] = 6,
+		["name"] = "阿柯萌德丶",
+		["guild"] = "Just Friends",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 7,
+		["server"] = "暗影之月",
+	},
+	["午时灬灬啊:暗影之月"] = {
+		["race"] = 2,
+		["name"] = "午时灬灬啊",
+		["guild"] = "我们是小号但后台很硬惹我们就换号守你尸体到下线",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 3,
+		["server"] = "暗影之月",
+	},
+	["信仰萨猫君:末日行者"] = {
+		["race"] = 15,
+		["name"] = "信仰萨猫君",
+		["guild"] = "mission",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 8,
+		["server"] = "末日行者",
+	},
+	["洛痕丶:暗影之月"] = {
+		["race"] = 7,
+		["name"] = "洛痕丶",
+		["guild"] = "逆光",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 12,
+		["server"] = "暗影之月",
+	},
+	["钢灬炮:暗影之月"] = {
+		["race"] = 6,
+		["name"] = "钢灬炮",
+		["guild"] = "最初信仰",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 3,
+		["server"] = "暗影之月",
+	},
+	["Smxx:暗影之月"] = {
+		["race"] = 10,
+		["name"] = "Smxx",
+		["guild"] = "挽歌",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 8,
+		["server"] = "暗影之月",
+	},
+	["娜塔娅的影子:暗影之月"] = {
+		["race"] = 6,
+		["name"] = "娜塔娅的影子",
+		["guild"] = "污妖汪之怒",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 5,
+		["server"] = "暗影之月",
+	},
+}
+UtilDB = {
+}
+NPCMarkCollectionDB = {
+}
+BigFootBot_collectData = {
+	["CombatBattlePetData"] = {
+	},
+	["BigFootBank_Data"] = {
+	},
+	["WildBattlePetData"] = {
+	},
+}
+SpamChatDB = {
+	[1474656796] = {
+		["name"] = "死亡佣兵-暗影之月",
+		["content"] = "收个815可升级的高暴击皮甲 手套,腰带，护腿，鞋子，(无双或屠夫)卖的带图M,过期不候",
+	},
+	["factionGroup"] = "Alliance",
+	[1474655840] = {
+		["name"] = "此恨无关风月",
+		["content"] = "有CD商人在吗？~",
+	},
+	[1474657104] = {
+		["name"] = "瓦格蕾",
+		["content"] = "@XjFeU0NMQ15OMl5OMTcxMV5e",
+	},
+	[1474656482] = {
+		["name"] = "Owicz-暗影之月",
+		["content"] = "老司机带PT翡翠 来2远程DPS 1治疗 840+带装等M",
+	},
+	[1474656176] = {
+		["name"] = "骑士先森丿-暗影之月",
+		["content"] = "{猥琐} |cffa335ee|Hitem:138019::::::::110:250:5111808:::1456:4:5:1:::|h[史诗钥石]|h|r |cffff8000|Hitem:132453::::::::110:250::2:1:1811:::|h[血骨傀儡的腿甲]|h|r",
+	},
+	["realm"] = "暗影之月",
+}

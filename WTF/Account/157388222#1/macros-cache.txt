@@ -1,0 +1,78 @@
+VER 3 0000000000000003 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 恐惧;  [@mouseover,exists,mod:ctrl] 恐惧; [@mouseover,exists,mod:shift] 恐惧
+END
+VER 3 0000000000000011 "tab" "INV_MISC_QUESTIONMARK"
+/console targetnearestuseold 1
+END
+VER 3 000000000000000E "业报" "INV_MISC_QUESTIONMARK"
+/cast 业报之触
+/y 来啊%t,互相伤害啊
+END
+VER 3 000000000000000C "切吼" "ABILITY_MONK_SPEARHAND"
+/cast 切喉手
+/y %t，你tm闭嘴
+END
+VER 3 000000000000000A "升龙霸" "ABILITY_MONK_HURRICANESTRIKE"
+/cast 升龙霸
+/y 奥呦根
+END
+VER 3 0000000000000009 "幻灭踢" "ABILITY_MONK_ROUNDHOUSEKICK"
+/cast 幻灭踢
+/y 断子绝孙脚
+END
+VER 3 0000000000000006 "怒雷破" "MONK_ABILITY_FISTOFFURY"
+/cast 怒雷破
+/y 王八拳！！！！！
+/in 1 /y 阿达
+/in 1.5 /y 阿达
+/in 2 /y 阿达
+/in 2.5 /y 阿达
+/in 3 /y 阿达
+END
+VER 3 0000000000000007 "旭日" "ABILITY_MONK_RISINGSUNKICK"
+/cast 旭日东升踢
+/y 倒挂金钩
+END
+VER 3 0000000000000013 "桶" "ACHIEVEMENT_GUILDPERK_HASTYHEARTH"
+/script SetRaidTarget("mouseover",2)
+END
+VER 3 0000000000000005 "法阵" "INV_MISC_QUESTIONMARK"
+#showtooltip 恶魔法阵
+/cancelaura [button:2] 恶魔法阵
+/cancelaura [mod:alt] 恶魔法阵
+/use 恶魔法阵
+END
+VER 3 0000000000000002 "测试距离" "INV_SWORD_04"
+/run print(GetCameraZoom())
+END
+VER 3 000000000000000D "点穴" "ABILITY_MONK_PARALYSIS"
+/cast 分筋错骨
+/y 我已点穴%t，谁打谁tm抗着
+END
+VER 3 0000000000000008 "猛虎掌" "ABILITY_MONK_TIGERPALM"
+/cast 猛虎掌
+/y 抓奶龙爪手
+END
+VER 3 0000000000000010 "翔龙在天" "INV_MISC_QUESTIONMARK"
+/cast 翔龙在天
+/y 降龙十八掌起手式，飞龙在天
+END
+VER 3 0000000000000001 "距离" "SPELL_NATURE_SWIFTNESS"
+/console cameraDistanceMaxFactor 2.6
+END
+VER 3 0000000000000012 "阿瑞纳尔" "SPELL_MISC_PETHEAL"
+/target 审讯者阿瑞纳尔
+/cast 爆发
+END
+VER 3 0000000000000004 "雕像" "132097"
+/target 灵魂雕像
+END
+VER 3 000000000000000B "风击" "INV_MISC_QUESTIONMARK"
+/cast 风领主之击
+/y 如来神掌
+END
+VER 3 000000000000000F "风火雷电" "INV_MISC_QUESTIONMARK"
+/cast 风火雷电
+/y 老二老三，削他
+END

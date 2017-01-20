@@ -1,0 +1,2701 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 168,
+		["interrupts"] = 0,
+		["damage"] = 7107,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "HUNTER",
+				["damaged"] = {
+				},
+				["auras"] = {
+				},
+				["dispells"] = 0,
+				["role"] = "NONE",
+				["time"] = 181,
+				["interrupts"] = 0,
+				["ffdamagedonetargets"] = {
+				},
+				["ffdamagedonespells"] = {
+				},
+				["ffdamagedone"] = 0,
+				["damage"] = 6200,
+				["damagespells"] = {
+					["眼镜蛇射击"] = {
+						["hitmin"] = 28,
+						["criticalamount"] = 856,
+						["max"] = 93,
+						["criticalmin"] = 57,
+						["critical"] = 11,
+						["min"] = 28,
+						["criticalmax"] = 93,
+						["hitmax"] = 54,
+						["hit"] = 75,
+						["totalhits"] = 86,
+						["hitamount"] = 2843,
+						["id"] = 193455,
+						["damage"] = 3699,
+					},
+					["自动射击"] = {
+						["hitmin"] = 21,
+						["criticalamount"] = 763,
+						["max"] = 65,
+						["hitmax"] = 31,
+						["hitamount"] = 1738,
+						["min"] = 21,
+						["criticalmax"] = 65,
+						["critical"] = 14,
+						["hit"] = 67,
+						["totalhits"] = 81,
+						["criticalmin"] = 42,
+						["id"] = 75,
+						["damage"] = 2501,
+					},
+				},
+				["power"] = {
+				},
+				["damagetaken"] = 94,
+				["deathlog"] = {
+					{
+						["ts"] = 1476549524.554,
+						["amount"] = -6,
+						["hp"] = 289,
+						["spellid"] = 88163,
+						["srcname"] = "被辐射的技师",
+					}, -- [1]
+					{
+						["ts"] = 1476549527.927,
+						["amount"] = -3,
+						["hp"] = 280,
+						["spellid"] = 84148,
+						["srcname"] = "被辐射的技师",
+					}, -- [2]
+					{
+						["ts"] = 1476549302.011,
+						["amount"] = -1,
+						["hp"] = 271,
+						["spellid"] = 87347,
+						["srcname"] = "石腭真菌投掷者",
+					}, -- [3]
+					{
+						["ts"] = 1476549304.949,
+						["amount"] = -1,
+						["hp"] = 270,
+						["spellid"] = 87347,
+						["srcname"] = "石腭真菌投掷者",
+					}, -- [4]
+					{
+						["ts"] = 1476549307.964,
+						["amount"] = -1,
+						["hp"] = 269,
+						["spellid"] = 87347,
+						["srcname"] = "石腭真菌投掷者",
+					}, -- [5]
+					{
+						["ts"] = 1476549310.956,
+						["amount"] = -1,
+						["hp"] = 268,
+						["spellid"] = 87347,
+						["srcname"] = "石腭真菌投掷者",
+					}, -- [6]
+					{
+						["ts"] = 1476549313.901,
+						["amount"] = -1,
+						["hp"] = 267,
+						["spellid"] = 87347,
+						["srcname"] = "石腭真菌投掷者",
+					}, -- [7]
+					{
+						["ts"] = 1476549317.598,
+						["amount"] = -5,
+						["hp"] = 262,
+						["spellid"] = 80944,
+						["srcname"] = "石腭真菌投掷者",
+					}, -- [8]
+					{
+						["ts"] = 1476549339.244,
+						["amount"] = -4,
+						["hp"] = 268,
+						["spellid"] = 80944,
+						["srcname"] = "石腭真菌投掷者",
+					}, -- [9]
+					{
+						["ts"] = 1476549340.104,
+						["amount"] = -1,
+						["hp"] = 267,
+						["spellid"] = 87347,
+						["srcname"] = "石腭真菌投掷者",
+					}, -- [10]
+					{
+						["ts"] = 1476549342.974,
+						["amount"] = -5,
+						["hp"] = 262,
+						["spellid"] = 80944,
+						["srcname"] = "石腭真菌投掷者",
+					}, -- [11]
+					{
+						["ts"] = 1476549343.152,
+						["amount"] = -1,
+						["hp"] = 261,
+						["spellid"] = 87347,
+						["srcname"] = "石腭真菌投掷者",
+					}, -- [12]
+					{
+						["ts"] = 1476549346.062,
+						["amount"] = -1,
+						["hp"] = 260,
+						["spellid"] = 87347,
+						["srcname"] = "石腭真菌投掷者",
+					}, -- [13]
+					{
+						["ts"] = 1476549356.058,
+						["amount"] = -1,
+						["hp"] = 271,
+						["spellid"] = 87347,
+						["srcname"] = "石腭真菌投掷者",
+					}, -- [14]
+					{
+						["ts"] = 1476549522.408,
+						["amount"] = -8,
+						["hp"] = 272,
+						["spellid"] = 88163,
+						["srcname"] = "被辐射的技师",
+					}, -- [15]
+					["pos"] = 3,
+				},
+				["id"] = "Player-916-037489A2",
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+					["棒击"] = {
+						["crushing"] = 0,
+						["id"] = 69851,
+						["min"] = 6,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "棒击",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 6,
+						["damage"] = 6,
+					},
+					["攻击"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 6,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "攻击",
+						["blocked"] = 0,
+						["totalhits"] = 4,
+						["resisted"] = 0,
+						["max"] = 8,
+						["damage"] = 26,
+					},
+					["辐射枪"] = {
+						["crushing"] = 0,
+						["id"] = 84148,
+						["min"] = 3,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "辐射枪",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 3,
+						["damage"] = 3,
+					},
+					["掷骨"] = {
+						["crushing"] = 0,
+						["id"] = 82625,
+						["min"] = 4,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "掷骨",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 4,
+						["damage"] = 4,
+					},
+					["有毒的蘑菇"] = {
+						["crushing"] = 0,
+						["id"] = 87347,
+						["min"] = 1,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "有毒的蘑菇",
+						["blocked"] = 0,
+						["totalhits"] = 9,
+						["resisted"] = 0,
+						["max"] = 1,
+						["damage"] = 9,
+					},
+					["丢掷蘑菇"] = {
+						["crushing"] = 0,
+						["id"] = 80944,
+						["min"] = 4,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "丢掷蘑菇",
+						["blocked"] = 0,
+						["totalhits"] = 4,
+						["resisted"] = 0,
+						["max"] = 5,
+						["damage"] = 18,
+					},
+					["剧毒残渣"] = {
+						["crushing"] = 0,
+						["id"] = 84150,
+						["min"] = 1,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "剧毒残渣",
+						["blocked"] = 0,
+						["totalhits"] = 12,
+						["resisted"] = 0,
+						["max"] = 5,
+						["damage"] = 28,
+					},
+				},
+				["overhealing"] = 0,
+				["healingspells"] = {
+				},
+				["name"] = "卡霸咯",
+				["shielding"] = 0,
+				["healing"] = 0,
+				["healed"] = {
+				},
+				["maxhp"] = 210,
+				["multistrikes"] = 0,
+			}, -- [1]
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "WARRIOR",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["低吼"] = {
+						["name"] = "低吼",
+						["active"] = 0,
+						["id"] = 2649,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 3,
+					},
+				},
+				["dispells"] = 0,
+				["role"] = "NONE",
+				["time"] = 158,
+				["interrupts"] = 0,
+				["ffdamagedonetargets"] = {
+				},
+				["ffdamagedonespells"] = {
+				},
+				["ffdamagedone"] = 0,
+				["damage"] = 907,
+				["damagespells"] = {
+					["杀戮命令"] = {
+						["hitmin"] = 10,
+						["criticalamount"] = 30,
+						["max"] = 30,
+						["criticalmin"] = 30,
+						["critical"] = 1,
+						["min"] = 10,
+						["criticalmax"] = 30,
+						["hitmax"] = 15,
+						["hit"] = 11,
+						["totalhits"] = 12,
+						["hitamount"] = 146,
+						["id"] = 83381,
+						["damage"] = 176,
+					},
+					["攻击"] = {
+						["hitmin"] = 7,
+						["criticalamount"] = 234,
+						["max"] = 17,
+						["criticalmin"] = 14,
+						["critical"] = 15,
+						["min"] = 7,
+						["criticalmax"] = 17,
+						["hitmax"] = 9,
+						["hit"] = 63,
+						["totalhits"] = 78,
+						["hitamount"] = 497,
+						["id"] = 6603,
+						["damage"] = 731,
+					},
+				},
+				["power"] = {
+				},
+				["damagetaken"] = 0,
+				["deathlog"] = {
+				},
+				["id"] = "Pet-0-3047-0-10352-76199-010192F04E",
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+				},
+				["overhealing"] = 0,
+				["healingspells"] = {
+				},
+				["name"] = "机械",
+				["shielding"] = 0,
+				["healing"] = 0,
+				["healed"] = {
+				},
+				["maxhp"] = 147,
+				["multistrikes"] = 0,
+			}, -- [2]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["被辐射的技师"] = {
+				["players"] = {
+					["机械"] = {
+						["taken"] = 121,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "WARRIOR",
+					},
+					["卡霸咯"] = {
+						["taken"] = 633,
+						["done"] = 17,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 754,
+				["done"] = 17,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["石腭拾骨者"] = {
+				["players"] = {
+					["机械"] = {
+						["taken"] = 38,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "WARRIOR",
+					},
+					["卡霸咯"] = {
+						["taken"] = 521,
+						["done"] = 4,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 559,
+				["done"] = 4,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["石腭真菌投掷者"] = {
+				["players"] = {
+					["机械"] = {
+						["taken"] = 212,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "WARRIOR",
+					},
+					["卡霸咯"] = {
+						["taken"] = 1196,
+						["done"] = 27,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1408,
+				["done"] = 27,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["毒性淤泥"] = {
+				["players"] = {
+					["机械"] = {
+						["taken"] = 78,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "WARRIOR",
+					},
+					["卡霸咯"] = {
+						["taken"] = 784,
+						["done"] = 28,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 862,
+				["done"] = 28,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["活体污染物"] = {
+				["players"] = {
+					["机械"] = {
+						["taken"] = 123,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "WARRIOR",
+					},
+					["卡霸咯"] = {
+						["taken"] = 922,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1045,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["石腭袭击者"] = {
+				["players"] = {
+					["机械"] = {
+						["taken"] = 160,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "WARRIOR",
+					},
+					["卡霸咯"] = {
+						["taken"] = 987,
+						["done"] = 18,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1147,
+				["done"] = 18,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["碎轮机动战士"] = {
+				["players"] = {
+					["机械"] = {
+						["taken"] = 80,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "WARRIOR",
+					},
+					["卡霸咯"] = {
+						["taken"] = 351,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 431,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["穴居人头目布鲁戈"] = {
+				["players"] = {
+					["机械"] = {
+						["taken"] = 46,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "WARRIOR",
+					},
+					["卡霸咯"] = {
+						["taken"] = 199,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 245,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["癫狂的麻疯侏儒"] = {
+				["players"] = {
+					["机械"] = {
+						["taken"] = 49,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "WARRIOR",
+					},
+					["卡霸咯"] = {
+						["taken"] = 607,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "HUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 656,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["shielding"] = 0,
+		["ffdamagedone"] = 0,
+		["healing"] = 0,
+		["power"] = {
+		},
+		["multistrikes"] = 0,
+		["overhealing"] = 0,
+		["starttime"] = 1476548299,
+		["name"] = "总体",
+		["damagetaken"] = 94,
+		["mobtaken"] = 7107,
+		["mobhdone"] = 0,
+		["last_action"] = 1476548299,
+		["mobdone"] = 94,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1476549548,
+			["damagetaken"] = 0,
+			["damage"] = 277,
+			["players"] = {
+				{
+					["last"] = 1476549546,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["被辐射的技师"] = 9,
+						["碎轮机动战士"] = 9,
+					},
+					["auras"] = {
+						["低吼"] = {
+							["name"] = "低吼",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 1,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 4,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 18,
+					["damagespells"] = {
+						["攻击"] = {
+							["hitmin"] = 9,
+							["max"] = 9,
+							["min"] = 9,
+							["hitmax"] = 9,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 18,
+							["id"] = 6603,
+							["damage"] = 18,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Pet-0-3047-0-10352-76199-010192F04E",
+					["first"] = 1476549542,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "机械",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 202,
+					["multistrikes"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1476549547,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["被辐射的技师"] = 119,
+						["碎轮机动战士"] = 140,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 5,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 259,
+					["damagespells"] = {
+						["眼镜蛇射击"] = {
+							["hitmin"] = 51,
+							["max"] = 54,
+							["min"] = 51,
+							["hitmax"] = 54,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 105,
+							["id"] = 193455,
+							["damage"] = 105,
+						},
+						["自动射击"] = {
+							["hitmin"] = 31,
+							["criticalamount"] = 123,
+							["max"] = 65,
+							["hitmax"] = 31,
+							["hitamount"] = 31,
+							["min"] = 31,
+							["criticalmax"] = 65,
+							["critical"] = 2,
+							["hit"] = 1,
+							["totalhits"] = 3,
+							["criticalmin"] = 58,
+							["id"] = 75,
+							["damage"] = 154,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037489A2",
+					["first"] = 1476549542,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "卡霸咯",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 289,
+					["multistrikes"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["被辐射的技师"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 9,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 119,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 128,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["碎轮机动战士"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 9,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 140,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 149,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["starttime"] = 1476549542,
+			["name"] = "被辐射的技师 (2)",
+			["mobname"] = "被辐射的技师",
+			["mobtaken"] = 277,
+			["mobhdone"] = 0,
+			["last_action"] = 1476549542,
+			["mobdone"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["endtime"] = 1476549530,
+			["damagetaken"] = 17,
+			["damage"] = 295,
+			["players"] = {
+				{
+					["last"] = 1476549528,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["被辐射的技师"] = 215,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 12,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 215,
+					["damagespells"] = {
+						["眼镜蛇射击"] = {
+							["hitmin"] = 44,
+							["max"] = 47,
+							["min"] = 44,
+							["hitmax"] = 47,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["hitamount"] = 135,
+							["id"] = 193455,
+							["damage"] = 135,
+						},
+						["自动射击"] = {
+							["hitmin"] = 22,
+							["max"] = 31,
+							["min"] = 22,
+							["hitmax"] = 31,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["hitamount"] = 80,
+							["id"] = 75,
+							["damage"] = 80,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 17,
+					["shielding"] = 0,
+					["id"] = "Player-916-037489A2",
+					["first"] = 1476549516,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["辐射枪"] = {
+							["crushing"] = 0,
+							["id"] = 84148,
+							["min"] = 3,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "辐射枪",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 3,
+							["damage"] = 3,
+						},
+						["攻击"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 6,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "攻击",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 8,
+							["damage"] = 14,
+						},
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "卡霸咯",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 272,
+					["multistrikes"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1476549528,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["被辐射的技师"] = 80,
+					},
+					["auras"] = {
+						["低吼"] = {
+							["name"] = "低吼",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 11,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 80,
+					["damagespells"] = {
+						["杀戮命令"] = {
+							["hitmin"] = 14,
+							["max"] = 14,
+							["min"] = 14,
+							["hitmax"] = 14,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 14,
+							["id"] = 83381,
+							["damage"] = 14,
+						},
+						["攻击"] = {
+							["hitmin"] = 8,
+							["criticalamount"] = 33,
+							["max"] = 17,
+							["criticalmin"] = 16,
+							["critical"] = 2,
+							["min"] = 8,
+							["criticalmax"] = 17,
+							["hitmax"] = 9,
+							["hit"] = 4,
+							["totalhits"] = 6,
+							["hitamount"] = 33,
+							["id"] = 6603,
+							["damage"] = 66,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Pet-0-3047-0-10352-76199-010192F04E",
+					["first"] = 1476549517,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "机械",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 190,
+					["multistrikes"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["被辐射的技师"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 80,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 215,
+							["done"] = 17,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 295,
+					["done"] = 17,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["starttime"] = 1476549515,
+			["name"] = "被辐射的技师",
+			["mobname"] = "被辐射的技师",
+			["mobtaken"] = 295,
+			["mobhdone"] = 0,
+			["last_action"] = 1476549515,
+			["mobdone"] = 17,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 14,
+			["interrupts"] = 0,
+			["endtime"] = 1476549513,
+			["damagetaken"] = 0,
+			["damage"] = 327,
+			["players"] = {
+				{
+					["last"] = 1476549512,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["碎轮机动战士"] = 92,
+						["被辐射的技师"] = 164,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 12,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 256,
+					["damagespells"] = {
+						["自动射击"] = {
+							["hitmin"] = 22,
+							["criticalamount"] = 51,
+							["max"] = 51,
+							["criticalmin"] = 51,
+							["critical"] = 1,
+							["min"] = 22,
+							["criticalmax"] = 51,
+							["hitmax"] = 26,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["hitamount"] = 48,
+							["id"] = 75,
+							["damage"] = 99,
+						},
+						["眼镜蛇射击"] = {
+							["hitmin"] = 38,
+							["criticalamount"] = 75,
+							["max"] = 75,
+							["criticalmin"] = 75,
+							["critical"] = 1,
+							["min"] = 38,
+							["criticalmax"] = 75,
+							["hitmax"] = 44,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["hitamount"] = 82,
+							["id"] = 193455,
+							["damage"] = 157,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037489A2",
+					["first"] = 1476549500,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "卡霸咯",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 272,
+					["multistrikes"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1476549512,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["碎轮机动战士"] = 63,
+						["被辐射的技师"] = 8,
+					},
+					["auras"] = {
+						["低吼"] = {
+							["name"] = "低吼",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 11,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 71,
+					["damagespells"] = {
+						["杀戮命令"] = {
+							["hitmin"] = 15,
+							["max"] = 15,
+							["min"] = 15,
+							["hitmax"] = 15,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 15,
+							["id"] = 83381,
+							["damage"] = 15,
+						},
+						["攻击"] = {
+							["hitmin"] = 8,
+							["criticalamount"] = 16,
+							["max"] = 16,
+							["hitmax"] = 8,
+							["hitamount"] = 40,
+							["min"] = 8,
+							["criticalmax"] = 16,
+							["critical"] = 1,
+							["hit"] = 5,
+							["totalhits"] = 6,
+							["criticalmin"] = 16,
+							["id"] = 6603,
+							["damage"] = 56,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Pet-0-3047-0-10352-76199-010192F04E",
+					["first"] = 1476549501,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "机械",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 190,
+					["multistrikes"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["碎轮机动战士"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 63,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 92,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 155,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["被辐射的技师"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 8,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 164,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 172,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["starttime"] = 1476549499,
+			["name"] = "碎轮机动战士",
+			["mobname"] = "碎轮机动战士",
+			["mobtaken"] = 327,
+			["mobhdone"] = 0,
+			["last_action"] = 1476549499,
+			["mobdone"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["endtime"] = 1476549346,
+			["damagetaken"] = 12,
+			["damage"] = 285,
+			["players"] = {
+				{
+					["last"] = 1476549346,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["石腭真菌投掷者"] = 245,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 10,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 245,
+					["damagespells"] = {
+						["眼镜蛇射击"] = {
+							["hitmin"] = 38,
+							["max"] = 47,
+							["min"] = 38,
+							["hitmax"] = 47,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["hitamount"] = 167,
+							["id"] = 193455,
+							["damage"] = 167,
+						},
+						["自动射击"] = {
+							["hitmin"] = 23,
+							["max"] = 30,
+							["min"] = 23,
+							["hitmax"] = 30,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["hitamount"] = 78,
+							["id"] = 75,
+							["damage"] = 78,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 12,
+					["shielding"] = 0,
+					["id"] = "Player-916-037489A2",
+					["first"] = 1476549336,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["丢掷蘑菇"] = {
+							["crushing"] = 0,
+							["id"] = 80944,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "丢掷蘑菇",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 5,
+							["damage"] = 9,
+						},
+						["有毒的蘑菇"] = {
+							["crushing"] = 0,
+							["id"] = 87347,
+							["min"] = 1,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "有毒的蘑菇",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 3,
+						},
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "卡霸咯",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 272,
+					["multistrikes"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1476549346,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["石腭真菌投掷者"] = 40,
+					},
+					["auras"] = {
+						["低吼"] = {
+							["name"] = "低吼",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 9,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 40,
+					["damagespells"] = {
+						["攻击"] = {
+							["hitmin"] = 8,
+							["criticalamount"] = 16,
+							["max"] = 16,
+							["criticalmin"] = 16,
+							["critical"] = 1,
+							["min"] = 8,
+							["criticalmax"] = 16,
+							["hitmax"] = 8,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["hitamount"] = 24,
+							["id"] = 6603,
+							["damage"] = 40,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Pet-0-3047-0-10352-76199-010192F04E",
+					["first"] = 1476549337,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "机械",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 190,
+					["multistrikes"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["石腭真菌投掷者"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 40,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 245,
+							["done"] = 12,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 285,
+					["done"] = 12,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["starttime"] = 1476549336,
+			["name"] = "石腭真菌投掷者 (4)",
+			["mobname"] = "石腭真菌投掷者",
+			["mobtaken"] = 285,
+			["mobhdone"] = 0,
+			["last_action"] = 1476549336,
+			["mobdone"] = 12,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 37,
+			["interrupts"] = 0,
+			["endtime"] = 1476549321,
+			["damagetaken"] = 10,
+			["damage"] = 653,
+			["players"] = {
+				{
+					["last"] = 1476549311,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["石腭真菌投掷者"] = 38,
+						["穴居人头目布鲁戈"] = 46,
+					},
+					["auras"] = {
+						["低吼"] = {
+							["name"] = "低吼",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 2,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 27,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 84,
+					["damagespells"] = {
+						["杀戮命令"] = {
+							["hitmin"] = 14,
+							["max"] = 14,
+							["min"] = 14,
+							["hitmax"] = 14,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 28,
+							["id"] = 83381,
+							["damage"] = 28,
+						},
+						["攻击"] = {
+							["hitmin"] = 8,
+							["criticalamount"] = 32,
+							["max"] = 16,
+							["hitmax"] = 8,
+							["hitamount"] = 24,
+							["min"] = 8,
+							["criticalmax"] = 16,
+							["critical"] = 2,
+							["hit"] = 3,
+							["totalhits"] = 5,
+							["criticalmin"] = 16,
+							["id"] = 6603,
+							["damage"] = 56,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Pet-0-3047-0-10352-76199-010192F04E",
+					["first"] = 1476549284,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "机械",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 190,
+					["multistrikes"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1476549318,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["石腭真菌投掷者"] = 370,
+						["穴居人头目布鲁戈"] = 199,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 34,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 569,
+					["damagespells"] = {
+						["眼镜蛇射击"] = {
+							["hitmin"] = 41,
+							["criticalamount"] = 91,
+							["max"] = 91,
+							["criticalmin"] = 91,
+							["critical"] = 1,
+							["min"] = 41,
+							["criticalmax"] = 91,
+							["hitmax"] = 46,
+							["hit"] = 5,
+							["totalhits"] = 6,
+							["hitamount"] = 215,
+							["id"] = 193455,
+							["damage"] = 306,
+						},
+						["自动射击"] = {
+							["hitmin"] = 23,
+							["criticalamount"] = 45,
+							["max"] = 45,
+							["criticalmin"] = 45,
+							["critical"] = 1,
+							["min"] = 23,
+							["criticalmax"] = 45,
+							["hitmax"] = 31,
+							["hit"] = 8,
+							["totalhits"] = 9,
+							["hitamount"] = 218,
+							["id"] = 75,
+							["damage"] = 263,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 10,
+					["shielding"] = 0,
+					["id"] = "Player-916-037489A2",
+					["first"] = 1476549284,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["有毒的蘑菇"] = {
+							["crushing"] = 0,
+							["id"] = 87347,
+							["min"] = 1,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "有毒的蘑菇",
+							["blocked"] = 0,
+							["totalhits"] = 5,
+							["resisted"] = 0,
+							["max"] = 1,
+							["damage"] = 5,
+						},
+						["丢掷蘑菇"] = {
+							["crushing"] = 0,
+							["id"] = 80944,
+							["min"] = 5,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "丢掷蘑菇",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 5,
+							["damage"] = 5,
+						},
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "卡霸咯",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 272,
+					["multistrikes"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["石腭真菌投掷者"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 38,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 370,
+							["done"] = 10,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 408,
+					["done"] = 10,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["穴居人头目布鲁戈"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 46,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 199,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 245,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["starttime"] = 1476549284,
+			["name"] = "石腭真菌投掷者 (3)",
+			["mobname"] = "石腭真菌投掷者",
+			["mobtaken"] = 653,
+			["mobhdone"] = 0,
+			["last_action"] = 1476549284,
+			["mobdone"] = 10,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1476549280,
+			["damagetaken"] = 0,
+			["damage"] = 145,
+			["players"] = {
+				{
+					["last"] = 1476549280,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["石腭真菌投掷者"] = 129,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 5,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 129,
+					["damagespells"] = {
+						["眼镜蛇射击"] = {
+							["hitmin"] = 46,
+							["max"] = 46,
+							["min"] = 46,
+							["hitmax"] = 46,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 46,
+							["id"] = 193455,
+							["damage"] = 46,
+						},
+						["自动射击"] = {
+							["hitmin"] = 25,
+							["max"] = 30,
+							["min"] = 25,
+							["hitmax"] = 30,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["hitamount"] = 83,
+							["id"] = 75,
+							["damage"] = 83,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037489A2",
+					["first"] = 1476549275,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "卡霸咯",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 272,
+					["multistrikes"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1476549278,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["石腭真菌投掷者"] = 16,
+					},
+					["auras"] = {
+						["低吼"] = {
+							["name"] = "低吼",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 3,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 16,
+					["damagespells"] = {
+						["攻击"] = {
+							["hitmin"] = 8,
+							["max"] = 8,
+							["min"] = 8,
+							["hitmax"] = 8,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 16,
+							["id"] = 6603,
+							["damage"] = 16,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Pet-0-3047-0-10352-76199-010192F04E",
+					["first"] = 1476549275,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "机械",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 190,
+					["multistrikes"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["石腭真菌投掷者"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 16,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 129,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 145,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["starttime"] = 1476549274,
+			["name"] = "石腭真菌投掷者 (2)",
+			["mobname"] = "石腭真菌投掷者",
+			["mobtaken"] = 145,
+			["mobhdone"] = 0,
+			["last_action"] = 1476549274,
+			["mobdone"] = 0,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1476549271,
+			["damagetaken"] = 4,
+			["damage"] = 301,
+			["players"] = {
+				{
+					["last"] = 1476549270,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["石腭真菌投掷者"] = 247,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 4,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 247,
+					["damagespells"] = {
+						["眼镜蛇射击"] = {
+							["hitmin"] = 42,
+							["criticalamount"] = 78,
+							["max"] = 78,
+							["hitmax"] = 43,
+							["hitamount"] = 85,
+							["min"] = 42,
+							["criticalmax"] = 78,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["criticalmin"] = 78,
+							["id"] = 193455,
+							["damage"] = 163,
+						},
+						["自动射击"] = {
+							["hitmin"] = 25,
+							["criticalamount"] = 59,
+							["max"] = 59,
+							["criticalmin"] = 59,
+							["critical"] = 1,
+							["min"] = 25,
+							["criticalmax"] = 59,
+							["hitmax"] = 25,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["hitamount"] = 25,
+							["id"] = 75,
+							["damage"] = 84,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 4,
+					["shielding"] = 0,
+					["id"] = "Player-916-037489A2",
+					["first"] = 1476549266,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["丢掷蘑菇"] = {
+							["crushing"] = 0,
+							["id"] = 80944,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "丢掷蘑菇",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 4,
+							["damage"] = 4,
+						},
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "卡霸咯",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 272,
+					["multistrikes"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1476549270,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["石腭真菌投掷者"] = 54,
+					},
+					["auras"] = {
+						["低吼"] = {
+							["name"] = "低吼",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 3,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 54,
+					["damagespells"] = {
+						["杀戮命令"] = {
+							["criticalamount"] = 30,
+							["max"] = 30,
+							["min"] = 30,
+							["criticalmax"] = 30,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["criticalmin"] = 30,
+							["id"] = 83381,
+							["damage"] = 30,
+						},
+						["攻击"] = {
+							["hitmin"] = 8,
+							["criticalamount"] = 16,
+							["max"] = 16,
+							["hitmax"] = 8,
+							["hitamount"] = 8,
+							["min"] = 8,
+							["criticalmax"] = 16,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["criticalmin"] = 16,
+							["id"] = 6603,
+							["damage"] = 24,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Pet-0-3047-0-10352-76199-010192F04E",
+					["first"] = 1476549267,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "机械",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 190,
+					["multistrikes"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["石腭真菌投掷者"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 54,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 247,
+							["done"] = 4,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 301,
+					["done"] = 4,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["starttime"] = 1476549265,
+			["name"] = "石腭真菌投掷者",
+			["mobname"] = "石腭真菌投掷者",
+			["mobtaken"] = 301,
+			["mobhdone"] = 0,
+			["last_action"] = 1476549265,
+			["mobdone"] = 4,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1476549212,
+			["damagetaken"] = 0,
+			["damage"] = 125,
+			["players"] = {
+				{
+					["last"] = 1476549207,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["石腭袭击者"] = 100,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 2,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 100,
+					["damagespells"] = {
+						["自动射击"] = {
+							["hitmin"] = 24,
+							["max"] = 24,
+							["min"] = 24,
+							["hitmax"] = 24,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 24,
+							["id"] = 75,
+							["damage"] = 24,
+						},
+						["眼镜蛇射击"] = {
+							["hitmin"] = 36,
+							["max"] = 40,
+							["min"] = 36,
+							["hitmax"] = 40,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 76,
+							["id"] = 193455,
+							["damage"] = 76,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037489A2",
+					["first"] = 1476549205,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "卡霸咯",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 272,
+					["multistrikes"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1476549210,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["石腭袭击者"] = 25,
+					},
+					["auras"] = {
+						["低吼"] = {
+							["name"] = "低吼",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 3,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 25,
+					["damagespells"] = {
+						["攻击"] = {
+							["hitmin"] = 8,
+							["max"] = 9,
+							["min"] = 8,
+							["hitmax"] = 9,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["hitamount"] = 25,
+							["id"] = 6603,
+							["damage"] = 25,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Pet-0-3047-0-10352-76199-010192F04E",
+					["first"] = 1476549207,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "机械",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 190,
+					["multistrikes"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["石腭袭击者"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 25,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 100,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 125,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["starttime"] = 1476549205,
+			["name"] = "石腭袭击者 (2)",
+			["mobname"] = "石腭袭击者",
+			["mobtaken"] = 125,
+			["mobhdone"] = 0,
+			["last_action"] = 1476549205,
+			["mobdone"] = 0,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 14,
+			["interrupts"] = 0,
+			["endtime"] = 1476549193,
+			["damagetaken"] = 0,
+			["damage"] = 345,
+			["players"] = {
+				{
+					["last"] = 1476549191,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["石腭拾骨者"] = 139,
+						["石腭袭击者"] = 164,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 12,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 303,
+					["damagespells"] = {
+						["眼镜蛇射击"] = {
+							["hitmin"] = 35,
+							["criticalamount"] = 87,
+							["max"] = 87,
+							["criticalmin"] = 87,
+							["critical"] = 1,
+							["min"] = 35,
+							["criticalmax"] = 87,
+							["hitmax"] = 43,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["hitamount"] = 114,
+							["id"] = 193455,
+							["damage"] = 201,
+						},
+						["自动射击"] = {
+							["hitmin"] = 23,
+							["max"] = 29,
+							["min"] = 23,
+							["hitmax"] = 29,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["hitamount"] = 102,
+							["id"] = 75,
+							["damage"] = 102,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037489A2",
+					["first"] = 1476549179,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "卡霸咯",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 272,
+					["multistrikes"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1476549191,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["石腭袭击者"] = 42,
+					},
+					["auras"] = {
+						["低吼"] = {
+							["name"] = "低吼",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 11,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 42,
+					["damagespells"] = {
+						["攻击"] = {
+							["hitmin"] = 8,
+							["criticalamount"] = 17,
+							["max"] = 17,
+							["criticalmin"] = 17,
+							["critical"] = 1,
+							["min"] = 8,
+							["criticalmax"] = 17,
+							["hitmax"] = 9,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["hitamount"] = 25,
+							["id"] = 6603,
+							["damage"] = 42,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Pet-0-3047-0-10352-76199-010192F04E",
+					["first"] = 1476549180,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "机械",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 190,
+					["multistrikes"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["石腭拾骨者"] = {
+					["players"] = {
+						["卡霸咯"] = {
+							["taken"] = 139,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 139,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["石腭袭击者"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 42,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 164,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 206,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["starttime"] = 1476549179,
+			["name"] = "石腭袭击者",
+			["mobname"] = "石腭袭击者",
+			["mobtaken"] = 345,
+			["mobhdone"] = 0,
+			["last_action"] = 1476549179,
+			["mobdone"] = 0,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 12,
+			["interrupts"] = 0,
+			["endtime"] = 1476549147,
+			["damagetaken"] = 16,
+			["damage"] = 256,
+			["players"] = {
+				{
+					["last"] = 1476549146,
+					["healingabsorbed"] = 0,
+					["class"] = "HUNTER",
+					["damaged"] = {
+						["石腭袭击者"] = 98,
+						["石腭拾骨者"] = 118,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["time"] = 11,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 216,
+					["damagespells"] = {
+						["眼镜蛇射击"] = {
+							["hitmin"] = 31,
+							["max"] = 40,
+							["min"] = 31,
+							["hitmax"] = 40,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["hitamount"] = 105,
+							["id"] = 193455,
+							["damage"] = 105,
+						},
+						["自动射击"] = {
+							["hitmin"] = 21,
+							["max"] = 24,
+							["min"] = 21,
+							["hitmax"] = 24,
+							["hit"] = 5,
+							["totalhits"] = 5,
+							["hitamount"] = 111,
+							["id"] = 75,
+							["damage"] = 111,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 16,
+					["shielding"] = 0,
+					["id"] = "Player-916-037489A2",
+					["first"] = 1476549135,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+						["掷骨"] = {
+							["crushing"] = 0,
+							["id"] = 82625,
+							["min"] = 4,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "掷骨",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 4,
+							["damage"] = 4,
+						},
+						["攻击"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 6,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "攻击",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 6,
+							["damage"] = 6,
+						},
+						["棒击"] = {
+							["crushing"] = 0,
+							["id"] = 69851,
+							["min"] = 6,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "棒击",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 6,
+							["damage"] = 6,
+						},
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "卡霸咯",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 240,
+					["multistrikes"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1476549144,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["石腭袭击者"] = 24,
+						["石腭拾骨者"] = 16,
+					},
+					["auras"] = {
+						["低吼"] = {
+							["name"] = "低吼",
+							["active"] = 0,
+							["id"] = 2649,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 6,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damage"] = 40,
+					["damagespells"] = {
+						["杀戮命令"] = {
+							["hitmin"] = 10,
+							["max"] = 10,
+							["min"] = 10,
+							["hitmax"] = 10,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 10,
+							["id"] = 83381,
+							["damage"] = 10,
+						},
+						["攻击"] = {
+							["hitmin"] = 7,
+							["max"] = 8,
+							["min"] = 7,
+							["hitmax"] = 8,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["hitamount"] = 30,
+							["id"] = 6603,
+							["damage"] = 30,
+						},
+					},
+					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Pet-0-3047-0-10352-76199-010192F04E",
+					["first"] = 1476549138,
+					["power"] = {
+					},
+					["damagetakenspells"] = {
+					},
+					["ccbreaks"] = 0,
+					["overhealing"] = 0,
+					["name"] = "机械",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 168,
+					["multistrikes"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["石腭袭击者"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 24,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 98,
+							["done"] = 12,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 122,
+					["done"] = 12,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["石腭拾骨者"] = {
+					["players"] = {
+						["机械"] = {
+							["taken"] = 16,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+						["卡霸咯"] = {
+							["taken"] = 118,
+							["done"] = 4,
+							["role"] = "NONE",
+							["class"] = "HUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 134,
+					["done"] = 4,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["ffdamagedone"] = 0,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["starttime"] = 1476549135,
+			["name"] = "石腭拾骨者",
+			["mobname"] = "石腭拾骨者",
+			["mobtaken"] = 256,
+			["mobhdone"] = 0,
+			["last_action"] = 1476549135,
+			["mobdone"] = 16,
+		}, -- [10]
+	},
+}

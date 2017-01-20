@@ -1,0 +1,77 @@
+VER 3 000000000000000B "111" "INV_MISC_QUESTIONMARK"
+/script SetCVar("cameraDistanceMax", 50)
+  
+END
+VER 3 000000000000000A "a" "INV_MISC_QUESTIONMARK"
+/run frm = CreateFrame("PlayerModel");frm:SetPoint("BOTTOMRIGHT",nil,"BOTTOMRIGHT",0,100);frm:SetHeight(600);frm:SetWidth(300);frm:RegisterEvent("PLAYER_TARGET_CHANGED");frm:SetScript("OnEvent",function(self,event,...) frm:SetUnit("target") end);
+END
+VER 3 0000000000000001 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 0000000000000007 "BF_Pet" "achievement_worldevent_brewmaster"
+/BFPET
+END
+VER 3 000000000000000C "Decursive" "SPELL_MISC_PETHEAL"
+/script SetRaidTarget("mouseover",2)
+END
+VER 3 000000000000000F "下跪" "INV_ENCHANT_SHARDBRILLIANTSMALL"
+/下跪
+END
+VER 3 000000000000000E "啾啾" "SPELL_MISC_PETHEAL"
+/下跪
+END
+VER 3 0000000000000006 "幻化" "ABILITY_DUALWIELD"
+/目标 芬罗斯
+/目标 鲁伯斯
+/目标 纳拉克西斯
+/目标 伊夫卡尔
+/目标 安提里奥斯
+/目标 长者莫诺斯
+END
+VER 3 0000000000000009 "水上行走" "INV_MISC_QUESTIONMARK"
+/目标  影声
+/cast 水上行走
+END
+VER 3 0000000000000002 "目光" "INV_Misc_Gem_Diamond_01"
+/click ExtraActionButton1
+END
+VER 3 0000000000000008 "目标" "ABILITY_SHOOTWAND"
+/目标 泥沼鳄鱼
+/目标 阿曼尼散兵
+/目标 銹水工兵
+/目标 夏克提克
+/目标 铁木贾将军
+/目标 阵亡的神盾士兵
+/目标 末日预言者
+END
+VER 3 0000000000000003 "目标" "INV_Misc_ShadowEgg"
+/目标 损坏的坦克
+/目标 运河蟹
+/目标 顿沃德受害者
+/目标 佩波
+/目标 搜寻者迪亚索鲁斯
+/目标 克拉格·摇塞
+/目标 棉花的眼睛
+/目标 动力保安装甲
+/目标 施法者克星X-21
+/目标 群体打击者9-60
+/目标 萨雷维
+/目标 风险投资公司雇工
+/target 裂木沼泽兽
+/target 北方保镖
+/target 巴伯亚
+/target 无赖蛙
+/target 淤泥畸体
+/target 督军克罗姆扎
+/target 灰雾战士
+/target 狂暴暗礁蟹
+/target 鲸鲨
+END
+VER 3 0000000000000005 "羊" "INV_MISC_QUESTIONMARK"
+/target 缠绕触须
+/cast 烈焰震击
+/startattack
+END
+VER 3 000000000000000D "视角" "INV_MISC_QUESTIONMARK"
+/script SetCVar("cameraDistanceMax", 50) 
+END

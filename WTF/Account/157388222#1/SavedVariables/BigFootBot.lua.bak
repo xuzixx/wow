@@ -1,0 +1,136 @@
+
+ItemSourceDB = {
+}
+ObjectLocationDB = {
+}
+CreatureLocationDB = {
+}
+CreatureDB = {
+}
+QuestDB = {
+}
+QuestCompleteDB = {
+}
+QuestEventDB = {
+}
+SkillSourceDB = {
+}
+BigFootBot_Version = {
+}
+BigFootBot_Info = nil
+PlayersDB = {
+	["和酒丶以笙歌:暗影之月"] = {
+		["race"] = 7,
+		["name"] = "和酒丶以笙歌",
+		["guild"] = "Deep Breathing",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 5,
+		["server"] = "暗影之月",
+	},
+	["风行任我行:暗影之月"] = {
+		["race"] = 7,
+		["name"] = "风行任我行",
+		["guild"] = "蓝月军团",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 12,
+		["server"] = "暗影之月",
+	},
+	["杀戮无常:暗影之月"] = {
+		["race"] = 11,
+		["name"] = "杀戮无常",
+		["guild"] = "浅末丶浮生",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 2,
+		["server"] = "暗影之月",
+	},
+	["光之恋:暗影之月"] = {
+		["race"] = 6,
+		["name"] = "光之恋",
+		["guild"] = "战魂",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 3,
+		["server"] = "暗影之月",
+	},
+	["羽化為風:暗影之月"] = {
+		["race"] = 7,
+		["name"] = "羽化為風",
+		["guild"] = "世界的尽头其实并不遥远",
+		["level"] = 110,
+		["gender"] = 3,
+		["class"] = 12,
+		["server"] = "暗影之月",
+	},
+	["王丶橙色風暴:暗影之月"] = {
+		["race"] = 9,
+		["name"] = "王丶橙色風暴",
+		["guild"] = "Sunshine",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 2,
+		["server"] = "暗影之月",
+	},
+	["爱熙:暗影之月"] = {
+		["race"] = 6,
+		["name"] = "爱熙",
+		["guild"] = "紫雲",
+		["level"] = 110,
+		["gender"] = 2,
+		["class"] = 7,
+		["server"] = "暗影之月",
+	},
+	["Xlol:暗影之月"] = {
+		["race"] = 6,
+		["name"] = "Xlol",
+		["guild"] = "Heart beat",
+		["level"] = 100,
+		["gender"] = 3,
+		["class"] = 5,
+		["server"] = "暗影之月",
+	},
+}
+UtilDB = {
+}
+NPCMarkCollectionDB = {
+}
+BigFootBot_collectData = {
+	["CombatBattlePetData"] = {
+	},
+	["BigFootBank_Data"] = {
+		["Items"] = {
+			["猫笼（灰猫）"] = {
+				["marketID"] = 14,
+				["link"] = "|cffffffff|Hitem:8485::::::::110:63::15::::|h[猫笼（灰猫）]|h|r",
+				["itemType"] = "宠物小伙伴",
+				["sellerName"] = "巨魔仆从伍迪",
+				["currBid"] = 1100000,
+				["level"] = 1,
+				["numBids"] = 5,
+				["levelType"] = "REQ_LEVEL_ABBR",
+				["quantity"] = 1,
+				["name"] = "猫笼（灰猫）",
+				["minBid"] = 1160000,
+				["minIncrement"] = 60000,
+				["usable"] = true,
+				["timeLeft"] = 0,
+				["texture"] = 132599,
+			},
+		},
+		["numItems"] = 1,
+		["time"] = "2016-12-13-22-18",
+		["server"] = "暗影之月",
+	},
+	["WildBattlePetData"] = {
+	},
+}
+SpamChatDB = {
+	[1481649969] = {
+		["name"] = "玉桁的奶骑",
+		["content"] = "来2-3层噬魂，钥匙宝宝 4=1，你来就发车",
+	},
+	["factionGroup"] = "Alliance",
+	["realm"] = "暗影之月",
+}

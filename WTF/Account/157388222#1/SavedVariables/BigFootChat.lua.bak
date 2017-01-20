@@ -1,0 +1,17 @@
+
+BFCDB = {
+	["namespaces"] = {
+		["CHATFRAME"] = {
+		},
+		["ICONFRAME"] = {
+		},
+	},
+	["profileKeys"] = {
+		["风追月 - 暗影之月"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+BFCSystemCacheDB = nil

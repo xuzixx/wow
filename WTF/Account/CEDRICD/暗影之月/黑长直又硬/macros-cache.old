@@ -1,0 +1,14 @@
+VER 3 0100000000000003 "wq神器技能" "INV_MISC_QUESTIONMARK"
+#show 灭战者
+/cast 战吼
+/cast 灭战者
+END
+VER 3 0100000000000001 "战吼" "INV_MISC_QUESTIONMARK"
+#show 致死打击
+/cast 战吼
+/cast 致死打击
+END
+VER 3 0100000000000002 "顺劈旋风" "INV_MISC_QUESTIONMARK"
+#show 旋风斩
+/castsequence reset=3 顺劈斩,旋风斩,旋风斩,旋风斩
+END

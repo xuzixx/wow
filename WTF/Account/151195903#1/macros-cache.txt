@@ -1,0 +1,18 @@
+VER 3 0000000000000005 "111" "SPELL_MISC_PETHEAL"
+/click ExtraActionButton1
+END
+VER 3 0000000000000006 "222" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/click ExtraActionButton2
+END
+VER 3 0000000000000001 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 0000000000000002 "BF_Pet" "achievement_worldevent_brewmaster"
+/BFPET
+END
+VER 3 0000000000000004 "target" "SPELL_MAGIC_MANAGAIN"
+/script SetRaidTarget("mouseover",2)
+END
+VER 3 0000000000000003 "跪下" "SPELL_MISC_PETHEAL"
+/下跪
+END

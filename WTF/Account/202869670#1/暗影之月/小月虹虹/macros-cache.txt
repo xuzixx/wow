@@ -1,0 +1,9 @@
+VER 3 0100000000000001 "误导JZ" "ABILITY_HUNTER_MISDIRECTION"
+#showtooltip 误导 
+/施放 [target=focus,help][help][target=targettarget,help][target=pet]误导 
+END
+VER 3 0100000000000002 "误导弹幕" "ABILITY_HUNTER_RAPIDREGENERATION"
+#showtooltip 弹幕射击
+/cast [target=focus,help][help][target=targettarget,help][target=pet]误导 
+/cast 弹幕射击
+END

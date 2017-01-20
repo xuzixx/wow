@@ -1,0 +1,17 @@
+
+COLLECTOR_DB = {
+	["global"] = {
+		["firstLogin"] = false,
+		["realmFeed"] = {
+			["卡珊德拉"] = {
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Smxx - 暗影之月"] = "Smxx - 暗影之月",
+	},
+	["profiles"] = {
+		["Smxx - 暗影之月"] = {
+		},
+	},
+}

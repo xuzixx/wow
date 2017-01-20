@@ -1,0 +1,17 @@
+
+COLLECTOR_DB = {
+	["global"] = {
+		["firstLogin"] = false,
+		["realmFeed"] = {
+			["卡珊德拉"] = {
+			},
+		},
+	},
+	["profileKeys"] = {
+		["风追月 - 暗影之月"] = "风追月 - 暗影之月",
+	},
+	["profiles"] = {
+		["风追月 - 暗影之月"] = {
+		},
+	},
+}

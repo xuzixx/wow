@@ -1,0 +1,16 @@
+VER 3 0000000000000001 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 0000000000000002 "BF_Pet" "achievement_worldevent_brewmaster"
+/2 35万金=200,唯一QQ：68853826
+/2 承接1-90级，急速冲级85-90 1天完成,诚心联系QQ：68853826
+/2 纯血火鹰180元当天交付/纯血火鹰+成就鹰200元,联系QQ：68853826
+/2 特殊成就(博学者),声望(影踪派,金莲教,至尊天神),联系QQ：68853826
+/2 509\503\516\装备,九大声望等,有需要请联系QQ：68853826
+END
+VER 3 0000000000000004 "target" "INV_SWORD_04"
+/target 加洛德·影歌
+END
+VER 3 0000000000000003 "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AddOnList version="1.0" url="http://wowui.178.com/" purl="http://wowui.178.com/">
+    <AddOn displayName="RelicInspector神器圣物加成显示" img="/data/wow/839/ui_logo.jpg" info="ui/839" name="RelicInspector神器圣物加成显示" package="down/839/11823/RelicInspector-1.11_.4_.zip" update="2017-01-17" version="1.11.4" />
+</AddOnList>

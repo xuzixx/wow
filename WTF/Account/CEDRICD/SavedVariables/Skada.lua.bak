@@ -1,0 +1,26 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["也爹拥簇者 - 暗影之月"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["ffoptions"] = {
+				["ignoredefensive"] = true,
+				["ignoreability"] = false,
+			},
+			["windows"] = {
+				{
+					["y"] = 61.0000915527344,
+					["mode"] = "伤害",
+					["point"] = "LEFT",
+					["x"] = 26.9999847412109,
+				}, -- [1]
+			},
+		},
+	},
+}

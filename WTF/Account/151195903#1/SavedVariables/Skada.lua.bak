@@ -1,0 +1,25 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Smxx - 暗影之月"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["ffoptions"] = {
+				["ignoredefensive"] = true,
+				["ignoreability"] = false,
+			},
+			["windows"] = {
+				{
+					["y"] = 39.0000762939453,
+					["point"] = "LEFT",
+					["x"] = 41.4999694824219,
+				}, -- [1]
+			},
+		},
+	},
+}

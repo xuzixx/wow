@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Dadanion - 石爪峰"] = "Dadanion - 石爪峰",
+	},
+	["profiles"] = {
+		["Dadanion - 石爪峰"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Dadanion - 石爪峰"] = "Dadanion - 石爪峰",
+	},
+	["profiles"] = {
+		["Dadanion - 石爪峰"] = {
+		},
+	},
+}

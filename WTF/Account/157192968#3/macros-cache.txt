@@ -1,0 +1,16 @@
+VER 3 0000000000000002 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 0000000000000003 "BF_Pet" "achievement_worldevent_brewmaster"
+/BFPET
+END
+VER 3 0000000000000004 "Decursive" "1"
+/stopcasting
+/cast [@mouseover,nomod,exists] 清洁术;  [@mouseover,exists,mod:ctrl] 清洁术; [@mouseover,exists,mod:shift] 清洁术
+END
+VER 3 0000000000000001 "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END
+VER 3 0000000000000005 "大饼" "SPELL_MISC_PETHEAL"
+/script SetRaidTarget("mouseover",2)
+END

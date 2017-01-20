@@ -1,0 +1,15 @@
+VER 3 0000000000000003 "a" "INV_MISC_QUESTIONMARK"
+/cleartarget
+/target 斯特拉瑞斯纨绔
+END
+VER 3 0000000000000002 "BF_Pet" "achievement_worldevent_brewmaster"
+/BFPET
+END
+VER 3 0000000000000004 "战吼致死" "WARRIOR_TALENT_ICON_INNERRAGE"
+#show 致死打击
+/cast 战吼
+/cast 致死打击
+END
+VER 3 0000000000000001 "水晶球" "INV_MISC_QUESTIONMARK"
+/run local t={["1"]=43730,["2"]=43731,["3"]=43732, ["4"]=43733, ["5"]=43734, ["6"]=43735, ["7"]=43736, ["8"]=43737, ["9"]=43760, ["10"]=43761} for k,v in pairs(t) do print(k,IsQuestFlaggedCompleted(v) and "已完成" or "未完成") end
+END

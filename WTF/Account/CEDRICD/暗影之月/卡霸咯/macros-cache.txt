@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "误导" "INV_MISC_QUESTIONMARK"
+#show 误导
+/cast [target=focus,help,nodead] 误导
+END

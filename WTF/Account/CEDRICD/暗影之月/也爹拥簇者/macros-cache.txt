@@ -1,0 +1,5 @@
+VER 3 0100000000000001 "横扫" "INV_MISC_QUESTIONMARK"
+#show 横扫
+/use 黑暗前途指环
+/cast 横扫
+END

@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["也爹拥簇者 - 暗影之月"] = "也爹拥簇者 - 暗影之月",
+	},
+	["profiles"] = {
+		["也爹拥簇者 - 暗影之月"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["也爹拥簇者 - 暗影之月"] = "也爹拥簇者 - 暗影之月",
+	},
+	["profiles"] = {
+		["也爹拥簇者 - 暗影之月"] = {
+		},
+	},
+}

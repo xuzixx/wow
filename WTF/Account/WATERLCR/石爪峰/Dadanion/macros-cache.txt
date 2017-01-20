@@ -1,0 +1,51 @@
+VER 3 0100000000000006 "#" "INV_Misc_QuestionMark"
+/use 10
+/施放 恶魔变形
+/USE 13
+/USE 14
+/施放 血性狂怒(种族特长)
+END
+VER 3 0100000000000007 "..." "INV_Misc_QuestionMark"
+/cast 浴血冰霜征服者
+/cast 恐惧战马
+END
+VER 3 0100000000000004 "..." "INV_Misc_QuestionMark"
+#showtooltip 暗影箭
+/cast 暗影箭
+/cast 恶魔增效
+/use 10
+END
+VER 3 0100000000000001 "roll" "Ability_Creature_Cursed_04"
+/roll
+END
+VER 3 0100000000000009 "火箭" "INV_Misc_QuestionMark"
+/USE 8
+END
+VER 3 0100000000000002 "灵魂火" "INV_Misc_QuestionMark"
+#showtooltip 灵魂之火
+/cast  灵魂之火(等级 6)
+/cast  恶魔增效
+/cast  血性狂怒(种族特长)
+/use  10
+END
+VER 3 0100000000000005 "烧尽" "INV_Misc_QuestionMark"
+#showtooltip 烧尽
+/cast  烧尽(等级 4)
+/cast  恶魔增效
+/cast  血性狂怒(种族特长)
+/use  10
+END
+VER 3 0100000000000003 "献祭" "INV_Misc_QuestionMark"
+#showtooltip 献祭
+/cast  献祭(等级 11)
+/cast  恶魔增效
+/cast  血性狂怒(种族特长)
+/use  10
+END
+VER 3 0100000000000008 "腐蚀" "INV_Misc_QuestionMark"
+#showtooltip 腐蚀术
+/cast 腐蚀术(等级 10)
+/cast  恶魔增效
+/cast  血性狂怒(种族特长)
+/use  10
+END

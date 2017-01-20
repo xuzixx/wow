@@ -1,0 +1,48 @@
+VER 3 0100000000000005 "DB_DemoAoE" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_DemoAoE
+END
+VER 3 0100000000000006 "DB_Demon" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_Demon
+END
+VER 3 0100000000000007 "DB_DemoSingle" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click DB_DemoSingle
+END
+VER 3 0100000000000002 "古尔丹之手" "INV_MISC_QUESTIONMARK"
+#showtooltip 古尔丹之手
+/cast 古尔丹之手
+/petattack
+END
+VER 3 0100000000000003 "巨斧投掷" "INV_MISC_QUESTIONMARK"
+#showtooltip 巨斧投掷
+/cast 巨斧投掷
+END
+VER 3 0100000000000009 "恶魔箭" "INV_MISC_QUESTIONMARK"
+#showtooltip 恶魔之箭
+/cast 恶魔之箭
+/petattack
+END
+VER 3 0100000000000008 "浩劫" "INV_MISC_QUESTIONMARK"
+#showtooltip 浩劫
+/cast [@focus]浩劫
+END
+VER 3 0100000000000004 "灵魂碎片" "136160"
+/run WarlockPowerFrame:ClearAllPoints()
+/run WarlockPowerFrame:SetPoint("CENTER", UIParent, "CENTER", 0, -104)
+/run WarlockPowerFrame:SetScale(1)
+/run WarlockPowerFrame:SetAlpha(1.5) 
+END
+VER 3 0100000000000001 "第二" "INV_MISC_QUESTIONMARK"
+/run WarlockPowerFrame:ClearAllPoints()
+/run WarlockPowerFrame:SetPoint("CENTER", UIParent, "CENTER", 0, -180)
+/run WarlockPowerFrame:SetScale(1.1)
+/run WarlockPowerFrame:SetAlpha(0.8)
+END
+VER 3 010000000000000A "萨奇尔的消耗" "INV_MISC_QUESTIONMARK"
+#showtooltip 萨奇尔的消耗
+/施放 萨奇尔的消耗(神器)
+/petattack
+/use 黑暗前途指环
+END

@@ -1,0 +1,188 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["Smxx - 暗影之月"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["AlertTutorialStep"] = 5,
+			["GotTutorial"] = true,
+			["quests_tracked"] = {
+				["Player-916-0370C788"] = {
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-916-0370C788"] = {
+					[42022] = {
+						["expireAt"] = 1480093283,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = 237014,
+					},
+					[42274] = {
+						["expireAt"] = 1480071683,
+						["rewardAmount"] = 5550,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[43453] = {
+						["expireAt"] = 1480071683,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = 1360002,
+					},
+					[43764] = {
+						["expireAt"] = 1480114883,
+						["rewardAmount"] = 7400,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42620] = {
+						["expireAt"] = 1480114898,
+						["rewardAmount"] = 7400,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[43459] = {
+						["expireAt"] = 1480136483,
+						["rewardAmount"] = 7950,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[44856] = {
+						["expireAt"] = 1480114823,
+						["rewardAmount"] = 6500,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[39462] = {
+						["expireAt"] = 1480136423,
+						["rewardAmount"] = "2",
+						["rewardTexture"] = 1417744,
+					},
+					[41602] = {
+						["expireAt"] = 1480071683,
+						["rewardAmount"] = "20",
+						["rewardTexture"] = 1387376,
+					},
+					[43804] = {
+						["expireAt"] = 1480114883,
+						["rewardAmount"] = 17200,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41948] = {
+						["expireAt"] = 1480114883,
+						["rewardAmount"] = "4",
+						["rewardTexture"] = 1045109,
+					},
+					[45046] = {
+						["expireAt"] = 1480309283,
+						["rewardAmount"] = 7400,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[44892] = {
+						["expireAt"] = 1480114883,
+						["rewardAmount"] = "1",
+						["rewardTexture"] = 1417744,
+					},
+					[41421] = {
+						["expireAt"] = 1480114823,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = 1339442,
+					},
+					[44894] = {
+						["expireAt"] = 1480244483,
+						["rewardAmount"] = 12950,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42880] = {
+						["expireAt"] = 1480114838,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = 1137678,
+					},
+					[41949] = {
+						["expireAt"] = 1480132103,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = 135551,
+					},
+					[44799] = {
+						["expireAt"] = 1480114838,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = 1137681,
+					},
+					[43943] = {
+						["expireAt"] = 1480114838,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1409002,
+					},
+					[44033] = {
+						["expireAt"] = 1480136423,
+						["rewardAmount"] = 9050,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[40282] = {
+						["expireAt"] = 1480114883,
+						["rewardAmount"] = 3700,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42150] = {
+						["expireAt"] = 1480093223,
+						["rewardAmount"] = 6500,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42764] = {
+						["expireAt"] = 1480287683,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = 1360042,
+					},
+					[41308] = {
+						["expireAt"] = 1480114823,
+						["rewardAmount"] = 6650,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41699] = {
+						["expireAt"] = 1480093223,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = 1325258,
+					},
+				},
+			},
+			["TutorialTaxyMap"] = true,
+			["taxy_showquests"] = false,
+			["player_names"] = {
+				["Player-916-0370C788"] = {
+					["class"] = "SHAMAN",
+					["name"] = "Smxx",
+					["realm"] = "暗影之月",
+				},
+			},
+			["history"] = {
+				["period"] = {
+					["global"] = {
+						["161125"] = {
+							["quest"] = 1,
+						},
+					},
+					["character"] = {
+						["Player-916-0370C788"] = {
+							["161125"] = {
+								["quest"] = 1,
+							},
+						},
+					},
+				},
+				["quest"] = {
+					["global"] = {
+						[43762] = 1,
+						["total"] = 1,
+					},
+					["character"] = {
+						["Player-916-0370C788"] = {
+							[43762] = 1,
+							["total"] = 1,
+						},
+					},
+				},
+				["reward"] = {
+					["character"] = {
+						["Player-916-0370C788"] = {
+						},
+					},
+				},
+			},
+		},
+	},
+}

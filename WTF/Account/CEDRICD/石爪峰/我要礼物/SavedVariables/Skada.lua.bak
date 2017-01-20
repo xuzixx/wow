@@ -1,0 +1,174 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 0,
+		["interrupts"] = 0,
+		["damage"] = 216938,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "WARRIOR",
+				["damaged"] = {
+				},
+				["auras"] = {
+				},
+				["dispells"] = 0,
+				["role"] = "DAMAGER",
+				["time"] = 0,
+				["interrupts"] = 0,
+				["ffdamagedonetargets"] = {
+				},
+				["ffdamagedonespells"] = {
+				},
+				["ffdamagedone"] = 0,
+				["damage"] = 0,
+				["damagespells"] = {
+				},
+				["power"] = {
+					{
+						["amount"] = 1,
+						["spells"] = {
+							[173401] = 1,
+						},
+					}, -- [1]
+				},
+				["damagetaken"] = 7,
+				["deathlog"] = {
+					{
+						["ts"] = 1475295009.559,
+						["amount"] = -7,
+						["hp"] = 540,
+						["spellid"] = 88163,
+						["srcname"] = "狗头人隧道工",
+					}, -- [1]
+					["pos"] = 2,
+				},
+				["id"] = "Player-1483-0283090E",
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+					["攻击"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["min"] = 7,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "攻击",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 7,
+						["damage"] = 7,
+					},
+				},
+				["overhealing"] = 0,
+				["healingspells"] = {
+				},
+				["name"] = "我要礼物",
+				["shielding"] = 0,
+				["healing"] = 0,
+				["healed"] = {
+				},
+				["maxhp"] = 540,
+				["multistrikes"] = 0,
+			}, -- [1]
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "PRIEST",
+				["damaged"] = {
+				},
+				["auras"] = {
+				},
+				["dispells"] = 0,
+				["role"] = "HEALER",
+				["time"] = 0,
+				["interrupts"] = 0,
+				["ffdamagedonetargets"] = {
+				},
+				["ffdamagedonespells"] = {
+				},
+				["ffdamagedone"] = 0,
+				["damage"] = 216938,
+				["damagespells"] = {
+					["神圣新星"] = {
+						["hitmin"] = 216938,
+						["max"] = 216938,
+						["min"] = 216938,
+						["hitmax"] = 216938,
+						["hit"] = 1,
+						["totalhits"] = 1,
+						["hitamount"] = 216938,
+						["id"] = 132157,
+						["damage"] = 216938,
+					},
+				},
+				["power"] = {
+				},
+				["damagetaken"] = 0,
+				["deathlog"] = {
+				},
+				["id"] = "Player-916-036FBB3C",
+				["ccbreaks"] = 0,
+				["damagetakenspells"] = {
+				},
+				["overhealing"] = 0,
+				["healingspells"] = {
+				},
+				["name"] = "也爹治愈者",
+				["shielding"] = 0,
+				["healing"] = 0,
+				["healed"] = {
+				},
+				["maxhp"] = 283560,
+				["multistrikes"] = 0,
+			}, -- [2]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["狗头人隧道工"] = {
+				["players"] = {
+					["也爹治愈者-暗影之月"] = {
+						["taken"] = 216938,
+						["done"] = 0,
+						["role"] = "HEALER",
+						["class"] = "PRIEST",
+					},
+					["我要礼物"] = {
+						["taken"] = 0,
+						["done"] = 7,
+						["role"] = "DAMAGER",
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 216938,
+				["done"] = 7,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["shielding"] = 0,
+		["ffdamagedone"] = 0,
+		["healing"] = 0,
+		["power"] = {
+			1, -- [1]
+		},
+		["multistrikes"] = 0,
+		["overhealing"] = 0,
+		["starttime"] = 1475294998,
+		["name"] = "总体",
+		["damagetaken"] = 7,
+		["mobtaken"] = 216938,
+		["mobhdone"] = 0,
+		["last_action"] = 1475294998,
+		["mobdone"] = 7,
+	},
+	["sets"] = {
+	},
+}

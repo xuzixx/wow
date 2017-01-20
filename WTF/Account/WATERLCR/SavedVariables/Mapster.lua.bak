@@ -1,0 +1,26 @@
+
+MapsterDB = {
+	["namespaces"] = {
+		["GroupIcons"] = {
+		},
+		["Coords"] = {
+		},
+		["FogClear"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 2,
+				},
+			},
+		},
+		["BattleMap"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Dadanion - 石爪峰"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["scale"] = 1.08142960071564,
+		},
+	},
+}

@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Smxx - 暗影之月"] = "Smxx - 暗影之月",
+	},
+	["profiles"] = {
+		["Smxx - 暗影之月"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Smxx - 暗影之月"] = "Smxx - 暗影之月",
+	},
+	["profiles"] = {
+		["Smxx - 暗影之月"] = {
+		},
+	},
+}

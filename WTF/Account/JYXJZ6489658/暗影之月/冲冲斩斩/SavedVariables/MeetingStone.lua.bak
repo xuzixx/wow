@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["冲冲斩斩 - 暗影之月"] = "冲冲斩斩 - 暗影之月",
+	},
+	["profiles"] = {
+		["冲冲斩斩 - 暗影之月"] = {
+		},
+	},
+}

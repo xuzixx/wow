@@ -1,0 +1,11 @@
+
+MasterPlanAG = {
+	["暗影之月"] = {
+		["风追月"] = {
+			["class"] = "HUNTER",
+			["faction"] = "Alliance",
+		},
+	},
+}
+SV_GarrisonMissionManager = {
+}

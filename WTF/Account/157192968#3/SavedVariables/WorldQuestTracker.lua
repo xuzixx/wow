@@ -1,0 +1,198 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["你是章鱼吗 - 暗影之月"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["AlertTutorialStep"] = 5,
+			["GotTutorial"] = true,
+			["quests_tracked"] = {
+				["Player-916-037AA2F5"] = {
+				},
+			},
+			["quests_all_characters"] = {
+				["Player-916-037AA2F5"] = {
+					[41093] = {
+						["expireAt"] = 1482102084,
+						["rewardAmount"] = 6750,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42830] = {
+						["expireAt"] = 1481886092,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = 1130509,
+					},
+					[41936] = {
+						["expireAt"] = 1481894672,
+						["rewardAmount"] = 4925,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42962] = {
+						["expireAt"] = 1481929238,
+						["rewardAmount"] = 8200,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[44049] = {
+						["expireAt"] = 1481929284,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = 632353,
+					},
+					[42190] = {
+						["expireAt"] = 1481929292,
+						["rewardAmount"] = "12",
+						["rewardTexture"] = 413584,
+					},
+					[43710] = {
+						["expireAt"] = 1481946512,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = 1130506,
+					},
+					[44114] = {
+						["expireAt"] = 1482015692,
+						["rewardAmount"] = 11150,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[43774] = {
+						["expireAt"] = 1481864492,
+						["rewardAmount"] = 4700,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42101] = {
+						["expireAt"] = 1481929229,
+						["rewardAmount"] = 3000,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42067] = {
+						["expireAt"] = 1481929292,
+						["rewardAmount"] = "13",
+						["rewardTexture"] = 413584,
+					},
+					[41421] = {
+						["expireAt"] = 1481929232,
+						["rewardAmount"] = "|cffc557FF835",
+						["rewardTexture"] = 1261047,
+					},
+					[41980] = {
+						["expireAt"] = 1481929232,
+						["rewardAmount"] = 4100,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[44895] = {
+						["expireAt"] = 1482058892,
+						["rewardAmount"] = 8200,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[43434] = {
+						["expireAt"] = 1481864492,
+						["rewardAmount"] = 4350,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41950] = {
+						["expireAt"] = 1481929232,
+						["rewardAmount"] = 4575,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[41612] = {
+						["expireAt"] = 1481864492,
+						["rewardAmount"] = "30",
+						["rewardTexture"] = 1387368,
+					},
+					[44893] = {
+						["expireAt"] = 1481929292,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = 1130507,
+					},
+					[41615] = {
+						["expireAt"] = 1481886092,
+						["rewardAmount"] = "20",
+						["rewardTexture"] = 1387376,
+					},
+					[44033] = {
+						["expireAt"] = 1481907632,
+						["rewardAmount"] = 3750,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42112] = {
+						["expireAt"] = 1481864484,
+						["rewardAmount"] = 2250,
+						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_artifactpower_red_roundT",
+					},
+					[42241] = {
+						["expireAt"] = 1482188432,
+						["rewardAmount"] = "|cffc557FF840",
+						["rewardTexture"] = 1360043,
+					},
+					[43943] = {
+						["expireAt"] = 1481929232,
+						["rewardAmount"] = "",
+						["rewardTexture"] = 1409002,
+					},
+					[43605] = {
+						["expireAt"] = 1481907689,
+						["rewardAmount"] = "|cffc557FF845",
+						["rewardTexture"] = 1360015,
+					},
+				},
+			},
+			["player_names"] = {
+				["Player-916-037AA2F5"] = {
+					["class"] = "DEMONHUNTER",
+					["name"] = "你是章鱼吗",
+					["realm"] = "暗影之月",
+				},
+			},
+			["history"] = {
+				["period"] = {
+					["global"] = {
+						["161216"] = {
+							["quest"] = 6,
+							["gold"] = 2683400,
+						},
+					},
+					["character"] = {
+						["Player-916-037AA2F5"] = {
+							["161216"] = {
+								["quest"] = 6,
+								["gold"] = 2683400,
+							},
+						},
+					},
+				},
+				["quest"] = {
+					["global"] = {
+						[41789] = 1,
+						["total"] = 6,
+						[45069] = 1,
+						[41095] = 1,
+						[41818] = 1,
+						[40896] = 1,
+						[42123] = 1,
+					},
+					["character"] = {
+						["Player-916-037AA2F5"] = {
+							[41789] = 1,
+							["total"] = 6,
+							[45069] = 1,
+							[41095] = 1,
+							[41818] = 1,
+							[40896] = 1,
+							[42123] = 1,
+						},
+					},
+				},
+				["reward"] = {
+					["global"] = {
+						["gold"] = 2683400,
+					},
+					["character"] = {
+						["Player-916-037AA2F5"] = {
+							["gold"] = 2683400,
+						},
+					},
+				},
+			},
+			["TutorialTaxyMap"] = true,
+		},
+	},
+}

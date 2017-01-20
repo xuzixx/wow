@@ -1,0 +1,35 @@
+VER 3 0000000000000003 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 0000000000000004 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 清创生血;  [@mouseover,exists,mod:ctrl] 清创生血; [@mouseover,exists,mod:shift] 清创生血
+END
+VER 3 0000000000000005 "SB" "INV_MISC_QUESTIONMARK"
+/目标 满脸尸斑
+END
+VER 3 0000000000000009 "伤害数字" "INV_MISC_QUESTIONMARK"
+/console floatingCombatTextCombatDamage 1
+/console floatingCombatTextCombatHealing 1
+END
+VER 3 0000000000000006 "怒气条" "INV_MISC_QUESTIONMARK"
+/run PlayerFrameManaBar:ClearAllPoints()
+/run PlayerFrameManaBar:SetPoint("CENTER", UIParent, "CENTER", 0, 0)
+/run PlayerFrameManaBar:SetScale(2.8)
+/run PlayerFrameManaBar:SetAlpha(1.0)
+END
+VER 3 0000000000000007 "抑魔金" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+/run for b=0,NUM_BAG_SLOTS do for s= 1, 32, 1 do local name = GetContainerItemLink(b,s);if name and string.find(name,"古代治疗药水") then PickupContainerItem(b,s) UseContainerItem(b,s)end end end
+END
+VER 3 000000000000000A "换血" "SPELL_NATURE_WISPSPLODE"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>1 then StaticPopup1Button1:Click()T=t end end end F:SetScript ("OnUpdate",X)
+END
+VER 3 0000000000000008 "薄脆" "INV_MISC_QUESTIONMARK"
+/G 精灵妖心我滴哥
+/G 薄皮软骨不靠壳
+/G 求神拜佛要抗住
+/G 不如来世信春哥
+END
+VER 3 000000000000000B "骨咒" "INV_MISC_QUESTIONMARK"
+/目标 骨咒
+END

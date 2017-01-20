@@ -1,0 +1,17 @@
+
+COLLECTOR_DB = {
+	["global"] = {
+		["firstLogin"] = false,
+		["realmFeed"] = {
+			["卡珊德拉"] = {
+			},
+		},
+	},
+	["profileKeys"] = {
+		["你是章鱼吗 - 暗影之月"] = "你是章鱼吗 - 暗影之月",
+	},
+	["profiles"] = {
+		["你是章鱼吗 - 暗影之月"] = {
+		},
+	},
+}

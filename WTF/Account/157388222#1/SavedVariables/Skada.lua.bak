@@ -1,0 +1,31 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Dadanion - 暗影之月"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["ffoptions"] = {
+				["ignoredefensive"] = true,
+				["ignoreability"] = false,
+			},
+			["windows"] = {
+				{
+					["background"] = {
+						["height"] = 303.000183105469,
+					},
+					["set"] = 1,
+					["y"] = -51.5000457763672,
+					["mode"] = "伤害",
+					["point"] = "CENTER",
+					["x"] = 30.4998474121094,
+					["barwidth"] = 300.999938964844,
+				}, -- [1]
+			},
+		},
+	},
+}

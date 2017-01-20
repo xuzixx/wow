@@ -1,0 +1,14 @@
+Cache
+Data
+Errors
+Logs
+Screenshots
+Utils
+.build.info
+BlizzardError.exe
+dbghelp.dll
+*.exe
+WoW.mfil
+.patch.result
+.product.db
+Launcher.db

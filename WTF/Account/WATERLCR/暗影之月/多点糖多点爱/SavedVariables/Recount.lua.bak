@@ -1,0 +1,8590 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["套索发射器 <多点糖多点爱>"] = {
+			["GUID"] = "Vehicle-0-3044-1220-16733-108081-00000126C9",
+			["LastEventHealth"] = {
+				"187532 (42%)", -- [1]
+				"187532 (42%)", -- [2]
+				"187532 (42%)", -- [3]
+				"187532 (42%)", -- [4]
+				"270284 (61%)", -- [5]
+				"262170 (59%)", -- [6]
+				"253878 (57%)", -- [7]
+				"253878 (57%)", -- [8]
+				"253878 (57%)", -- [9]
+				"253878 (57%)", -- [10]
+				"253878 (57%)", -- [11]
+				"253878 (57%)", -- [12]
+				"253878 (57%)", -- [13]
+				"253878 (57%)", -- [14]
+				"244919 (55%)", -- [15]
+				"244919 (55%)", -- [16]
+				"244919 (55%)", -- [17]
+				"237395 (53%)", -- [18]
+				"237395 (53%)", -- [19]
+				"228636 (51%)", -- [20]
+				"228636 (51%)", -- [21]
+				"228636 (51%)", -- [22]
+				"228636 (51%)", -- [23]
+				"220933 (50%)", -- [24]
+				"220933 (50%)", -- [25]
+				"211251 (47%)", -- [26]
+				"211251 (47%)", -- [27]
+				"211251 (47%)", -- [28]
+				"211251 (47%)", -- [29]
+				"204169 (46%)", -- [30]
+				"204169 (46%)", -- [31]
+				"204169 (46%)", -- [32]
+				"204169 (46%)", -- [33]
+				"204169 (46%)", -- [34]
+				"204169 (46%)", -- [35]
+				"204169 (46%)", -- [36]
+				"204169 (46%)", -- [37]
+				"204169 (46%)", -- [38]
+				"204169 (46%)", -- [39]
+				"204169 (46%)", -- [40]
+				"194875 (44%)", -- [41]
+				"194875 (44%)", -- [42]
+				"194875 (44%)", -- [43]
+				"194875 (44%)", -- [44]
+				"194875 (44%)", -- [45]
+				"194875 (44%)", -- [46]
+				"194875 (44%)", -- [47]
+				"194875 (44%)", -- [48]
+				"187532 (42%)", -- [49]
+				"187532 (42%)", -- [50]
+			},
+			["LastAttackedBy"] = "巫环女巫",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["Damage"] = {
+					30428697, -- [1]
+				},
+				["TimeDamage"] = {
+					122.8, -- [1]
+				},
+				["DamageTaken"] = {
+					252718, -- [1]
+				},
+				["ActiveTime"] = {
+					122.8, -- [1]
+				},
+			},
+			["enClass"] = "PET",
+			["unit"] = "套索发射器",
+			["level"] = 1,
+			["LastDamageAbility"] = "腐烂爆破",
+			["LastFightIn"] = 33,
+			["LastEventNum"] = {
+				[15] = 2.03498012492902,
+				[30] = 1.60863145939807,
+				[18] = 1.70902896081772,
+				[20] = 1.98955139125497,
+				[41] = 2.11107325383305,
+				[6] = 1.84304372515616,
+				[49] = 1.6679159568427,
+				[26] = 2.1992049971607,
+				[7] = 1.88347529812606,
+				[24] = 1.74968767745599,
+			},
+			["type"] = "Pet",
+			["FightsSaved"] = 5,
+			["LastAbility"] = 19696.855,
+			["LastDamageTaken"] = 7343,
+			["TimeLast"] = {
+				["ActiveTime"] = 19696.137,
+				["TimeDamage"] = 19696.137,
+				["OVERALL"] = 19696.137,
+				["DamageTaken"] = 19691.143,
+				["Damage"] = 19696.137,
+			},
+			["NextEventNum"] = 5,
+			["LastEventHealthNum"] = {
+				42.5967064168086, -- [1]
+				42.5967064168086, -- [2]
+				42.5967064168086, -- [3]
+				42.5967064168086, -- [4]
+				61.3932992617831, -- [5]
+				59.5502555366269, -- [6]
+				57.6667802385009, -- [7]
+				57.6667802385009, -- [8]
+				57.6667802385009, -- [9]
+				57.6667802385009, -- [10]
+				57.6667802385009, -- [11]
+				57.6667802385009, -- [12]
+				57.6667802385009, -- [13]
+				57.6667802385009, -- [14]
+				55.6318001135718, -- [15]
+				55.6318001135718, -- [16]
+				55.6318001135718, -- [17]
+				53.9227711527541, -- [18]
+				53.9227711527541, -- [19]
+				51.9332197614992, -- [20]
+				51.9332197614992, -- [21]
+				51.9332197614992, -- [22]
+				51.9332197614992, -- [23]
+				50.1835320840432, -- [24]
+				50.1835320840432, -- [25]
+				47.9843270868825, -- [26]
+				47.9843270868825, -- [27]
+				47.9843270868825, -- [28]
+				47.9843270868825, -- [29]
+				46.3756956274844, -- [30]
+				46.3756956274844, -- [31]
+				46.3756956274844, -- [32]
+				46.3756956274844, -- [33]
+				46.3756956274844, -- [34]
+				46.3756956274844, -- [35]
+				46.3756956274844, -- [36]
+				46.3756956274844, -- [37]
+				46.3756956274844, -- [38]
+				46.3756956274844, -- [39]
+				46.3756956274844, -- [40]
+				44.2646223736513, -- [41]
+				44.2646223736513, -- [42]
+				44.2646223736513, -- [43]
+				44.2646223736513, -- [44]
+				44.2646223736513, -- [45]
+				44.2646223736513, -- [46]
+				44.2646223736513, -- [47]
+				44.2646223736513, -- [48]
+				42.5967064168086, -- [49]
+				42.5967064168086, -- [50]
+			},
+			["LastEvents"] = {
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环风鹏 Hit -742066 (Fire)", -- [1]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环女巫 Hit -854379 (Fire)", -- [2]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环女巫 Hit -846356 (Fire)", -- [3]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环女巫 Hit -778167 (Fire)", -- [4]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -240670 (Nature)", -- [5]
+				"巫环女巫 腐烂爆破 套索发射器 <多点糖多点爱> Hit -8114 (Shadow)", -- [6]
+				"巫环女巫 腐烂爆破 套索发射器 <多点糖多点爱> Hit -8292 (Shadow)", -- [7]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环女巫 Hit -850368 (Fire)", -- [8]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环女巫 Hit -802234 (Fire)", -- [9]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -244681 (Nature)", -- [10]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -260726 (Nature)", -- [11]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -256714 (Nature)", -- [12]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环女巫 Hit -782177 (Fire)", -- [13]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环女巫 Hit -794211 (Fire)", -- [14]
+				"巫环女巫 腐烂爆破 套索发射器 <多点糖多点爱> Hit -8959 (Shadow)", -- [15]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -260726 (Nature)", -- [16]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -220614 (Nature)", -- [17]
+				"巫环女巫 腐烂爆破 套索发射器 <多点糖多点爱> Hit -7524 (Shadow)", -- [18]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环风鹏 Hit -256714 (Nature)", -- [19]
+				"巫环女巫 腐烂爆破 套索发射器 <多点糖多点爱> Hit -8759 (Shadow)", -- [20]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环女巫 Hit -782177 (Fire)", -- [21]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环女巫 Hit -830311 (Fire)", -- [22]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环女巫 Hit -754099 (Fire)", -- [23]
+				"巫环女巫 腐烂爆破 套索发射器 <多点糖多点爱> Hit -7703 (Shadow)", -- [24]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -260725 (Nature)", -- [25]
+				"巫环女巫 腐烂爆破 套索发射器 <多点糖多点爱> Hit -9682 (Shadow)", -- [26]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环风鹏 Hit -232647 (Nature)", -- [27]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环风鹏 Hit -248692 (Nature)", -- [28]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -248692 (Nature)", -- [29]
+				"巫环女巫 腐烂爆破 套索发射器 <多点糖多点爱> Hit -7082 (Shadow)", -- [30]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -256714 (Nature)", -- [31]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -232647 (Nature)", -- [32]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环女巫 Hit -834323 (Fire)", -- [33]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环女巫 Hit -774155 (Fire)", -- [34]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环风鹏 Hit -802234 (Fire)", -- [35]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环风鹏 Hit -762122 (Fire)", -- [36]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环风鹏 Hit -256714 (Nature)", -- [37]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -240670 (Nature)", -- [38]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -244681 (Nature)", -- [39]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -236658 (Nature)", -- [40]
+				"巫环女巫 腐烂爆破 套索发射器 <多点糖多点爱> Hit -9294 (Shadow)", -- [41]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -232647 (Nature)", -- [42]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -236659 (Nature)", -- [43]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -220614 (Nature)", -- [44]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环风鹏 Hit -248692 (Nature)", -- [45]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -220614 (Nature)", -- [46]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -224625 (Nature)", -- [47]
+				"套索发射器 <多点糖多点爱> 发射套索 巫环女巫 Hit -256714 (Nature)", -- [48]
+				"巫环女巫 腐烂爆破 套索发射器 <多点糖多点爱> Hit -7343 (Shadow)", -- [49]
+				"套索发射器 <多点糖多点爱> 燃烧的套索 巫环风鹏 Hit -754099 (Fire)", -- [50]
+			},
+			["Name"] = "套索发射器",
+			["LastEventIncoming"] = {
+				false, -- [1]
+				false, -- [2]
+				false, -- [3]
+				false, -- [4]
+				false, -- [5]
+				true, -- [6]
+				true, -- [7]
+				false, -- [8]
+				false, -- [9]
+				false, -- [10]
+				false, -- [11]
+				false, -- [12]
+				false, -- [13]
+				false, -- [14]
+				true, -- [15]
+				false, -- [16]
+				false, -- [17]
+				true, -- [18]
+				false, -- [19]
+				true, -- [20]
+				false, -- [21]
+				false, -- [22]
+				false, -- [23]
+				true, -- [24]
+				false, -- [25]
+				true, -- [26]
+				false, -- [27]
+				false, -- [28]
+				false, -- [29]
+				true, -- [30]
+				false, -- [31]
+				false, -- [32]
+				false, -- [33]
+				false, -- [34]
+				false, -- [35]
+				false, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				true, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+				false, -- [45]
+				false, -- [46]
+				false, -- [47]
+				false, -- [48]
+				true, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				19696.855, -- [1]
+				19696.855, -- [2]
+				19696.855, -- [3]
+				19696.855, -- [4]
+				19610.451, -- [5]
+				19610.451, -- [6]
+				19614.808, -- [7]
+				19615.035, -- [8]
+				19615.035, -- [9]
+				19617.816, -- [10]
+				19618.917, -- [11]
+				19621.435, -- [12]
+				19622.31, -- [13]
+				19622.31, -- [14]
+				19624.737, -- [15]
+				19626.258, -- [16]
+				19627.295, -- [17]
+				19628.713, -- [18]
+				19632.251, -- [19]
+				19633.8, -- [20]
+				19635.25, -- [21]
+				19635.25, -- [22]
+				19635.25, -- [23]
+				19636.912, -- [24]
+				19641.173, -- [25]
+				19644.686, -- [26]
+				19650.253, -- [27]
+				19651.3, -- [28]
+				19652.472, -- [29]
+				19652.724, -- [30]
+				19653.839, -- [31]
+				19658.468, -- [32]
+				19659.572, -- [33]
+				19659.572, -- [34]
+				19659.572, -- [35]
+				19659.572, -- [36]
+				19662.613, -- [37]
+				19668.165, -- [38]
+				19669.156, -- [39]
+				19679.496, -- [40]
+				19683.112, -- [41]
+				19684.447, -- [42]
+				19685.521, -- [43]
+				19686.565, -- [44]
+				19686.565, -- [45]
+				19688.677, -- [46]
+				19689.73, -- [47]
+				19690.777, -- [48]
+				19691.749, -- [49]
+				19696.855, -- [50]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 16406,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 16406,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 1893272,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 1652602,
+						["Nature"] = 240670,
+					},
+					["PartialAbsorb"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 240670,
+								},
+								["燃烧的套索"] = {
+									["count"] = 1652602,
+								},
+							},
+							["amount"] = 1893272,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 16406,
+								},
+							},
+							["amount"] = 16406,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 3.5,
+								},
+								["燃烧的套索"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 7,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 7,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["发射套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 240670,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 240670,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 240670,
+						},
+						["燃烧的套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 850368,
+									["min"] = 802234,
+									["count"] = 2,
+									["amount"] = 1652602,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 1652602,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 7,
+					["TimeDamaging"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 3.5,
+								},
+								["燃烧的套索"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 7,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 485351,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Nature"] = 485351,
+						["Fire"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 485351,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 485351,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 4.49,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 4.49,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 4.49,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["发射套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 244681,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 485351,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 485351,
+						},
+						["燃烧的套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 4.49,
+					["TimeDamaging"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 4.49,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 4.49,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Nature"] = 0,
+						["Fire"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["发射套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["燃烧的套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 7082,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 7082,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 4648940,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 3172834,
+						["Nature"] = 1476106,
+					},
+					["PartialAbsorb"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 738053,
+								},
+								["燃烧的套索"] = {
+									["count"] = 1608478,
+								},
+							},
+							["amount"] = 2346531,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 738053,
+								},
+								["燃烧的套索"] = {
+									["count"] = 1564356,
+								},
+							},
+							["amount"] = 2302409,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 7082,
+								},
+							},
+							["amount"] = 7082,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 6.04,
+								},
+								["燃烧的套索"] = {
+									["count"] = 1.1,
+								},
+							},
+							["amount"] = 7.14,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 7.59,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 7.59,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 14.73,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["发射套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 256714,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 1476106,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 1476106,
+						},
+						["燃烧的套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 834323,
+									["min"] = 762122,
+									["count"] = 4,
+									["amount"] = 3172834,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 3172834,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 14.73,
+					["TimeDamaging"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 6.04,
+								},
+								["燃烧的套索"] = {
+									["count"] = 1.1,
+								},
+							},
+							["amount"] = 7.14,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 7.59,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 7.59,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 42627,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 42627,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 5703875,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Fire"] = 3942975,
+						["Nature"] = 1760900,
+					},
+					["PartialAbsorb"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 256714,
+								},
+							},
+							["amount"] = 256714,
+						},
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 1504186,
+								},
+								["燃烧的套索"] = {
+									["count"] = 3942975,
+								},
+							},
+							["amount"] = 5447161,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 42627,
+								},
+							},
+							["amount"] = 42627,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 14.44,
+								},
+								["燃烧的套索"] = {
+									["count"] = 3.88,
+								},
+							},
+							["amount"] = 18.32,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 21.82,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["发射套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 260726,
+									["min"] = 0,
+									["count"] = 7,
+									["amount"] = 1760900,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 1760900,
+						},
+						["燃烧的套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 830311,
+									["min"] = 754099,
+									["count"] = 5,
+									["amount"] = 3942975,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 3942975,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 21.82,
+					["TimeDamaging"] = {
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 14.44,
+								},
+								["燃烧的套索"] = {
+									["count"] = 3.88,
+								},
+							},
+							["amount"] = 18.32,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 8,
+						},
+					},
+					["DamagedWho"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 1628531,
+								},
+								["燃烧的套索"] = {
+									["count"] = 2478902,
+								},
+							},
+							["amount"] = 4107433,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 248692,
+								},
+								["燃烧的套索"] = {
+									["count"] = 1496165,
+								},
+							},
+							["amount"] = 1744857,
+						},
+					},
+					["ElementDone"] = {
+						["Fire"] = 3975067,
+						["Nature"] = 1877223,
+					},
+					["Attacks"] = {
+						["发射套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 256714,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 1877223,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 1877223,
+						},
+						["燃烧的套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 854379,
+									["min"] = 742066,
+									["count"] = 5,
+									["amount"] = 3975067,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 3975067,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DamageTaken"] = 16637,
+					["TimeSpent"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 13.32,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 13.32,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+								["燃烧的套索"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["PartialResist"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["TimeDamaging"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 13.32,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 13.32,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+								["燃烧的套索"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["PartialAbsorb"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 16.82,
+					["WhoDamaged"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 16637,
+								},
+							},
+							["amount"] = 16637,
+						},
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 16637,
+					},
+					["TimeDamage"] = 16.82,
+					["Damage"] = 5852290,
+				},
+				["Fight1"] = {
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 8,
+						},
+					},
+					["DamagedWho"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 1628531,
+								},
+								["燃烧的套索"] = {
+									["count"] = 2478902,
+								},
+							},
+							["amount"] = 4107433,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 248692,
+								},
+								["燃烧的套索"] = {
+									["count"] = 1496165,
+								},
+							},
+							["amount"] = 1744857,
+						},
+					},
+					["ElementDone"] = {
+						["Fire"] = 3975067,
+						["Nature"] = 1877223,
+					},
+					["Attacks"] = {
+						["发射套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 256714,
+									["min"] = 0,
+									["count"] = 8,
+									["amount"] = 1877223,
+								},
+							},
+							["count"] = 8,
+							["amount"] = 1877223,
+						},
+						["燃烧的套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 854379,
+									["min"] = 742066,
+									["count"] = 5,
+									["amount"] = 3975067,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 3975067,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DamageTaken"] = 16637,
+					["TimeSpent"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 13.32,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 13.32,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+								["燃烧的套索"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["PartialResist"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+					},
+					["TimeDamaging"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 13.32,
+								},
+								["燃烧的套索"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 13.32,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 0,
+								},
+								["燃烧的套索"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 3.5,
+						},
+					},
+					["PartialAbsorb"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 16.82,
+					["WhoDamaged"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 16637,
+								},
+							},
+							["amount"] = 16637,
+						},
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 16637,
+					},
+					["TimeDamage"] = 16.82,
+					["Damage"] = 5852290,
+				},
+				["OverallData"] = {
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 23,
+								},
+							},
+							["amount"] = 23,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 50,
+								},
+							},
+							["amount"] = 50,
+						},
+					},
+					["DamagedWho"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 8724275,
+								},
+								["燃烧的套索"] = {
+									["count"] = 13625935,
+								},
+							},
+							["amount"] = 22350210,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 3385421,
+								},
+								["燃烧的套索"] = {
+									["count"] = 4693066,
+								},
+							},
+							["amount"] = 8078487,
+						},
+					},
+					["ElementDone"] = {
+						["Fire"] = 18319001,
+						["Nature"] = 12109696,
+					},
+					["Attacks"] = {
+						["发射套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 260726,
+									["min"] = 220614,
+									["count"] = 50,
+									["amount"] = 12109696,
+								},
+							},
+							["count"] = 50,
+							["amount"] = 12109696,
+						},
+						["燃烧的套索"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 862401,
+									["min"] = 742066,
+									["count"] = 23,
+									["amount"] = 18319001,
+								},
+							},
+							["count"] = 23,
+							["amount"] = 18319001,
+						},
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 31,
+								},
+							},
+							["amount"] = 31,
+						},
+					},
+					["DamageTaken"] = 252718,
+					["TimeSpent"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 71.68,
+								},
+								["燃烧的套索"] = {
+									["count"] = 8.48,
+								},
+							},
+							["amount"] = 80.16,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 32.14,
+								},
+								["燃烧的套索"] = {
+									["count"] = 10.5,
+								},
+							},
+							["amount"] = 42.64,
+						},
+					},
+					["PartialResist"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 31,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 31,
+						},
+					},
+					["TimeDamaging"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 71.68,
+								},
+								["燃烧的套索"] = {
+									["count"] = 8.48,
+								},
+							},
+							["amount"] = 80.16,
+						},
+						["巫环风鹏"] = {
+							["Details"] = {
+								["发射套索"] = {
+									["count"] = 32.14,
+								},
+								["燃烧的套索"] = {
+									["count"] = 10.5,
+								},
+							},
+							["amount"] = 42.64,
+						},
+					},
+					["PartialAbsorb"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 31,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 31,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 122.8,
+					["WhoDamaged"] = {
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 252718,
+								},
+							},
+							["amount"] = 252718,
+						},
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 252718,
+					},
+					["TimeDamage"] = 122.8,
+					["Damage"] = 30428697,
+				},
+			},
+			["UnitLockout"] = 19505.133,
+			["LastActive"] = 19696.137,
+		},
+		["多点糖多点爱"] = {
+			["GUID"] = "Player-916-030B13DB",
+			["LastEventHealth"] = {
+				"298641 (65%)", -- [1]
+				"438933 (96%)", -- [2]
+				"437610 (96%)", -- [3]
+				"428633 (94%)", -- [4]
+				"419505 (92%)", -- [5]
+				"409072 (89%)", -- [6]
+				"396232 (87%)", -- [7]
+				"379856 (83%)", -- [8]
+				"371250 (81%)", -- [9]
+				"355708 (78%)", -- [10]
+				"360260 (79%)", -- [11]
+				"341750 (75%)", -- [12]
+				"331894 (72%)", -- [13]
+				"315589 (69%)", -- [14]
+				"297765 (65%)", -- [15]
+				"283372 (62%)", -- [16]
+				"268272 (59%)", -- [17]
+				"252725 (55%)", -- [18]
+				"239134 (52%)", -- [19]
+				"219278 (48%)", -- [20]
+				"204409 (44%)", -- [21]
+				"187648 (41%)", -- [22]
+				"174784 (38%)", -- [23]
+				"157984 (34%)", -- [24]
+				"146471 (32%)", -- [25]
+				"130262 (28%)", -- [26]
+				"114623 (25%)", -- [27]
+				"94007 (20%)", -- [28]
+				"77628 (17%)", -- [29]
+				"69581 (15%)", -- [30]
+				"72318 (15%)", -- [31]
+				"50458 (11%)", -- [32]
+				"179651 (39%)", -- [33]
+				"165966 (36%)", -- [34]
+				"163171 (35%)", -- [35]
+				"163171 (35%)", -- [36]
+				"160376 (35%)", -- [37]
+				"160376 (35%)", -- [38]
+				"160376 (35%)", -- [39]
+				"160376 (35%)", -- [40]
+				"145685 (32%)", -- [41]
+				"145685 (32%)", -- [42]
+				"145685 (32%)", -- [43]
+				"145685 (32%)", -- [44]
+				"142890 (31%)", -- [45]
+				"142890 (31%)", -- [46]
+				"142890 (31%)", -- [47]
+				"126304 (27%)", -- [48]
+				"126304 (27%)", -- [49]
+				"126304 (27%)", -- [50]
+			},
+			["LastAttackedBy"] = "巫环女巫",
+			["LastEventType"] = {
+				"HEAL", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["TimeHeal"] = {
+					4.01, -- [1]
+				},
+				["Healing"] = {
+					963684, -- [1]
+				},
+				["DamageTaken"] = {
+					2134270, -- [1]
+				},
+				["HealingTaken"] = {
+					963684, -- [1]
+				},
+				["Overhealing"] = {
+					492601, -- [1]
+				},
+				["TimeDamage"] = {
+					232.07, -- [1]
+				},
+				["ActiveTime"] = {
+					236.08, -- [1]
+				},
+				["DOT_Time"] = {
+					12, -- [1]
+				},
+				["Damage"] = {
+					8816836, -- [1]
+				},
+			},
+			["enClass"] = "MONK",
+			["unit"] = "多点糖多点爱",
+			["TimeLast"] = {
+				["TimeHeal"] = 19155.139,
+				["OVERALL"] = 19691.143,
+				["DamageTaken"] = 19691.143,
+				["HealingTaken"] = 19155.139,
+				["Overhealing"] = 19007.142,
+				["TimeDamage"] = 19155.139,
+				["ActiveTime"] = 19155.139,
+				["Healing"] = 19505.133,
+				["DOT_Time"] = 18565.137,
+				["Damage"] = 19505.133,
+			},
+			["LastAbility"] = 19155.282,
+			["level"] = 101,
+			["LastDamageAbility"] = "腐烂爆破",
+			["LastFightIn"] = 33,
+			["LastEventNum"] = {
+				37.9029207354623, -- [1]
+				3.46331485880179, -- [2]
+				3.75428873053576, -- [3]
+				3.99643705463183, -- [4]
+				4.03954429488871, -- [5]
+				4.32106096595408, -- [6]
+				3.8429224949415, -- [7]
+				3.60165391044251, -- [8]
+				3.91330166270784, -- [9]
+				3.41822820445148, -- [10]
+				3.05423594615994, -- [11]
+				4.0709949854843, -- [12]
+				3.18883610451306, -- [13]
+				4.60543679070995, -- [14]
+				3.9201196445852, -- [15]
+				3.16552300519046, -- [16]
+				3.32101697897422, -- [17]
+				3.41932787894783, -- [18]
+				2.98913521597607, -- [19]
+				4.36702735990147, -- [20]
+				4.28367203307821, -- [21]
+				3.68632884666139, -- [22]
+				3.84138295064661, -- [23]
+				3.69490630773291, -- [24]
+				3.53655318025864, -- [25]
+				3.56492478226445, -- [26]
+				3.43956188968065, -- [27]
+				4.53417788334653, -- [28]
+				3.60231371514032, -- [29]
+				3.80641330166271, -- [30]
+				3.44791941585291, -- [31]
+				4.80777689803818, -- [32]
+				3.00980909650743, -- [33]
+				nil, -- [34]
+				0.614718043459136, -- [35]
+				nil, -- [36]
+				0.614718043459136, -- [37]
+				nil, -- [38]
+				nil, -- [39]
+				2.61634556171373, -- [40]
+				0.614718043459136, -- [41]
+				nil, -- [42]
+				nil, -- [43]
+				nil, -- [44]
+				0.614718043459136, -- [45]
+				nil, -- [46]
+				3.03312219583003, -- [47]
+				0.614718043459136, -- [48]
+			},
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["GuardianReverseGUIDs"] = {
+				["烈焰之灵"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "Creature-0-3044-1220-16733-69791-00000123C9",
+					},
+				},
+				["拉善·天角"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "Creature-0-3044-1220-16733-98717-0000012532",
+					},
+				},
+				["阿维亚什"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "Vehicle-0-3044-1220-16733-98716-0000012532",
+					},
+				},
+				["大地之灵"] = {
+					["LatestGuardian"] = 0,
+					["GUIDs"] = {
+						[0] = "Creature-0-3044-1220-16733-69792-00000123C9",
+					},
+				},
+			},
+			["LastDamageTaken"] = 21860,
+			["Owner"] = false,
+			["Pet"] = {
+				"大地之灵 <多点糖多点爱>", -- [1]
+				"烈焰之灵 <多点糖多点爱>", -- [2]
+				"阿维亚什 <多点糖多点爱>", -- [3]
+				"拉善·天角 <多点糖多点爱>", -- [4]
+				"套索发射器 <多点糖多点爱>", -- [5]
+			},
+			["NextEventNum"] = 33,
+			["LastEventHealthNum"] = {
+				65.6815782528372, -- [1]
+				96.5366851411982, -- [2]
+				96.2457112694643, -- [3]
+				94.2713556787191, -- [4]
+				92.2637899181842, -- [5]
+				89.9692091141022, -- [6]
+				87.1452450074778, -- [7]
+				83.5435910970353, -- [8]
+				81.6508313539193, -- [9]
+				78.2326031494678, -- [10]
+				79.233746810944, -- [11]
+				75.1627518254597, -- [12]
+				72.9950734582564, -- [13]
+				69.409034925662, -- [14]
+				65.4889152810768, -- [15]
+				62.3233922758863, -- [16]
+				59.0023752969121, -- [17]
+				55.5830474179643, -- [18]
+				52.5939122019882, -- [19]
+				48.2268848420867, -- [20]
+				44.9566728248439, -- [21]
+				41.2703439781825, -- [22]
+				38.4411014339755, -- [23]
+				34.7461951262426, -- [24]
+				32.2140846309492, -- [25]
+				28.6491598486848, -- [26]
+				25.2095979590041, -- [27]
+				20.6754200756576, -- [28]
+				17.0731063605173, -- [29]
+				15.3032902260931, -- [30]
+				15.9052520453946, -- [31]
+				11.0974751473564, -- [32]
+				39.5115245887217, -- [33]
+				36.5017154922143, -- [34]
+				35.8869974487552, -- [35]
+				35.8869974487552, -- [36]
+				35.272279405296, -- [37]
+				35.272279405296, -- [38]
+				35.272279405296, -- [39]
+				35.272279405296, -- [40]
+				32.0412158001232, -- [41]
+				32.0412158001232, -- [42]
+				32.0412158001232, -- [43]
+				32.0412158001232, -- [44]
+				31.426497756664, -- [45]
+				31.426497756664, -- [46]
+				31.426497756664, -- [47]
+				27.7786575173749, -- [48]
+				27.7786575173749, -- [49]
+				27.7786575173749, -- [50]
+			},
+			["LastEvents"] = {
+				"多点糖多点爱 疗伤珠 多点糖多点爱 Crit +172337", -- [1]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -15747 (Shadow)", -- [2]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -17070 (Shadow)", -- [3]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -18171 (Shadow)", -- [4]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -18367 (Shadow)", -- [5]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -19647 (Shadow)", -- [6]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -17473 (Shadow)", -- [7]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -16376 (Shadow)", -- [8]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -17793 (Shadow)", -- [9]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -15542 (Shadow)", -- [10]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -13887 (Shadow)", -- [11]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -18510 (Shadow)", -- [12]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -14499 (Shadow)", -- [13]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -20940 (Shadow)", -- [14]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -17824 (Shadow)", -- [15]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -14393 (Shadow)", -- [16]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -15100 (Shadow)", -- [17]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -15547 (Shadow)", -- [18]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -13591 (Shadow)", -- [19]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -19856 (Shadow)", -- [20]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -19477 (Shadow)", -- [21]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -16761 (Shadow)", -- [22]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -17466 (Shadow)", -- [23]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -16800 (Shadow)", -- [24]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -16080 (Shadow)", -- [25]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -16209 (Shadow)", -- [26]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -15639 (Shadow)", -- [27]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -20616 (Shadow)", -- [28]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -16379 (Shadow)", -- [29]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -17307 (Shadow)", -- [30]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -15677 (Shadow)", -- [31]
+				"巫环女巫 腐烂爆破 多点糖多点爱 Hit -21860 (Shadow)", -- [32]
+				"紫喉女王 肉搏 多点糖多点爱 Hit -13685 (Physical)", -- [33]
+				"多点糖多点爱 怒雷破 紫喉女王 Crit -81961 (Physical)", -- [34]
+				"紫喉女王 夺目盛宴 (伤害/跳) 多点糖多点爱 Tick -2795 (Physical)", -- [35]
+				"多点糖多点爱 怒雷破 紫喉女王 Hit -40981 (Physical)", -- [36]
+				"紫喉女王 夺目盛宴 (伤害/跳) 多点糖多点爱 Tick -2795 (Physical)", -- [37]
+				"多点糖多点爱 怒雷破 紫喉女王 Hit -40980 (Physical)", -- [38]
+				"多点糖多点爱 猛虎掌 紫喉女王 Hit -8197 (Physical)", -- [39]
+				"紫喉女王 肉搏 多点糖多点爱 Hit -11896 (Physical)", -- [40]
+				"紫喉女王 夺目盛宴 (伤害/跳) 多点糖多点爱 Tick -2795 (Physical)", -- [41]
+				"多点糖多点爱 肉搏 紫喉女王 Miss (1)", -- [42]
+				"多点糖多点爱 肉搏 紫喉女王 Miss (1)", -- [43]
+				"多点糖多点爱 旭日东升踢 紫喉女王 Hit -71033 (Physical)", -- [44]
+				"紫喉女王 夺目盛宴 (伤害/跳) 多点糖多点爱 Tick -2795 (Physical)", -- [45]
+				"多点糖多点爱 升龙霸 紫喉女王 Hit -32394 (Physical)", -- [46]
+				"紫喉女王 肉搏 多点糖多点爱 Hit -13791 (Physical)", -- [47]
+				"紫喉女王 夺目盛宴 (伤害/跳) 多点糖多点爱 Tick -2795 (Physical)", -- [48]
+				"多点糖多点爱 升龙霸 紫喉女王 Crit -64788 (Physical)", -- [49]
+				"多点糖多点爱 升龙霸 紫喉女王 Hit -32394 (Physical)", -- [50]
+			},
+			["Name"] = "多点糖多点爱",
+			["LastEventIncoming"] = {
+				true, -- [1]
+				true, -- [2]
+				true, -- [3]
+				true, -- [4]
+				true, -- [5]
+				true, -- [6]
+				true, -- [7]
+				true, -- [8]
+				true, -- [9]
+				true, -- [10]
+				true, -- [11]
+				true, -- [12]
+				true, -- [13]
+				true, -- [14]
+				true, -- [15]
+				true, -- [16]
+				true, -- [17]
+				true, -- [18]
+				true, -- [19]
+				true, -- [20]
+				true, -- [21]
+				true, -- [22]
+				true, -- [23]
+				true, -- [24]
+				true, -- [25]
+				true, -- [26]
+				true, -- [27]
+				true, -- [28]
+				true, -- [29]
+				true, -- [30]
+				true, -- [31]
+				true, -- [32]
+				true, -- [33]
+				false, -- [34]
+				true, -- [35]
+				false, -- [36]
+				true, -- [37]
+				false, -- [38]
+				false, -- [39]
+				true, -- [40]
+				true, -- [41]
+				false, -- [42]
+				false, -- [43]
+				false, -- [44]
+				true, -- [45]
+				false, -- [46]
+				true, -- [47]
+				true, -- [48]
+				false, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				19155.282, -- [1]
+				19505.61, -- [2]
+				19521.826, -- [3]
+				19533.865, -- [4]
+				19539.004, -- [5]
+				19549.694, -- [6]
+				19550.791, -- [7]
+				19559.997, -- [8]
+				19564.818, -- [9]
+				19564.964, -- [10]
+				19576.929, -- [11]
+				19577.58, -- [12]
+				19583.808, -- [13]
+				19593.91, -- [14]
+				19595.575, -- [15]
+				19595.985, -- [16]
+				19596.568, -- [17]
+				19596.723, -- [18]
+				19596.839, -- [19]
+				19600.881, -- [20]
+				19601.679, -- [21]
+				19602.758, -- [22]
+				19610.451, -- [23]
+				19614.808, -- [24]
+				19624.737, -- [25]
+				19628.713, -- [26]
+				19633.8, -- [27]
+				19636.912, -- [28]
+				19644.686, -- [29]
+				19652.724, -- [30]
+				19683.112, -- [31]
+				19691.749, -- [32]
+				19150.69, -- [33]
+				19150.843, -- [34]
+				19150.949, -- [35]
+				19151.673, -- [36]
+				19151.942, -- [37]
+				19152.615, -- [38]
+				19152.759, -- [39]
+				19152.759, -- [40]
+				19152.862, -- [41]
+				19153.026, -- [42]
+				19153.69, -- [43]
+				19153.69, -- [44]
+				19153.938, -- [45]
+				19154.775, -- [46]
+				19154.775, -- [47]
+				19154.932, -- [48]
+				19155.036, -- [49]
+				19155.282, -- [50]
+			},
+			["Fights"] = {
+				["Fight5"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 34266,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Shadow"] = 34266,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["Falling"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["鹰身人的尖叫"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["死亡之歌"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["妖术师拉吉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["阿佳拉·亡歌"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉泣厄战士"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["阿佳拉·亡歌"] = {
+							["Details"] = {
+								["死亡之歌"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉泣厄战士"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+								["鹰身人的尖叫"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 34266,
+								},
+							},
+							["amount"] = 34266,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+								["鹰身人的尖叫"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["妖术师拉吉"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["Falling"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["鹰身人的尖叫"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["死亡之歌"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["妖术师拉吉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["阿佳拉·亡歌"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉泣厄战士"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["风领主之击"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["猛虎掌"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["幻灭踢"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["妖术师拉吉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["阿佳拉·亡歌"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉泣厄战士"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+						["碎玉闪电 (伤害/跳)"] = {
+							["Details"] = {
+								["紫喉召亡战士"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 0,
+								},
+								["Block"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 0,
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Nature"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["鹰身人的尖叫"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂光环"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["死亡嚎叫"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂光环 (伤害/跳)"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["女巫乌格拉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉飞行女巫"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["翔龙在天"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["碎玉闪电 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["女巫乌格拉"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["腐烂光环 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["鹰身人的尖叫"] = {
+									["count"] = 0,
+								},
+								["死亡嚎叫"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉飞行女巫"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+								["腐烂光环 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["腐烂光环"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["鹰身人的尖叫"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂光环"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["死亡嚎叫"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂光环 (伤害/跳)"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Physical"] = 0,
+					},
+					["TimeHealing"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["疗伤珠"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["女巫乌格拉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["碎玉闪电 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉飞行女巫"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["翔龙在天"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["疗伤珠"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["风领主之击"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit (被格挡)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["碎玉闪电 (伤害/跳)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["旭日东升踢"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["怒雷破"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["猛虎掌"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["幻灭踢"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["翔龙在天"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["女巫乌格拉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉飞行女巫"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["翔龙在天"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["碎玉闪电 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight3"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 17307,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Shadow"] = 17307,
+						["Fire"] = 0,
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["烧灼"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["鹰身人的尖叫"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂光环"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["腐烂光环 (伤害/跳)"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["升龙霸"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+								["腐烂光环 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["腐烂光环"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["烧灼"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 17307,
+								},
+							},
+							["amount"] = 17307,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["鹰身人的尖叫"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["烧灼"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["鹰身人的尖叫"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂光环"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["腐烂光环 (伤害/跳)"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["疗伤珠"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["升龙霸"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["疗伤珠"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["怒雷破"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["升龙霸"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["旭日东升踢"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["猛虎掌"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["幻灭踢"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["升龙霸"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["TimeHealing"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+								["真气波"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeSpent"] = {
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["真气波"] = {
+									["count"] = 0,
+								},
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["妖术师拉吉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+								["真气波"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamageTaken"] = 84923,
+					["PartialResist"] = {
+						["烧灼"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["鹰身人的尖叫"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂光环"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 5,
+						},
+						["腐烂光环 (伤害/跳)"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialAbsorb"] = {
+						["烧灼"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["鹰身人的尖叫"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂光环"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 5,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 5,
+							["amount"] = 0,
+						},
+						["腐烂光环 (伤害/跳)"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 0,
+					["ElementTaken"] = {
+						["Physical"] = 0,
+						["Fire"] = 0,
+						["Melee"] = 0,
+						["Shadow"] = 84923,
+					},
+					["Damage"] = 0,
+					["TimeHeal"] = 0,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+								["真气波"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Healing"] = 0,
+					["HealedWho"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+								["真气波"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["Heals"] = {
+						["疗伤珠"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["真气波"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["Attacks"] = {
+						["风领主之击"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["真气波"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["怒雷破"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["旭日东升踢"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["猛虎掌"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["幻灭踢"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["DamagedWho"] = {
+						["妖术师拉吉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["真气波"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeDamage"] = 0,
+					["WhoDamaged"] = {
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+								["腐烂光环 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["腐烂光环"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["烧灼"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 84923,
+								},
+							},
+							["amount"] = 84923,
+						},
+						["妖术师拉吉"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["鹰身人的尖叫"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDone"] = {
+						["Physical"] = 0,
+						["Melee"] = 0,
+						["Nature"] = 0,
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+					},
+					["TimeDamaging"] = {
+						["妖术师拉吉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["真气波"] = {
+									["count"] = 0,
+								},
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 37537,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Fire"] = 0,
+						["Melee"] = 0,
+						["Shadow"] = 37537,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["烧灼"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂光环"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["腐烂光环 (伤害/跳)"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["神鹤引项踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["天须死忠者"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["腐烂光环 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["腐烂光环"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["烧灼"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 37537,
+								},
+							},
+							["amount"] = 37537,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["烧灼"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂光环"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["腐烂光环 (伤害/跳)"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Physical"] = 0,
+					},
+					["TimeHealing"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["疗伤珠"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["天须死忠者"] = {
+							["Details"] = {
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["神鹤引项踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["疗伤珠"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["怒雷破"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["神鹤引项踢"] = {
+							["Details"] = {
+								["Hit (被格挡)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["旭日东升踢"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["猛虎掌"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["幻灭踢"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["神鹤引项踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 37537,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 0,
+								},
+								["Dodge"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Physical"] = {
+							["Details"] = {
+								["Block"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementTakenAbsorb"] = {
+					},
+					["ElementTaken"] = {
+						["Fire"] = 0,
+						["Melee"] = 0,
+						["Shadow"] = 37537,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["ElementTakenResist"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["FAttacks"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Physical"] = 0,
+					},
+					["PartialAbsorb"] = {
+						["烧灼"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂光环"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["腐烂光环 (伤害/跳)"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["神鹤引项踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["PartialBlock"] = {
+					},
+					["WhoDamaged"] = {
+						["天须死忠者"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["腐烂光环 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["腐烂光环"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["烧灼"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 37537,
+								},
+							},
+							["amount"] = 37537,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["PartialResist"] = {
+						["烧灼"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂光环"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["腐烂光环 (伤害/跳)"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["CCBroken"] = {
+					},
+					["ElementDoneBlock"] = {
+						["Physical"] = 0,
+					},
+					["TimeHealing"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["OverHeals"] = {
+						["疗伤珠"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["CCBreak"] = 0,
+					["RageGained"] = {
+					},
+					["HealedWho"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["天须死忠者"] = {
+							["Details"] = {
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["神鹤引项踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["Heals"] = {
+						["疗伤珠"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoHealed"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["疗伤珠"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGained"] = {
+					},
+					["ActiveTime"] = 0,
+					["Healing"] = 0,
+					["FDamagedWho"] = {
+					},
+					["Dispelled"] = 0,
+					["Attacks"] = {
+						["怒雷破"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["神鹤引项踢"] = {
+							["Details"] = {
+								["Hit (被格挡)"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["旭日东升踢"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["猛虎掌"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["幻灭踢"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["HealingTaken"] = 0,
+					["RageGain"] = 0,
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["旭日东升踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["幻灭踢"] = {
+									["count"] = 0,
+								},
+								["猛虎掌"] = {
+									["count"] = 0,
+								},
+								["神鹤引项踢"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["ElementDoneBlock"] = {
+						["Physical"] = 91244,
+					},
+					["TimeHealing"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["真气波"] = {
+									["count"] = 2.26,
+								},
+								["疗伤珠"] = {
+									["count"] = 1.75,
+								},
+							},
+							["amount"] = 4.01,
+						},
+					},
+					["OverHeals"] = {
+						["疗伤珠"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 153415,
+									["min"] = 116421,
+									["count"] = 3,
+									["amount"] = 392043,
+								},
+								["Hit"] = {
+									["max"] = 56246,
+									["min"] = 8795,
+									["count"] = 3,
+									["amount"] = 100558,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 492601,
+						},
+					},
+					["TimeSpent"] = {
+						["女巫乌格拉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.69,
+								},
+								["旭日东升踢"] = {
+									["count"] = 1.14,
+								},
+								["怒雷破"] = {
+									["count"] = 1.28,
+								},
+								["猛虎掌"] = {
+									["count"] = 1.86,
+								},
+								["幻灭踢"] = {
+									["count"] = 2.09,
+								},
+								["肉搏"] = {
+									["count"] = 9.69,
+								},
+							},
+							["amount"] = 16.75,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.72,
+								},
+								["碎玉闪电 (伤害/跳)"] = {
+									["count"] = 6.18,
+								},
+								["怒雷破"] = {
+									["count"] = 1.39,
+								},
+								["旭日东升踢"] = {
+									["count"] = 1.51,
+								},
+								["猛虎掌"] = {
+									["count"] = 4.81,
+								},
+								["幻灭踢"] = {
+									["count"] = 6.88,
+								},
+								["肉搏"] = {
+									["count"] = 20.16,
+								},
+							},
+							["amount"] = 41.65,
+						},
+						["紫喉飞行女巫"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.48,
+								},
+								["怒雷破"] = {
+									["count"] = 1.19,
+								},
+								["肉搏"] = {
+									["count"] = 1.82,
+								},
+								["猛虎掌"] = {
+									["count"] = 4.23,
+								},
+								["幻灭踢"] = {
+									["count"] = 0.38,
+								},
+								["翔龙在天"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 11.6,
+						},
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["真气波"] = {
+									["count"] = 2.26,
+								},
+								["疗伤珠"] = {
+									["count"] = 1.75,
+								},
+							},
+							["amount"] = 4.01,
+						},
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.9,
+								},
+								["升龙霸"] = {
+									["count"] = 0.85,
+								},
+								["真气波"] = {
+									["count"] = 0.23,
+								},
+								["怒雷破"] = {
+									["count"] = 9.05,
+								},
+								["猛虎掌"] = {
+									["count"] = 10.6,
+								},
+								["旭日东升踢"] = {
+									["count"] = 2.24,
+								},
+								["幻灭踢"] = {
+									["count"] = 4.67,
+								},
+								["肉搏"] = {
+									["count"] = 36.51,
+								},
+							},
+							["amount"] = 65.05,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 4.37,
+								},
+								["幻灭踢"] = {
+									["count"] = 1.06,
+								},
+								["猛虎掌"] = {
+									["count"] = 0.84,
+								},
+								["神鹤引项踢"] = {
+									["count"] = 1.86,
+								},
+								["肉搏"] = {
+									["count"] = 9.11,
+								},
+							},
+							["amount"] = 17.24,
+						},
+						["阿佳拉·亡歌"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.69,
+								},
+								["猛虎掌"] = {
+									["count"] = 0.82,
+								},
+								["幻灭踢"] = {
+									["count"] = 0.99,
+								},
+								["肉搏"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 6.5,
+						},
+						["紫喉泣厄战士"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.85,
+								},
+								["猛虎掌"] = {
+									["count"] = 0.88,
+								},
+								["幻灭踢"] = {
+									["count"] = 0.97,
+								},
+								["肉搏"] = {
+									["count"] = 4.36,
+								},
+							},
+							["amount"] = 7.06,
+						},
+						["紫喉女王"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.77,
+								},
+								["升龙霸"] = {
+									["count"] = 1.6,
+								},
+								["怒雷破"] = {
+									["count"] = 4.23,
+								},
+								["真气波"] = {
+									["count"] = 1.07,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0.41,
+								},
+								["猛虎掌"] = {
+									["count"] = 2.38,
+								},
+								["幻灭踢"] = {
+									["count"] = 2.77,
+								},
+								["肉搏"] = {
+									["count"] = 12.69,
+								},
+							},
+							["amount"] = 25.92,
+						},
+						["妖术师拉吉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 1.52,
+								},
+								["猛虎掌"] = {
+									["count"] = 1.71,
+								},
+								["幻灭踢"] = {
+									["count"] = 2.01,
+								},
+								["肉搏"] = {
+									["count"] = 8.29,
+								},
+							},
+							["amount"] = 13.53,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 1.31,
+								},
+								["旭日东升踢"] = {
+									["count"] = 1.49,
+								},
+								["真气波"] = {
+									["count"] = 1.61,
+								},
+								["猛虎掌"] = {
+									["count"] = 4.08,
+								},
+								["幻灭踢"] = {
+									["count"] = 3.67,
+								},
+								["肉搏"] = {
+									["count"] = 14.61,
+								},
+							},
+							["amount"] = 26.77,
+						},
+					},
+					["DamageTaken"] = 2134270,
+					["PartialResist"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 36,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 36,
+						},
+						["腐烂光环"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 19,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 19,
+						},
+						["死亡嚎叫"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["烧灼"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 14,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 14,
+						},
+						["光辉之刃"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["鹰身人的尖叫"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 19,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 19,
+						},
+						["邪恶暴风"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["腐烂光环 (伤害/跳)"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 72,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 72,
+						},
+						["死亡之歌"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 2,
+						},
+						["撕裂旋风"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+						["夺目盛宴 (伤害/跳)"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 6,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 120,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 120,
+						},
+					},
+					["PartialAbsorb"] = {
+						["腐烂爆破"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 36,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 36,
+							["amount"] = 0,
+						},
+						["腐烂光环"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 19,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 0,
+						},
+						["死亡嚎叫"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["烧灼"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 14,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 0,
+						},
+						["光辉之刃"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["Falling"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["鹰身人的尖叫"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 19,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 0,
+						},
+						["邪恶暴风"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["腐烂光环 (伤害/跳)"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 72,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 72,
+							["amount"] = 0,
+						},
+						["死亡之歌"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 0,
+						},
+						["撕裂旋风"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+						["夺目盛宴 (伤害/跳)"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 6,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 120,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 120,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 236.08,
+					["ElementTaken"] = {
+						["Physical"] = 389345,
+						["Fire"] = 226457,
+						["Melee"] = 580950,
+						["Shadow"] = 937518,
+					},
+					["DOT_Time"] = 12,
+					["Damage"] = 8816836,
+					["DOTs"] = {
+						["碎玉闪电 (伤害/跳)"] = {
+							["Details"] = {
+								["紫喉召亡战士"] = {
+									["count"] = 12,
+								},
+							},
+							["amount"] = 12,
+						},
+					},
+					["TimeHeal"] = 4.01,
+					["Overhealing"] = 492601,
+					["ElementHitsDone"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 109,
+								},
+								["Miss"] = {
+									["count"] = 11,
+								},
+								["Block"] = {
+									["count"] = 4,
+								},
+								["Crit"] = {
+									["count"] = 49,
+								},
+								["Evade"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 176,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 23,
+								},
+								["Crit"] = {
+									["count"] = 36,
+								},
+								["Hit"] = {
+									["count"] = 65,
+								},
+							},
+							["amount"] = 124,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 2,
+								},
+								["Crit"] = {
+									["count"] = 7,
+								},
+								["Hit"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 16,
+						},
+					},
+					["WhoHealed"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["真气波"] = {
+									["count"] = 86693,
+								},
+								["疗伤珠"] = {
+									["count"] = 876991,
+								},
+							},
+							["amount"] = 963684,
+						},
+					},
+					["Healing"] = 963684,
+					["HealedWho"] = {
+						["多点糖多点爱"] = {
+							["Details"] = {
+								["真气波"] = {
+									["count"] = 86693,
+								},
+								["疗伤珠"] = {
+									["count"] = 876991,
+								},
+							},
+							["amount"] = 963684,
+						},
+					},
+					["Heals"] = {
+						["真气波"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 12358,
+									["min"] = 12358,
+									["count"] = 2,
+									["amount"] = 24716,
+								},
+								["Hit"] = {
+									["max"] = 6226,
+									["min"] = 6178,
+									["count"] = 10,
+									["amount"] = 61977,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 86693,
+						},
+						["疗伤珠"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 172337,
+									["min"] = 17622,
+									["count"] = 4,
+									["amount"] = 293403,
+								},
+								["Hit"] = {
+									["max"] = 85519,
+									["min"] = 29272,
+									["count"] = 8,
+									["amount"] = 583588,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 876991,
+						},
+					},
+					["Attacks"] = {
+						["升龙霸"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 70108,
+									["min"] = 64788,
+									["count"] = 2,
+									["amount"] = 134896,
+								},
+								["Hit"] = {
+									["max"] = 35054,
+									["min"] = 32394,
+									["count"] = 4,
+									["amount"] = 134896,
+								},
+							},
+							["count"] = 6,
+							["amount"] = 269792,
+						},
+						["碎玉闪电 (伤害/跳)"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 3337,
+									["min"] = 3336,
+									["count"] = 2,
+									["amount"] = 6673,
+								},
+								["Tick"] = {
+									["max"] = 1668,
+									["min"] = 1668,
+									["count"] = 2,
+									["amount"] = 3336,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 10009,
+						},
+						["猛虎掌"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 17740,
+									["min"] = 11669,
+									["count"] = 16,
+									["amount"] = 257807,
+								},
+								["Hit"] = {
+									["max"] = 8958,
+									["min"] = 5834,
+									["count"] = 43,
+									["amount"] = 346337,
+								},
+							},
+							["count"] = 60,
+							["amount"] = 604144,
+						},
+						["真气波"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 18966,
+									["min"] = 17169,
+									["count"] = 5,
+									["amount"] = 91530,
+								},
+								["Hit"] = {
+									["max"] = 9483,
+									["min"] = 8584,
+									["count"] = 7,
+									["amount"] = 63595,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 155125,
+						},
+						["神鹤引项踢"] = {
+							["Details"] = {
+								["Hit (被格挡)"] = {
+									["max"] = 10398,
+									["min"] = 10398,
+									["count"] = 2,
+									["amount"] = 20796,
+								},
+								["Crit"] = {
+									["max"] = 29709,
+									["min"] = 29709,
+									["count"] = 5,
+									["amount"] = 148545,
+								},
+								["Hit"] = {
+									["max"] = 14854,
+									["min"] = 14854,
+									["count"] = 5,
+									["amount"] = 74270,
+								},
+							},
+							["count"] = 12,
+							["amount"] = 243611,
+						},
+						["风领主之击"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Hit (被格挡)"] = {
+									["max"] = 129340,
+									["min"] = 62769,
+									["count"] = 2,
+									["amount"] = 192109,
+								},
+								["Crit"] = {
+									["max"] = 333178,
+									["min"] = 148891,
+									["count"] = 6,
+									["amount"] = 1462263,
+								},
+								["Hit"] = {
+									["max"] = 174492,
+									["min"] = 80685,
+									["count"] = 13,
+									["amount"] = 1692829,
+								},
+							},
+							["count"] = 22,
+							["amount"] = 3347201,
+						},
+						["怒雷破"] = {
+							["Details"] = {
+								["Evade"] = {
+									["count"] = 3,
+									["amount"] = 0,
+								},
+								["Miss"] = {
+									["count"] = 7,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 81961,
+									["min"] = 77987,
+									["count"] = 4,
+									["amount"] = 319896,
+								},
+								["Hit"] = {
+									["max"] = 44345,
+									["min"] = 38993,
+									["count"] = 19,
+									["amount"] = 794999,
+								},
+							},
+							["count"] = 33,
+							["amount"] = 1114895,
+						},
+						["翔龙在天"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 7972,
+									["min"] = 7972,
+									["count"] = 1,
+									["amount"] = 7972,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 7972,
+						},
+						["旭日东升踢"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 153731,
+									["min"] = 143129,
+									["count"] = 5,
+									["amount"] = 740793,
+								},
+								["Hit"] = {
+									["max"] = 79020,
+									["min"] = 68583,
+									["count"] = 5,
+									["amount"] = 368391,
+								},
+							},
+							["count"] = 10,
+							["amount"] = 1109184,
+						},
+						["幻灭踢"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 2,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 78048,
+									["min"] = 69974,
+									["count"] = 10,
+									["amount"] = 736065,
+								},
+								["Hit"] = {
+									["max"] = 39414,
+									["min"] = 32332,
+									["count"] = 16,
+									["amount"] = 573936,
+								},
+							},
+							["count"] = 28,
+							["amount"] = 1310001,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 23,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 13899,
+									["min"] = 5389,
+									["count"] = 36,
+									["amount"] = 348361,
+								},
+								["Hit"] = {
+									["max"] = 6785,
+									["min"] = 2696,
+									["count"] = 65,
+									["amount"] = 296541,
+								},
+							},
+							["count"] = 124,
+							["amount"] = 644902,
+						},
+					},
+					["HealingTaken"] = 963684,
+					["DamagedWho"] = {
+						["女巫乌格拉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 338367,
+								},
+								["旭日东升踢"] = {
+									["count"] = 153731,
+								},
+								["怒雷破"] = {
+									["count"] = 85632,
+								},
+								["猛虎掌"] = {
+									["count"] = 58419,
+								},
+								["幻灭踢"] = {
+									["count"] = 74011,
+								},
+								["肉搏"] = {
+									["count"] = 37524,
+								},
+							},
+							["amount"] = 747684,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 229587,
+								},
+								["碎玉闪电 (伤害/跳)"] = {
+									["count"] = 10009,
+								},
+								["怒雷破"] = {
+									["count"] = 85632,
+								},
+								["旭日东升踢"] = {
+									["count"] = 216019,
+								},
+								["猛虎掌"] = {
+									["count"] = 107815,
+								},
+								["幻灭踢"] = {
+									["count"] = 252310,
+								},
+								["肉搏"] = {
+									["count"] = 130074,
+								},
+							},
+							["amount"] = 1031446,
+						},
+						["紫喉飞行女巫"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 210025,
+								},
+								["怒雷破"] = {
+									["count"] = 43581,
+								},
+								["肉搏"] = {
+									["count"] = 40631,
+								},
+								["猛虎掌"] = {
+									["count"] = 32727,
+								},
+								["幻灭踢"] = {
+									["count"] = 35660,
+								},
+								["翔龙在天"] = {
+									["count"] = 7972,
+								},
+							},
+							["amount"] = 370596,
+						},
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 301241,
+								},
+								["风领主之击"] = {
+									["count"] = 258831,
+								},
+								["升龙霸"] = {
+									["count"] = 140216,
+								},
+								["真气波"] = {
+									["count"] = 64627,
+								},
+								["旭日东升踢"] = {
+									["count"] = 371075,
+								},
+								["猛虎掌"] = {
+									["count"] = 152234,
+								},
+								["幻灭踢"] = {
+									["count"] = 377455,
+								},
+								["肉搏"] = {
+									["count"] = 182635,
+								},
+							},
+							["amount"] = 1848314,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 311946,
+								},
+								["幻灭踢"] = {
+									["count"] = 34987,
+								},
+								["猛虎掌"] = {
+									["count"] = 27267,
+								},
+								["神鹤引项踢"] = {
+									["count"] = 243611,
+								},
+								["肉搏"] = {
+									["count"] = 26536,
+								},
+							},
+							["amount"] = 644347,
+						},
+						["阿佳拉·亡歌"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 333178,
+								},
+								["猛虎掌"] = {
+									["count"] = 15904,
+								},
+								["幻灭踢"] = {
+									["count"] = 34987,
+								},
+								["肉搏"] = {
+									["count"] = 21472,
+								},
+							},
+							["amount"] = 405541,
+						},
+						["紫喉泣厄战士"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 340300,
+								},
+								["猛虎掌"] = {
+									["count"] = 15904,
+								},
+								["幻灭踢"] = {
+									["count"] = 69974,
+								},
+								["肉搏"] = {
+									["count"] = 19827,
+								},
+							},
+							["amount"] = 446005,
+						},
+						["紫喉女王"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 455904,
+								},
+								["升龙霸"] = {
+									["count"] = 129576,
+								},
+								["怒雷破"] = {
+									["count"] = 286863,
+								},
+								["真气波"] = {
+									["count"] = 47415,
+								},
+								["旭日东升踢"] = {
+									["count"] = 139616,
+								},
+								["猛虎掌"] = {
+									["count"] = 71652,
+								},
+								["幻灭踢"] = {
+									["count"] = 140521,
+								},
+								["肉搏"] = {
+									["count"] = 59059,
+								},
+							},
+							["amount"] = 1330606,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 621637,
+								},
+								["旭日东升踢"] = {
+									["count"] = 228743,
+								},
+								["真气波"] = {
+									["count"] = 43083,
+								},
+								["猛虎掌"] = {
+									["count"] = 76625,
+								},
+								["幻灭踢"] = {
+									["count"] = 185808,
+								},
+								["肉搏"] = {
+									["count"] = 81868,
+								},
+							},
+							["amount"] = 1237764,
+						},
+						["妖术师拉吉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 559372,
+								},
+								["猛虎掌"] = {
+									["count"] = 45597,
+								},
+								["幻灭踢"] = {
+									["count"] = 104288,
+								},
+								["肉搏"] = {
+									["count"] = 45276,
+								},
+							},
+							["amount"] = 754533,
+						},
+					},
+					["TimeDamage"] = 232.07,
+					["WhoDamaged"] = {
+						["女巫乌格拉"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 11861,
+								},
+								["肉搏"] = {
+									["count"] = 18270,
+								},
+							},
+							["amount"] = 30131,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["鹰身人的尖叫"] = {
+									["count"] = 312700,
+								},
+								["死亡嚎叫"] = {
+									["count"] = 18561,
+								},
+								["肉搏"] = {
+									["count"] = 79020,
+								},
+							},
+							["amount"] = 410281,
+						},
+						["巫环女巫"] = {
+							["Details"] = {
+								["腐烂爆破"] = {
+									["count"] = 530604,
+								},
+							},
+							["amount"] = 530604,
+						},
+						["紫喉飞行女巫"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 8120,
+								},
+								["腐烂光环 (伤害/跳)"] = {
+									["count"] = 6049,
+								},
+								["腐烂光环"] = {
+									["count"] = 15103,
+								},
+							},
+							["amount"] = 29272,
+						},
+						["阿佳拉·亡歌"] = {
+							["Details"] = {
+								["死亡之歌"] = {
+									["count"] = 1779,
+								},
+							},
+							["amount"] = 1779,
+						},
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 134512,
+								},
+								["腐烂光环 (伤害/跳)"] = {
+									["count"] = 104398,
+								},
+								["腐烂光环"] = {
+									["count"] = 225187,
+								},
+							},
+							["amount"] = 464097,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["烧灼"] = {
+									["count"] = 224902,
+								},
+								["肉搏"] = {
+									["count"] = 72372,
+								},
+							},
+							["amount"] = 297274,
+						},
+						["Environment"] = {
+							["Details"] = {
+								["Falling"] = {
+									["count"] = 5258,
+								},
+							},
+							["amount"] = 5258,
+						},
+						["紫喉泣厄战士"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 9155,
+								},
+								["鹰身人的尖叫"] = {
+									["count"] = 36056,
+								},
+							},
+							["amount"] = 45211,
+						},
+						["紫喉女王"] = {
+							["Details"] = {
+								["光辉之刃"] = {
+									["count"] = 1555,
+								},
+								["邪恶暴风"] = {
+									["count"] = 25522,
+								},
+								["撕裂旋风"] = {
+									["count"] = 17015,
+								},
+								["夺目盛宴 (伤害/跳)"] = {
+									["count"] = 16770,
+								},
+								["肉搏"] = {
+									["count"] = 90158,
+								},
+							},
+							["amount"] = 151020,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 81494,
+								},
+							},
+							["amount"] = 81494,
+						},
+						["妖术师拉吉"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 87849,
+								},
+							},
+							["amount"] = 87849,
+						},
+					},
+					["ElementDone"] = {
+						["Physical"] = 8006800,
+						["Melee"] = 644902,
+						["Nature"] = 165134,
+					},
+					["ElementHitsTaken"] = {
+						["Physical"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 6,
+								},
+								["Miss"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 27,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 15,
+								},
+							},
+							["amount"] = 15,
+						},
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 86,
+								},
+								["Dodge"] = {
+									["count"] = 15,
+								},
+								["Miss"] = {
+									["count"] = 12,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Parry"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 120,
+						},
+						["Shadow"] = {
+							["Details"] = {
+								["Miss"] = {
+									["count"] = 3,
+								},
+								["Tick"] = {
+									["count"] = 72,
+								},
+								["Hit"] = {
+									["count"] = 56,
+								},
+							},
+							["amount"] = 131,
+						},
+					},
+					["TimeDamaging"] = {
+						["女巫乌格拉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.69,
+								},
+								["旭日东升踢"] = {
+									["count"] = 1.14,
+								},
+								["怒雷破"] = {
+									["count"] = 1.28,
+								},
+								["猛虎掌"] = {
+									["count"] = 1.86,
+								},
+								["幻灭踢"] = {
+									["count"] = 2.09,
+								},
+								["肉搏"] = {
+									["count"] = 9.69,
+								},
+							},
+							["amount"] = 16.75,
+						},
+						["紫喉召亡战士"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.72,
+								},
+								["碎玉闪电 (伤害/跳)"] = {
+									["count"] = 6.18,
+								},
+								["怒雷破"] = {
+									["count"] = 1.39,
+								},
+								["旭日东升踢"] = {
+									["count"] = 1.51,
+								},
+								["猛虎掌"] = {
+									["count"] = 4.81,
+								},
+								["幻灭踢"] = {
+									["count"] = 6.88,
+								},
+								["肉搏"] = {
+									["count"] = 20.16,
+								},
+							},
+							["amount"] = 41.65,
+						},
+						["紫喉飞行女巫"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.48,
+								},
+								["怒雷破"] = {
+									["count"] = 1.19,
+								},
+								["肉搏"] = {
+									["count"] = 1.82,
+								},
+								["猛虎掌"] = {
+									["count"] = 4.23,
+								},
+								["幻灭踢"] = {
+									["count"] = 0.38,
+								},
+								["翔龙在天"] = {
+									["count"] = 3.5,
+								},
+							},
+							["amount"] = 11.6,
+						},
+						["紫喉巫羽法师"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.9,
+								},
+								["升龙霸"] = {
+									["count"] = 0.85,
+								},
+								["真气波"] = {
+									["count"] = 0.23,
+								},
+								["怒雷破"] = {
+									["count"] = 9.05,
+								},
+								["猛虎掌"] = {
+									["count"] = 10.6,
+								},
+								["旭日东升踢"] = {
+									["count"] = 2.24,
+								},
+								["幻灭踢"] = {
+									["count"] = 4.67,
+								},
+								["肉搏"] = {
+									["count"] = 36.51,
+								},
+							},
+							["amount"] = 65.05,
+						},
+						["天须死忠者"] = {
+							["Details"] = {
+								["怒雷破"] = {
+									["count"] = 4.37,
+								},
+								["幻灭踢"] = {
+									["count"] = 1.06,
+								},
+								["猛虎掌"] = {
+									["count"] = 0.84,
+								},
+								["神鹤引项踢"] = {
+									["count"] = 1.86,
+								},
+								["肉搏"] = {
+									["count"] = 9.11,
+								},
+							},
+							["amount"] = 17.24,
+						},
+						["阿佳拉·亡歌"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.69,
+								},
+								["猛虎掌"] = {
+									["count"] = 0.82,
+								},
+								["幻灭踢"] = {
+									["count"] = 0.99,
+								},
+								["肉搏"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 6.5,
+						},
+						["紫喉泣厄战士"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.85,
+								},
+								["猛虎掌"] = {
+									["count"] = 0.88,
+								},
+								["幻灭踢"] = {
+									["count"] = 0.97,
+								},
+								["肉搏"] = {
+									["count"] = 4.36,
+								},
+							},
+							["amount"] = 7.06,
+						},
+						["紫喉女王"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 0.77,
+								},
+								["升龙霸"] = {
+									["count"] = 1.6,
+								},
+								["怒雷破"] = {
+									["count"] = 4.23,
+								},
+								["真气波"] = {
+									["count"] = 1.07,
+								},
+								["旭日东升踢"] = {
+									["count"] = 0.41,
+								},
+								["猛虎掌"] = {
+									["count"] = 2.38,
+								},
+								["幻灭踢"] = {
+									["count"] = 2.77,
+								},
+								["肉搏"] = {
+									["count"] = 12.69,
+								},
+							},
+							["amount"] = 25.92,
+						},
+						["紫喉炎女巫"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 1.31,
+								},
+								["旭日东升踢"] = {
+									["count"] = 1.49,
+								},
+								["真气波"] = {
+									["count"] = 1.61,
+								},
+								["猛虎掌"] = {
+									["count"] = 4.08,
+								},
+								["幻灭踢"] = {
+									["count"] = 3.67,
+								},
+								["肉搏"] = {
+									["count"] = 14.61,
+								},
+							},
+							["amount"] = 26.77,
+						},
+						["妖术师拉吉"] = {
+							["Details"] = {
+								["风领主之击"] = {
+									["count"] = 1.52,
+								},
+								["猛虎掌"] = {
+									["count"] = 1.71,
+								},
+								["幻灭踢"] = {
+									["count"] = 2.01,
+								},
+								["肉搏"] = {
+									["count"] = 8.29,
+								},
+							},
+							["amount"] = 13.53,
+						},
+					},
+				},
+			},
+			["UnitLockout"] = 18169.136,
+			["LastActive"] = 19691.143,
+		},
+	},
+	["FightNum"] = 34,
+	["CombatTimes"] = {
+		{
+			18169.136, -- [1]
+			18182.141, -- [2]
+			"02:19:06", -- [3]
+			"02:19:19", -- [4]
+			"紫喉炎女巫", -- [5]
+		}, -- [1]
+		{
+			18182.141, -- [1]
+			18190.141, -- [2]
+			"02:19:19", -- [3]
+			"02:19:27", -- [4]
+			"紫喉炎女巫", -- [5]
+		}, -- [2]
+		{
+			18202.136, -- [1]
+			18226.137, -- [2]
+			"02:19:39", -- [3]
+			"02:20:03", -- [4]
+			"紫喉炎女巫", -- [5]
+		}, -- [3]
+		{
+			18243.137, -- [1]
+			18253.138, -- [2]
+			"02:20:21", -- [3]
+			"02:20:30", -- [4]
+			"紫喉炎女巫", -- [5]
+		}, -- [4]
+		{
+			18316.137, -- [1]
+			18332.135, -- [2]
+			"02:21:33", -- [3]
+			"02:21:49", -- [4]
+			"紫喉飞行女巫", -- [5]
+		}, -- [5]
+		{
+			18407.137, -- [1]
+			18414.138, -- [2]
+			"02:23:04", -- [3]
+			"02:23:11", -- [4]
+			"紫喉泣厄战士", -- [5]
+		}, -- [6]
+		{
+			18476.141, -- [1]
+			18520.141, -- [2]
+			"02:24:13", -- [3]
+			"02:24:57", -- [4]
+			"天须死忠者", -- [5]
+		}, -- [7]
+		{
+			18523.138, -- [1]
+			18535.139, -- [2]
+			"02:25:00", -- [3]
+			"02:25:12", -- [4]
+			"天须死忠者", -- [5]
+		}, -- [8]
+		{
+			18535.139, -- [1]
+			18541.134, -- [2]
+			"02:25:12", -- [3]
+			"02:25:18", -- [4]
+			"紫喉召亡战士", -- [5]
+		}, -- [9]
+		{
+			18545.141, -- [1]
+			18553.14, -- [2]
+			"02:25:22", -- [3]
+			"02:25:30", -- [4]
+			"紫喉巫羽法师", -- [5]
+		}, -- [10]
+		{
+			18562.136, -- [1]
+			18583.142, -- [2]
+			"02:25:39", -- [3]
+			"02:26:00", -- [4]
+			"紫喉召亡战士", -- [5]
+		}, -- [11]
+		{
+			18754.137, -- [1]
+			18759.142, -- [2]
+			"02:28:51", -- [3]
+			"02:28:56", -- [4]
+			"妖术师拉吉", -- [5]
+		}, -- [12]
+		{
+			18824.142, -- [1]
+			18841.141, -- [2]
+			"02:30:01", -- [3]
+			"02:30:18", -- [4]
+			"妖术师拉吉", -- [5]
+		}, -- [13]
+		{
+			18861.139, -- [1]
+			18883.141, -- [2]
+			"02:30:38", -- [3]
+			"02:31:00", -- [4]
+			"紫喉召亡战士", -- [5]
+		}, -- [14]
+		{
+			18888.14, -- [1]
+			18893.142, -- [2]
+			"02:31:05", -- [3]
+			"02:31:10", -- [4]
+			"紫喉巫羽法师", -- [5]
+		}, -- [15]
+		{
+			18955.134, -- [1]
+			18962.133, -- [2]
+			"02:32:12", -- [3]
+			"02:32:19", -- [4]
+			"天须死忠者", -- [5]
+		}, -- [16]
+		{
+			18982.135, -- [1]
+			19008.141, -- [2]
+			"02:32:39", -- [3]
+			"02:33:05", -- [4]
+			"紫喉召亡战士", -- [5]
+		}, -- [17]
+		{
+			19024.133, -- [1]
+			19044.139, -- [2]
+			"02:33:21", -- [3]
+			"02:33:41", -- [4]
+			"天须死忠者", -- [5]
+		}, -- [18]
+		{
+			19069.138, -- [1]
+			19076.139, -- [2]
+			"02:34:06", -- [3]
+			"02:34:13", -- [4]
+			"紫喉召亡战士", -- [5]
+		}, -- [19]
+		{
+			19115.135, -- [1]
+			19132.133, -- [2]
+			"02:34:52", -- [3]
+			"02:35:09", -- [4]
+			"紫喉召亡战士", -- [5]
+		}, -- [20]
+		{
+			19132.133, -- [1]
+			19156.134, -- [2]
+			"02:35:09", -- [3]
+			"02:35:33", -- [4]
+			"紫喉女王", -- [5]
+		}, -- [21]
+		{
+			19515.143, -- [1]
+			19524.14, -- [2]
+			"02:41:32", -- [3]
+			"02:41:41", -- [4]
+			"巫环风鹏", -- [5]
+		}, -- [22]
+		{
+			19526.142, -- [1]
+			19536.134, -- [2]
+			"02:41:43", -- [3]
+			"02:41:53", -- [4]
+			"巫环风鹏", -- [5]
+		}, -- [23]
+		{
+			19539.138, -- [1]
+			19546.139, -- [2]
+			"02:41:56", -- [3]
+			"02:42:03", -- [4]
+			"巫环风鹏", -- [5]
+		}, -- [24]
+		{
+			19550.141, -- [1]
+			19563.133, -- [2]
+			"02:42:07", -- [3]
+			"02:42:20", -- [4]
+			"巫环女巫", -- [5]
+		}, -- [25]
+		{
+			19570.138, -- [1]
+			19577.141, -- [2]
+			"02:42:27", -- [3]
+			"02:42:34", -- [4]
+			"巫环风鹏", -- [5]
+		}, -- [26]
+		{
+			19578.137, -- [1]
+			19589.134, -- [2]
+			"02:42:35", -- [3]
+			"02:42:46", -- [4]
+			"巫环风鹏", -- [5]
+		}, -- [27]
+		{
+			19589.134, -- [1]
+			19601.133, -- [2]
+			"02:42:46", -- [3]
+			"02:42:58", -- [4]
+			"巫环风鹏", -- [5]
+		}, -- [28]
+		{
+			19602.138, -- [1]
+			19609.142, -- [2]
+			"02:42:59", -- [3]
+			"02:43:06", -- [4]
+			"巫环女巫", -- [5]
+		}, -- [29]
+		{
+			19610.139, -- [1]
+			19617.138, -- [2]
+			"02:43:07", -- [3]
+			"02:43:14", -- [4]
+			"巫环女巫", -- [5]
+		}, -- [30]
+		{
+			19617.138, -- [1]
+			19648.133, -- [2]
+			"02:43:14", -- [3]
+			"02:43:45", -- [4]
+			"巫环女巫", -- [5]
+		}, -- [31]
+		{
+			19650.137, -- [1]
+			19668.134, -- [2]
+			"02:43:47", -- [3]
+			"02:44:05", -- [4]
+			"巫环风鹏", -- [5]
+		}, -- [32]
+		{
+			19668.134, -- [1]
+			19674.142, -- [2]
+			"02:44:05", -- [3]
+			"02:44:11", -- [4]
+			"巫环女巫", -- [5]
+		}, -- [33]
+		{
+			19679.136, -- [1]
+			19703.137, -- [2]
+			"02:44:16", -- [3]
+			"02:44:40", -- [4]
+			"巫环女巫", -- [5]
+		}, -- [34]
+	},
+	["FoughtWho"] = {
+		"巫环女巫 02:44:16-02:44:40", -- [1]
+		"巫环女巫 02:44:05-02:44:11", -- [2]
+		"巫环风鹏 02:43:47-02:44:05", -- [3]
+		"巫环女巫 02:43:14-02:43:45", -- [4]
+		"巫环女巫 02:43:07-02:43:14", -- [5]
+	},
+}

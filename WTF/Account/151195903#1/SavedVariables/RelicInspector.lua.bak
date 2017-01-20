@@ -1,0 +1,12 @@
+
+RelicInspectorDB = {
+	["profileKeys"] = {
+		["Smxx - 暗影之月"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["hoverTraitDesc"] = "Always",
+			["relicSpecs"] = "SpecsTraitDescription",
+		},
+	},
+}

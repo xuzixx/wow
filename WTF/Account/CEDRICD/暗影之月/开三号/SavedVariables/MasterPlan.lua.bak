@@ -1,0 +1,14 @@
+
+MasterPlanPC = {
+	["version"] = "0.105",
+	["complete"] = {
+		[367] = 1482656115,
+		[206] = 1482656115,
+		[139] = 1482656115,
+		[331] = 1482656115,
+	},
+}
+SVPC_GarrisonMissionManager = {
+	["ignored_followers"] = {
+	},
+}

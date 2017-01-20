@@ -1,0 +1,2042 @@
+
+SkadaPerCharDB = {
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 11,
+			["interrupts"] = 0,
+			["endtime"] = 1479626899,
+			["damage"] = 324,
+			["players"] = {
+				{
+					["last"] = 1479626898,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["邪劣魔"] = 324,
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 9,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 324,
+					["damagespells"] = {
+						["水元素: 水箭"] = {
+							["hitmin"] = 63,
+							["max"] = 77,
+							["min"] = 63,
+							["hitmax"] = 77,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["hitamount"] = 278,
+							["id"] = 31707,
+							["damage"] = 278,
+						},
+						["攻击"] = {
+							["hitmin"] = 23,
+							["max"] = 23,
+							["min"] = 23,
+							["hitmax"] = 23,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 46,
+							["id"] = 6603,
+							["damage"] = 46,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 31,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA17A",
+					["first"] = 1479626889,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+						["攻击"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 15,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "攻击",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 16,
+							["damage"] = 31,
+						},
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "白富美大橙腿",
+					["healingspells"] = {
+						["迅捷的正义之手"] = {
+							["shielding"] = 0,
+							["id"] = 59913,
+							["healing"] = 27,
+							["min"] = 27,
+							["name"] = "迅捷的正义之手",
+							["max"] = 27,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["healing"] = 27,
+					["healed"] = {
+						["Player-916-037AA17A"] = {
+							["role"] = "DAMAGER",
+							["name"] = "白富美大橙腿",
+							["amount"] = 27,
+							["class"] = "MAGE",
+							["shielding"] = 0,
+						},
+					},
+					["maxhp"] = 1314,
+					["ccbreaks"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1479626898,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 0,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 0,
+					["damagespells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA28A",
+					["first"] = 1479626898,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "吃饱了得橙",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 1242,
+					["ccbreaks"] = 0,
+				}, -- [2]
+				{
+					["last"] = 1479626898,
+					["healingabsorbed"] = 0,
+					["class"] = "ROGUE",
+					["damaged"] = {
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 0,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 0,
+					["damagespells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA1F7",
+					["first"] = 1479626898,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "橙月夜袭",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 1278,
+					["ccbreaks"] = 0,
+				}, -- [3]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["邪劣魔"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 324,
+							["done"] = 31,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 324,
+					["done"] = 31,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["damagetaken"] = 31,
+			["healing"] = 27,
+			["ffdamagedone"] = 0,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["starttime"] = 1479626888,
+			["name"] = "邪劣魔",
+			["mobname"] = "邪劣魔",
+			["mobtaken"] = 324,
+			["mobhdone"] = 0,
+			["last_action"] = 1479626888,
+			["mobdone"] = 31,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 21,
+			["interrupts"] = 0,
+			["endtime"] = 1479626865,
+			["damage"] = 0,
+			["players"] = {
+				{
+					["last"] = 1479626853,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 8,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 0,
+					["damagespells"] = {
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 29,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA17A",
+					["first"] = 1479626845,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+						["攻击"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 14,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "攻击",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 15,
+							["damage"] = 29,
+						},
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "白富美大橙腿",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 1314,
+					["ccbreaks"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1479626859,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 3,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 0,
+					["damagespells"] = {
+						["月火术"] = {
+							["EVADE"] = 3,
+							["totalhits"] = 3,
+							["id"] = 8921,
+							["max"] = 0,
+							["damage"] = 0,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA28A",
+					["first"] = 1479626856,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+						[8] = {
+							["amount"] = 9,
+							["spells"] = {
+								[8921] = 9,
+							},
+						},
+					},
+					["overhealing"] = 0,
+					["name"] = "吃饱了得橙",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 1242,
+					["ccbreaks"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["堕落的蓟熊"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 0,
+							["done"] = 29,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 29,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["刷老虎滴-壁炉谷"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["迅捷的正义之手"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 38,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["迅捷的正义之手"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 38,
+							["hits"] = 2,
+						},
+					},
+				},
+			},
+			["shielding"] = 0,
+			["damagetaken"] = 29,
+			["healing"] = 0,
+			["ffdamagedone"] = 0,
+			["power"] = {
+				[8] = 9,
+			},
+			["overhealing"] = 0,
+			["starttime"] = 1479626844,
+			["name"] = "堕落的蓟熊 (9)",
+			["mobname"] = "堕落的蓟熊",
+			["mobtaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1479626844,
+			["mobdone"] = 29,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["endtime"] = 1479626713,
+			["damage"] = 269,
+			["players"] = {
+				{
+					["last"] = 1479626705,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["堕落的蓟熊"] = 172,
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 1,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 172,
+					["damagespells"] = {
+						["冰枪术"] = {
+							["hitmin"] = 86,
+							["max"] = 86,
+							["min"] = 86,
+							["hitmax"] = 86,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 172,
+							["id"] = 228598,
+							["damage"] = 172,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA17A",
+					["first"] = 1479626704,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "白富美大橙腿",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 1314,
+					["ccbreaks"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1479626713,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["堕落的蓟熊"] = 97,
+					},
+					["auras"] = {
+						["急奔"] = {
+							["name"] = "急奔",
+							["active"] = 0,
+							["id"] = 1850,
+							["auratype"] = "BUFF",
+							["uptime"] = 9,
+						},
+						["猎豹形态"] = {
+							["name"] = "猎豹形态",
+							["active"] = 0,
+							["id"] = 768,
+							["auratype"] = "BUFF",
+							["uptime"] = 0,
+						},
+					},
+					["role"] = "DAMAGER",
+					["time"] = 9,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 97,
+					["damagespells"] = {
+						["月火术"] = {
+							["hitmin"] = 97,
+							["max"] = 97,
+							["min"] = 97,
+							["hitmax"] = 97,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 97,
+							["id"] = 164812,
+							["damage"] = 97,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA28A",
+					["first"] = 1479626704,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+						[8] = {
+							["amount"] = 3,
+							["spells"] = {
+								[8921] = 3,
+							},
+						},
+					},
+					["overhealing"] = 0,
+					["name"] = "吃饱了得橙",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 1242,
+					["ccbreaks"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["堕落的蓟熊"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 172,
+							["done"] = 0,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+						["吃饱了得橙"] = {
+							["taken"] = 97,
+							["done"] = 0,
+							["role"] = "DAMAGER",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 269,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["damagetaken"] = 0,
+			["healing"] = 0,
+			["ffdamagedone"] = 0,
+			["power"] = {
+				[8] = 3,
+			},
+			["overhealing"] = 0,
+			["starttime"] = 1479626704,
+			["name"] = "堕落的蓟熊 (8)",
+			["mobname"] = "堕落的蓟熊",
+			["mobtaken"] = 269,
+			["mobhdone"] = 0,
+			["last_action"] = 1479626704,
+			["mobdone"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1479626624,
+			["damage"] = 687,
+			["players"] = {
+				{
+					["last"] = 1479626622,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["堕落的蓟熊"] = 292,
+						["堕落的蓟熊女王"] = 85,
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 4,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 377,
+					["damagespells"] = {
+						["冰枪术"] = {
+							["hitmin"] = 80,
+							["max"] = 88,
+							["min"] = 80,
+							["hitmax"] = 88,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["hitamount"] = 253,
+							["id"] = 228598,
+							["damage"] = 253,
+						},
+						["水元素: 水箭"] = {
+							["criticalamount"] = 124,
+							["max"] = 124,
+							["min"] = 124,
+							["criticalmax"] = 124,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["criticalmin"] = 124,
+							["id"] = 31707,
+							["damage"] = 124,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA17A",
+					["first"] = 1479626618,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["overhealing"] = 54,
+					["name"] = "白富美大橙腿",
+					["healingspells"] = {
+						["迅捷的正义之手"] = {
+							["shielding"] = 0,
+							["id"] = 59913,
+							["healing"] = 0,
+							["min"] = 0,
+							["name"] = "迅捷的正义之手",
+							["max"] = 0,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 54,
+							["hits"] = 2,
+						},
+					},
+					["healing"] = 0,
+					["healed"] = {
+						["Player-916-037AA17A"] = {
+							["role"] = "DAMAGER",
+							["name"] = "白富美大橙腿",
+							["amount"] = 0,
+							["class"] = "MAGE",
+							["shielding"] = 0,
+						},
+					},
+					["maxhp"] = 1314,
+					["ccbreaks"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1479626622,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["堕落的蓟熊女王"] = 310,
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 3,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 310,
+					["damagespells"] = {
+						["十字军打击"] = {
+							["hitmin"] = 150,
+							["max"] = 150,
+							["min"] = 150,
+							["hitmax"] = 150,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 150,
+							["id"] = 35395,
+							["damage"] = 150,
+						},
+						["攻击"] = {
+							["hitmin"] = 78,
+							["max"] = 82,
+							["min"] = 78,
+							["hitmax"] = 82,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 160,
+							["id"] = 6603,
+							["damage"] = 160,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 22,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA162",
+					["first"] = 1479626619,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+						["攻击"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 10,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "攻击",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 12,
+							["damage"] = 22,
+						},
+					},
+					["power"] = {
+						[9] = {
+							["amount"] = 1,
+							["spells"] = {
+								[35395] = 1,
+							},
+						},
+					},
+					["overhealing"] = 0,
+					["name"] = "橙击",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 1206,
+					["ccbreaks"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["堕落的蓟熊"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 292,
+							["done"] = 0,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 292,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["堕落的蓟熊女王"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 85,
+							["done"] = 0,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+						["橙击"] = {
+							["taken"] = 310,
+							["done"] = 22,
+							["role"] = "DAMAGER",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 395,
+					["done"] = 22,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["damagetaken"] = 22,
+			["healing"] = 0,
+			["ffdamagedone"] = 0,
+			["power"] = {
+				[9] = 1,
+			},
+			["overhealing"] = 54,
+			["starttime"] = 1479626617,
+			["name"] = "堕落的蓟熊 (7)",
+			["mobname"] = "堕落的蓟熊",
+			["mobtaken"] = 687,
+			["mobhdone"] = 0,
+			["last_action"] = 1479626617,
+			["mobdone"] = 22,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 17,
+			["interrupts"] = 0,
+			["endtime"] = 1479626611,
+			["damage"] = 1293,
+			["players"] = {
+				{
+					["last"] = 1479626608,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["堕落的蓟熊"] = 343,
+						["堕落的蓟熊女王"] = 479,
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 13,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 822,
+					["damagespells"] = {
+						["冰枪术"] = {
+							["hitmin"] = 82,
+							["max"] = 88,
+							["min"] = 82,
+							["hitmax"] = 88,
+							["hit"] = 7,
+							["totalhits"] = 7,
+							["hitamount"] = 596,
+							["id"] = 228598,
+							["damage"] = 596,
+						},
+						["水元素: 水箭"] = {
+							["hitmin"] = 71,
+							["criticalamount"] = 155,
+							["max"] = 155,
+							["criticalmin"] = 155,
+							["critical"] = 1,
+							["min"] = 71,
+							["criticalmax"] = 155,
+							["hitmax"] = 71,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["hitamount"] = 71,
+							["id"] = 31707,
+							["damage"] = 226,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 15,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA17A",
+					["first"] = 1479626595,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+						["攻击"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 15,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "攻击",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 15,
+							["damage"] = 15,
+						},
+					},
+					["power"] = {
+					},
+					["overhealing"] = 39,
+					["name"] = "白富美大橙腿",
+					["healingspells"] = {
+						["迅捷的正义之手"] = {
+							["shielding"] = 0,
+							["id"] = 59913,
+							["healing"] = 15,
+							["min"] = 0,
+							["name"] = "迅捷的正义之手",
+							["max"] = 15,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 39,
+							["hits"] = 2,
+						},
+					},
+					["healing"] = 15,
+					["healed"] = {
+						["Player-916-037AA17A"] = {
+							["role"] = "DAMAGER",
+							["name"] = "白富美大橙腿",
+							["amount"] = 15,
+							["class"] = "MAGE",
+							["shielding"] = 0,
+						},
+					},
+					["maxhp"] = 1314,
+					["ccbreaks"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1479626601,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["堕落的蓟熊"] = 362,
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 1,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 362,
+					["damagespells"] = {
+						["十字军打击"] = {
+							["hitmin"] = 158,
+							["max"] = 158,
+							["min"] = 158,
+							["hitmax"] = 158,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 158,
+							["id"] = 35395,
+							["damage"] = 158,
+						},
+						["审判"] = {
+							["hitmin"] = 204,
+							["max"] = 204,
+							["min"] = 204,
+							["hitmax"] = 204,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 204,
+							["id"] = 20271,
+							["damage"] = 204,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA162",
+					["first"] = 1479626600,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+						[9] = {
+							["amount"] = 1,
+							["spells"] = {
+								[35395] = 1,
+							},
+						},
+					},
+					["overhealing"] = 0,
+					["name"] = "橙击",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 1206,
+					["ccbreaks"] = 0,
+				}, -- [2]
+				{
+					["last"] = 1479626603,
+					["healingabsorbed"] = 0,
+					["class"] = "ROGUE",
+					["damaged"] = {
+						["堕落的蓟熊"] = 109,
+					},
+					["auras"] = {
+						["致命药膏"] = {
+							["name"] = "致命药膏",
+							["active"] = 0,
+							["id"] = 2818,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+					},
+					["role"] = "DAMAGER",
+					["time"] = 0,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 109,
+					["damagespells"] = {
+						["影袭"] = {
+							["hitmin"] = 109,
+							["max"] = 109,
+							["min"] = 109,
+							["hitmax"] = 109,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 109,
+							["id"] = 1752,
+							["damage"] = 109,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 11,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA1F7",
+					["first"] = 1479626603,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+						["攻击"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 11,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "攻击",
+							["blocked"] = 0,
+							["totalhits"] = 1,
+							["resisted"] = 0,
+							["max"] = 11,
+							["damage"] = 11,
+						},
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "橙月夜袭",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 1278,
+					["ccbreaks"] = 0,
+				}, -- [3]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["堕落的蓟熊"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 343,
+							["done"] = 0,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+						["橙月夜袭"] = {
+							["taken"] = 109,
+							["done"] = 11,
+							["role"] = "DAMAGER",
+							["class"] = "ROGUE",
+						},
+						["橙击"] = {
+							["taken"] = 362,
+							["done"] = 0,
+							["role"] = "DAMAGER",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 814,
+					["done"] = 11,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["堕落的蓟熊女王"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 479,
+							["done"] = 15,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 479,
+					["done"] = 15,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["damagetaken"] = 26,
+			["healing"] = 15,
+			["ffdamagedone"] = 0,
+			["power"] = {
+				[9] = 1,
+			},
+			["overhealing"] = 39,
+			["starttime"] = 1479626594,
+			["name"] = "堕落的蓟熊 (6)",
+			["mobname"] = "堕落的蓟熊",
+			["mobtaken"] = 1293,
+			["mobhdone"] = 0,
+			["last_action"] = 1479626594,
+			["mobdone"] = 26,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 18,
+			["interrupts"] = 0,
+			["endtime"] = 1479626572,
+			["damage"] = 1281,
+			["players"] = {
+				{
+					["last"] = 1479626570,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["堕落的蓟熊"] = 1184,
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 16,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 1184,
+					["damagespells"] = {
+						["冰枪术"] = {
+							["hitmin"] = 80,
+							["max"] = 89,
+							["min"] = 80,
+							["hitmax"] = 89,
+							["hit"] = 10,
+							["totalhits"] = 10,
+							["hitamount"] = 835,
+							["id"] = 228598,
+							["damage"] = 835,
+						},
+						["水元素: 水箭"] = {
+							["hitmin"] = 65,
+							["criticalamount"] = 136,
+							["max"] = 136,
+							["hitmax"] = 79,
+							["hitamount"] = 213,
+							["min"] = 65,
+							["criticalmax"] = 136,
+							["critical"] = 1,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["criticalmin"] = 136,
+							["id"] = 31707,
+							["damage"] = 349,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 34,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA17A",
+					["first"] = 1479626554,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+						["攻击"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 11,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "攻击",
+							["blocked"] = 0,
+							["totalhits"] = 3,
+							["resisted"] = 0,
+							["max"] = 12,
+							["damage"] = 34,
+						},
+					},
+					["power"] = {
+					},
+					["overhealing"] = 47,
+					["name"] = "白富美大橙腿",
+					["healingspells"] = {
+						["迅捷的正义之手"] = {
+							["shielding"] = 0,
+							["id"] = 59913,
+							["healing"] = 34,
+							["min"] = 0,
+							["name"] = "迅捷的正义之手",
+							["max"] = 23,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 47,
+							["hits"] = 3,
+						},
+					},
+					["healing"] = 34,
+					["healed"] = {
+						["Player-916-037AA17A"] = {
+							["role"] = "DAMAGER",
+							["name"] = "白富美大橙腿",
+							["amount"] = 34,
+							["class"] = "MAGE",
+							["shielding"] = 0,
+						},
+					},
+					["maxhp"] = 1314,
+					["ccbreaks"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1479626565,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["堕落的蓟熊"] = 97,
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 0,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 97,
+					["damagespells"] = {
+						["月火术"] = {
+							["hitmin"] = 97,
+							["max"] = 97,
+							["min"] = 97,
+							["hitmax"] = 97,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["hitamount"] = 97,
+							["id"] = 164812,
+							["damage"] = 97,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA28A",
+					["first"] = 1479626565,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+						[8] = {
+							["amount"] = 3,
+							["spells"] = {
+								[8921] = 3,
+							},
+						},
+					},
+					["overhealing"] = 0,
+					["name"] = "吃饱了得橙",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 1242,
+					["ccbreaks"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["堕落的蓟熊"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 1184,
+							["done"] = 34,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+						["吃饱了得橙"] = {
+							["taken"] = 97,
+							["done"] = 0,
+							["role"] = "DAMAGER",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 1281,
+					["done"] = 34,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["damagetaken"] = 34,
+			["healing"] = 34,
+			["ffdamagedone"] = 0,
+			["power"] = {
+				[8] = 3,
+			},
+			["overhealing"] = 47,
+			["starttime"] = 1479626554,
+			["name"] = "堕落的蓟熊 (5)",
+			["mobname"] = "堕落的蓟熊",
+			["mobtaken"] = 1281,
+			["mobhdone"] = 0,
+			["last_action"] = 1479626554,
+			["mobdone"] = 34,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 7,
+			["interrupts"] = 0,
+			["endtime"] = 1479626523,
+			["damage"] = 807,
+			["players"] = {
+				{
+					["last"] = 1479626523,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["堕落的蓟熊"] = 807,
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 6,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 807,
+					["damagespells"] = {
+						["冰枪术"] = {
+							["hitmin"] = 80,
+							["criticalamount"] = 342,
+							["max"] = 174,
+							["hitmax"] = 84,
+							["hitamount"] = 247,
+							["min"] = 80,
+							["criticalmax"] = 174,
+							["critical"] = 2,
+							["hit"] = 3,
+							["totalhits"] = 5,
+							["criticalmin"] = 168,
+							["id"] = 228598,
+							["damage"] = 589,
+						},
+						["水元素: 水箭"] = {
+							["hitmin"] = 63,
+							["criticalamount"] = 155,
+							["max"] = 155,
+							["criticalmin"] = 155,
+							["critical"] = 1,
+							["min"] = 63,
+							["criticalmax"] = 155,
+							["hitmax"] = 63,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["hitamount"] = 63,
+							["id"] = 31707,
+							["damage"] = 218,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 23,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA17A",
+					["first"] = 1479626517,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+						["攻击"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 11,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "攻击",
+							["blocked"] = 0,
+							["totalhits"] = 2,
+							["resisted"] = 0,
+							["max"] = 12,
+							["damage"] = 23,
+						},
+					},
+					["power"] = {
+					},
+					["overhealing"] = 31,
+					["name"] = "白富美大橙腿",
+					["healingspells"] = {
+						["迅捷的正义之手"] = {
+							["shielding"] = 0,
+							["id"] = 59913,
+							["healing"] = 23,
+							["min"] = 11,
+							["name"] = "迅捷的正义之手",
+							["max"] = 12,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 31,
+							["hits"] = 2,
+						},
+					},
+					["healing"] = 23,
+					["healed"] = {
+						["Player-916-037AA17A"] = {
+							["role"] = "DAMAGER",
+							["name"] = "白富美大橙腿",
+							["amount"] = 23,
+							["class"] = "MAGE",
+							["shielding"] = 0,
+						},
+					},
+					["maxhp"] = 1314,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["堕落的蓟熊"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 807,
+							["done"] = 23,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 807,
+					["done"] = 23,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["damagetaken"] = 23,
+			["healing"] = 23,
+			["ffdamagedone"] = 0,
+			["power"] = {
+			},
+			["overhealing"] = 31,
+			["starttime"] = 1479626516,
+			["name"] = "堕落的蓟熊 (4)",
+			["mobname"] = "堕落的蓟熊",
+			["mobtaken"] = 807,
+			["mobhdone"] = 0,
+			["last_action"] = 1479626516,
+			["mobdone"] = 23,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["endtime"] = 1479626493,
+			["damage"] = 1116,
+			["players"] = {
+				{
+					["last"] = 1479626492,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["堕落的蓟熊"] = 562,
+						["堕落的蓟熊女王"] = 166,
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 13,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 728,
+					["damagespells"] = {
+						["冰枪术"] = {
+							["hitmin"] = 80,
+							["max"] = 87,
+							["min"] = 80,
+							["hitmax"] = 87,
+							["hit"] = 7,
+							["totalhits"] = 7,
+							["hitamount"] = 592,
+							["id"] = 228598,
+							["damage"] = 592,
+						},
+						["水元素: 水箭"] = {
+							["criticalamount"] = 136,
+							["max"] = 136,
+							["min"] = 136,
+							["criticalmax"] = 136,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["criticalmin"] = 136,
+							["id"] = 31707,
+							["damage"] = 136,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA17A",
+					["first"] = 1479626479,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+					},
+					["overhealing"] = 27,
+					["name"] = "白富美大橙腿",
+					["healingspells"] = {
+						["迅捷的正义之手"] = {
+							["shielding"] = 0,
+							["id"] = 59913,
+							["healing"] = 0,
+							["min"] = 0,
+							["name"] = "迅捷的正义之手",
+							["max"] = 0,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 27,
+							["hits"] = 1,
+						},
+					},
+					["healing"] = 0,
+					["healed"] = {
+						["Player-916-037AA17A"] = {
+							["role"] = "DAMAGER",
+							["name"] = "白富美大橙腿",
+							["amount"] = 0,
+							["class"] = "MAGE",
+							["shielding"] = 0,
+						},
+					},
+					["maxhp"] = 1314,
+					["ccbreaks"] = 0,
+				}, -- [1]
+				{
+					["last"] = 1479626492,
+					["healingabsorbed"] = 0,
+					["class"] = "DRUID",
+					["damaged"] = {
+						["堕落的蓟熊"] = 194,
+						["堕落的蓟熊女王"] = 194,
+					},
+					["auras"] = {
+						["月火术"] = {
+							["name"] = "月火术",
+							["active"] = 0,
+							["id"] = 164812,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "DAMAGER",
+					["time"] = 10,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 388,
+					["damagespells"] = {
+						["月火术"] = {
+							["hitmin"] = 97,
+							["max"] = 97,
+							["min"] = 97,
+							["hitmax"] = 97,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["hitamount"] = 388,
+							["id"] = 164812,
+							["damage"] = 388,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA28A",
+					["first"] = 1479626482,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+					},
+					["power"] = {
+						[8] = {
+							["amount"] = 12,
+							["spells"] = {
+								[8921] = 12,
+							},
+						},
+					},
+					["overhealing"] = 0,
+					["name"] = "吃饱了得橙",
+					["healingspells"] = {
+					},
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 1242,
+					["ccbreaks"] = 0,
+				}, -- [2]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["堕落的蓟熊"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 562,
+							["done"] = 0,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+						["吃饱了得橙"] = {
+							["taken"] = 194,
+							["done"] = 0,
+							["role"] = "DAMAGER",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 756,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["堕落的蓟熊女王"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 166,
+							["done"] = 0,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+						["吃饱了得橙"] = {
+							["taken"] = 194,
+							["done"] = 0,
+							["role"] = "DAMAGER",
+							["class"] = "DRUID",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 360,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["damagetaken"] = 0,
+			["healing"] = 0,
+			["ffdamagedone"] = 0,
+			["power"] = {
+				[8] = 12,
+			},
+			["overhealing"] = 27,
+			["starttime"] = 1479626478,
+			["name"] = "堕落的蓟熊 (3)",
+			["mobname"] = "堕落的蓟熊",
+			["mobtaken"] = 1116,
+			["mobhdone"] = 0,
+			["last_action"] = 1479626478,
+			["mobdone"] = 0,
+		}, -- [8]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 16,
+			["interrupts"] = 0,
+			["endtime"] = 1479626458,
+			["damage"] = 1023,
+			["players"] = {
+				{
+					["last"] = 1479626457,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["堕落的蓟熊女王"] = 384,
+						["堕落的蓟熊"] = 639,
+					},
+					["auras"] = {
+					},
+					["role"] = "DAMAGER",
+					["time"] = 14,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 1023,
+					["damagespells"] = {
+						["冰枪术"] = {
+							["hitmin"] = 80,
+							["max"] = 88,
+							["min"] = 80,
+							["hitamount"] = 752,
+							["hitmax"] = 88,
+							["hit"] = 9,
+							["totalhits"] = 11,
+							["EVADE"] = 2,
+							["id"] = 228598,
+							["damage"] = 752,
+						},
+						["水元素: 水箭"] = {
+							["hitmin"] = 64,
+							["max"] = 76,
+							["min"] = 64,
+							["hitmax"] = 76,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["hitamount"] = 271,
+							["id"] = 31707,
+							["damage"] = 271,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 128,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA17A",
+					["first"] = 1479626443,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+						["攻击"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 12,
+							["critical"] = 2,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "攻击",
+							["blocked"] = 0,
+							["totalhits"] = 7,
+							["resisted"] = 0,
+							["max"] = 30,
+							["damage"] = 128,
+						},
+					},
+					["power"] = {
+					},
+					["overhealing"] = 0,
+					["name"] = "白富美大橙腿",
+					["healingspells"] = {
+						["迅捷的正义之手"] = {
+							["shielding"] = 0,
+							["id"] = 59913,
+							["healing"] = 81,
+							["min"] = 27,
+							["name"] = "迅捷的正义之手",
+							["max"] = 27,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 0,
+							["hits"] = 3,
+						},
+					},
+					["healing"] = 81,
+					["healed"] = {
+						["Player-916-037AA17A"] = {
+							["role"] = "DAMAGER",
+							["name"] = "白富美大橙腿",
+							["amount"] = 81,
+							["class"] = "MAGE",
+							["shielding"] = 0,
+						},
+					},
+					["maxhp"] = 1314,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["堕落的蓟熊女王"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 384,
+							["done"] = 116,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 384,
+					["done"] = 116,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["堕落的蓟熊"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 639,
+							["done"] = 12,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 639,
+					["done"] = 12,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["damagetaken"] = 128,
+			["healing"] = 81,
+			["ffdamagedone"] = 0,
+			["power"] = {
+			},
+			["overhealing"] = 0,
+			["starttime"] = 1479626442,
+			["name"] = "堕落的蓟熊 (2)",
+			["mobname"] = "堕落的蓟熊",
+			["mobtaken"] = 1023,
+			["mobhdone"] = 0,
+			["last_action"] = 1479626442,
+			["mobdone"] = 128,
+		}, -- [9]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 20,
+			["interrupts"] = 0,
+			["endtime"] = 1479626440,
+			["damage"] = 1344,
+			["players"] = {
+				{
+					["last"] = 1479626438,
+					["healingabsorbed"] = 0,
+					["class"] = "MAGE",
+					["damaged"] = {
+						["堕落的蓟熊"] = 668,
+						["堕落的蓟熊女王"] = 676,
+					},
+					["auras"] = {
+						["冰霜新星"] = {
+							["name"] = "冰霜新星",
+							["active"] = 0,
+							["id"] = 122,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "DAMAGER",
+					["time"] = 18,
+					["interrupts"] = 0,
+					["dispells"] = 0,
+					["ffdamagedonetargets"] = {
+					},
+					["damage"] = 1344,
+					["damagespells"] = {
+						["冰枪术"] = {
+							["hitmin"] = 81,
+							["criticalamount"] = 167,
+							["max"] = 263,
+							["hitmax"] = 263,
+							["hitamount"] = 855,
+							["EVADE"] = 7,
+							["min"] = 81,
+							["criticalmax"] = 167,
+							["critical"] = 1,
+							["hit"] = 8,
+							["totalhits"] = 16,
+							["criticalmin"] = 167,
+							["id"] = 228598,
+							["damage"] = 1022,
+						},
+						["冰霜新星"] = {
+							["hitmin"] = 18,
+							["max"] = 18,
+							["min"] = 18,
+							["hitmax"] = 18,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["hitamount"] = 36,
+							["id"] = 122,
+							["damage"] = 36,
+						},
+						["水元素: 水箭"] = {
+							["hitmin"] = 75,
+							["criticalamount"] = 134,
+							["max"] = 134,
+							["hitmax"] = 77,
+							["hitamount"] = 152,
+							["min"] = 75,
+							["criticalmax"] = 134,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["criticalmin"] = 134,
+							["id"] = 31707,
+							["damage"] = 286,
+						},
+					},
+					["ffdamagedonespells"] = {
+					},
+					["damagetaken"] = 94,
+					["shielding"] = 0,
+					["id"] = "Player-916-037AA17A",
+					["first"] = 1479626420,
+					["ffdamagedone"] = 0,
+					["damagetakenspells"] = {
+						["攻击"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["min"] = 11,
+							["critical"] = 0,
+							["glancing"] = 0,
+							["absorbed"] = 0,
+							["name"] = "攻击",
+							["blocked"] = 0,
+							["totalhits"] = 7,
+							["resisted"] = 0,
+							["max"] = 16,
+							["damage"] = 94,
+						},
+					},
+					["power"] = {
+					},
+					["overhealing"] = 16,
+					["name"] = "白富美大橙腿",
+					["healingspells"] = {
+						["迅捷的正义之手"] = {
+							["shielding"] = 0,
+							["id"] = 59913,
+							["healing"] = 91,
+							["min"] = 11,
+							["name"] = "迅捷的正义之手",
+							["max"] = 27,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 16,
+							["hits"] = 4,
+						},
+					},
+					["healing"] = 91,
+					["healed"] = {
+						["Player-916-037AA17A"] = {
+							["role"] = "DAMAGER",
+							["name"] = "白富美大橙腿",
+							["amount"] = 91,
+							["class"] = "MAGE",
+							["shielding"] = 0,
+						},
+					},
+					["maxhp"] = 1314,
+					["ccbreaks"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["堕落的蓟熊"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 668,
+							["done"] = 25,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 668,
+					["done"] = 25,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["堕落的蓟熊女王"] = {
+					["players"] = {
+						["白富美大橙腿"] = {
+							["taken"] = 676,
+							["done"] = 69,
+							["role"] = "DAMAGER",
+							["class"] = "MAGE",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 676,
+					["done"] = 69,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["shielding"] = 0,
+			["damagetaken"] = 94,
+			["healing"] = 91,
+			["ffdamagedone"] = 0,
+			["power"] = {
+			},
+			["overhealing"] = 16,
+			["starttime"] = 1479626420,
+			["name"] = "堕落的蓟熊",
+			["mobname"] = "堕落的蓟熊",
+			["mobtaken"] = 1344,
+			["mobhdone"] = 0,
+			["last_action"] = 1479626420,
+			["mobdone"] = 94,
+		}, -- [10]
+	},
+}

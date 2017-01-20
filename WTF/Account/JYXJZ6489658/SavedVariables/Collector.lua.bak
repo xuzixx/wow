@@ -1,0 +1,26 @@
+
+COLLECTOR_DB = {
+	["global"] = {
+		["firstLogin"] = false,
+		["friend"] = {
+			["Sulovin#5183"] = {
+				["feedList"] = {
+				},
+				["planList"] = {
+				},
+				["queryStamp"] = 1474795509,
+			},
+		},
+		["realmFeed"] = {
+			["卡珊德拉"] = {
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Jzhh - 暗影之月"] = "Jzhh - 暗影之月",
+	},
+	["profiles"] = {
+		["Jzhh - 暗影之月"] = {
+		},
+	},
+}

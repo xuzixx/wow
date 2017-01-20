@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AddOnList version="1.0" url="http://wowui.178.com/" purl="http://wowui.178.com/">
+    <AddOn displayName="TellMeWhen综合技能状态提示" img="/data/wow/146/ui_logo.jpg" info="ui/146" name="TellMeWhen综合技能状态提示" package="down/146/11801/TellMeWhen-8.2_.5_.zip" update="2017-01-12" version="8.2.5" />
+</AddOnList>

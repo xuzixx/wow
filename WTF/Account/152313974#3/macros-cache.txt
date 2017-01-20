@@ -1,0 +1,90 @@
+VER 3 0000000000000011 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 寒冰宝珠
+/use 原祖争斗者的统御徽章
+/cast 寒冰宝珠
+END
+VER 3 0000000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 嘲讽
+/cast 嘲讽
+/y  我已经嘲讽boss  治疗加好我的血
+END
+VER 3 0000000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/use [stance:1]防御姿态;[stance:2/3]战斗姿态
+END
+VER 3 000000000000000B " " "INV_MISC_QUESTIONMARK"
+#showtooltip 拳击
+/stopcasting
+/cancelaura 剑刃风暴
+/cancelaura 保护之手
+/cast 拳击
+END
+VER 3 000000000000000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip 鲁莽
+/cast 天神下凡
+/cast 鲁莽
+END
+VER 3 0000000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 巨龙怒吼
+/cast 浴血奋战
+/cast 巨龙怒吼
+END
+VER 3 000000000000000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip 碎裂投掷
+/stopcasting
+/cast !碎裂投掷
+END
+VER 3 000000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip 捍卫
+/targetfriend 
+/cast [help]捍卫
+/targetlasttarget
+END
+VER 3 0000000000000014 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 援护
+/cast [target=糖果喵萌萌哒] 援护;援护
+END
+VER 3 0000000000000003 "  " "INV_MISC_QUESTIONMARK"
+/target 嗡鸣水晶
+/cast 投掷
+/targetlasttarget
+END
+VER 3 0000000000000008 "0" "INV_MISC_QUESTIONMARK"
+/y  ``````````````````````````
+/y  1111111111111111111111111111111111111111111
+/y  给我1减伤
+/w 尔何独泣 给我1减伤
+/y ______________
+END
+VER 3 0000000000000007 "1" "INV_MISC_QUESTIONMARK"
+/y  ——————————————
+/y  2222222222222222222222222222
+/y  给我2减伤
+/w 尔何独泣 给我2减伤
+/y  ______________
+END
+VER 3 0000000000000010 "123" "INV_MISC_QUESTIONMARK"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function() local t=GetTime()  if t-T>60 then SendChatMessage(" 公会团备战6.1现招收治疗和各种强力职业，只要你热爱副本，热爱魔兽，我们就欢迎你，有意者M聊","channel",nil,5) T=t end end end F:SetScript("OnUpdate",X)
+END
+VER 3 0000000000000004 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 0000000000000002 "Decursive" "INV_MISC_QUESTIONMARK"
+/script DecursiveRootTable.Dcr:Println('没有相关技能')
+END
+VER 3 0000000000000005 "嘲讽" "INV_MISC_QUESTIONMARK"
+/tar player 
+/targetlasttarget 
+/tar 活性腐化物 
+/cast 嘲讽
+/targetlasttarget 
+/targetlasttarget [help]
+END
+VER 3 0000000000000001 "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END
+VER 3 0000000000000006 "警戒" "INV_MISC_QUESTIONMARK"
+/stopmacro [modifier:shift]
+/施放 [target=focus,help][help][target=targettarget,help][target=pet]警戒
+/script local u,t=UnitName,"focus";t=u(t);if not t then t=u("targettarget");end;if t then SendChatMessage("我已警戒 "..t,"yell");end
+END

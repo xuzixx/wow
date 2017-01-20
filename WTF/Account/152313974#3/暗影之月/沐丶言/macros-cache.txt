@@ -1,0 +1,10 @@
+VER 3 0100000000000001 " 爆发" "INV_MISC_QUESTIONMARK"
+#showtooltip 复仇之怒
+/use 勇气号角
+/cast 复仇之怒
+END
+VER 3 0100000000000002 "大爆发" "INV_MISC_QUESTIONMARK"
+#showtooltip 征伐
+/use 勇气号角
+/cast 征伐
+END

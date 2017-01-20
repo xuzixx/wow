@@ -1,0 +1,9 @@
+VER 3 0100000000000002 "打断" "INV_MISC_QUESTIONMARK"
+/目标 监视者维兹艾德姆
+/cast 风剪
+END
+VER 3 0100000000000001 "神器" "INV_MISC_QUESTIONMARK"
+#show 毁灭之风
+/cast 毁灭之风
+/use 残缺的种荚
+END

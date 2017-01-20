@@ -1,0 +1,30 @@
+
+DecursiveDB = {
+	["profileKeys"] = {
+		["多点糖多点爱 - 暗影之月"] = "Default",
+	},
+	["class"] = {
+		["MONK"] = {
+			["CureOrder"] = {
+				nil, -- [1]
+				-15, -- [2]
+				nil, -- [3]
+				-14, -- [4]
+				[8] = 2,
+				[16] = 3,
+				[32] = -16,
+			},
+		},
+	},
+	["global"] = {
+		["LastVersionAnnounce"] = 1476606563,
+	},
+	["profiles"] = {
+		["Default"] = {
+			["DebuffsFrameContainer_y"] = 494.933314650399,
+			["MainBarX"] = 682.666632879347,
+			["MainBarY"] = -95.9999959752672,
+			["DebuffsFrameContainer_x"] = 1023.99994931902,
+		},
+	},
+}

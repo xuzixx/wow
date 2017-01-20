@@ -1,0 +1,9 @@
+
+MasterPlanAG = {
+	["暗影之月"] = {
+		["卡霸咯"] = {
+			["class"] = "HUNTER",
+			["faction"] = "Alliance",
+		},
+	},
+}

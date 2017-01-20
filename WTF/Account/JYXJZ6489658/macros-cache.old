@@ -1,0 +1,14 @@
+VER 3 0000000000000003 "a" "INV_MISC_QUESTIONMARK"
+/cleartarget
+/target 斯特拉瑞斯纨绔
+END
+VER 3 0000000000000001 "BF_Mount" "ability_mount_charger"
+END
+VER 3 0000000000000002 "BF_Pet" "achievement_worldevent_brewmaster"
+/BFPET
+END
+VER 3 0000000000000004 "战吼致死" "WARRIOR_TALENT_ICON_INNERRAGE"
+#show 致死打击
+/cast 战吼
+/cast 致死打击
+END

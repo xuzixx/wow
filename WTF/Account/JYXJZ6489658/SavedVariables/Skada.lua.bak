@@ -1,0 +1,26 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Jzhh - 暗影之月"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["ffoptions"] = {
+				["ignoredefensive"] = true,
+				["ignoreability"] = false,
+			},
+			["windows"] = {
+				{
+					["y"] = -1.9998779296875,
+					["mode"] = "伤害",
+					["point"] = "LEFT",
+					["x"] = 14.0000848770142,
+				}, -- [1]
+			},
+		},
+	},
+}

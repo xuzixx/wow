@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["黑长直又硬 - 暗影之月"] = "黑长直又硬 - 暗影之月",
+	},
+	["profiles"] = {
+		["黑长直又硬 - 暗影之月"] = {
+		},
+	},
+}

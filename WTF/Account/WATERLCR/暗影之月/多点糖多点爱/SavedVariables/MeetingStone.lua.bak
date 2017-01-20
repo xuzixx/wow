@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["多点糖多点爱 - 暗影之月"] = "多点糖多点爱 - 暗影之月",
+	},
+	["profiles"] = {
+		["多点糖多点爱 - 暗影之月"] = {
+		},
+	},
+}

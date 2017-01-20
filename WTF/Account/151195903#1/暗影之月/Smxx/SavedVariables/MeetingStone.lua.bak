@@ -1,0 +1,10 @@
+
+MEETINGSTONE_CHARACTER_DB = {
+	["profileKeys"] = {
+		["Smxx - 暗影之月"] = "Smxx - 暗影之月",
+	},
+	["profiles"] = {
+		["Smxx - 暗影之月"] = {
+		},
+	},
+}

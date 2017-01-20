@@ -1,0 +1,24 @@
+
+BF_Frames_Config = {
+	["SpellTimerMainFrame"] = {
+		["offX"] = -346,
+		["point"] = "TOPLEFT",
+		["region"] = "UIParent",
+		["offY"] = 453,
+		["refPoint"] = "BOTTOMRIGHT",
+	},
+}
+BigFoot_Character = {
+	["Region"] = "cn0",
+	["Gender"] = 2,
+	["Race"] = "德莱尼",
+	["Name"] = "Smxx",
+	["Faction"] = 0,
+	["Class"] = "萨满祭司",
+	["Level"] = 110,
+	["VCode"] = "1760454191343479770016240042223506710349",
+	["Realm"] = "暗影之月",
+}
+BigFoot_SysTemSetTab = {
+	["BigFoot_LoadBefore"] = 1,
+}

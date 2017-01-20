@@ -1,0 +1,21 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["卡霸咯 - 暗影之月"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["quests_tracked"] = {
+				["Player-916-037489A2"] = {
+				},
+			},
+			["player_names"] = {
+				["Player-916-037489A2"] = {
+					["class"] = "HUNTER",
+					["name"] = "卡霸咯",
+					["realm"] = "暗影之月",
+				},
+			},
+		},
+	},
+}

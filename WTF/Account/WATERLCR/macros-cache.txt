@@ -1,0 +1,129 @@
+VER 3 000000000000000E "..." "Spell_Shadow_DemonForm"
+/cast 恶魔变形
+/cast 献祭光环(恶魔变形)
+END
+VER 3 0000000000000015 "agena" "INV_Misc_QuestionMark"
+/target 灵魂雕像
+/cast 痛楚
+END
+VER 3 0000000000000002 "BF_Mount" "ability_mount_charger"
+/bfmount
+END
+VER 3 000000000000001D "BF_Pet" "achievement_worldevent_brewmaster"
+/BFPET
+END
+VER 3 0000000000000017 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 恐惧;  [@mouseover,exists,mod:ctrl] 恐惧; [@mouseover,exists,mod:shift] 恐惧
+END
+VER 3 0000000000000013 "eva" "Spell_Shadow_SummonFelGuard"
+/cast 灵魂燃烧
+/cast 召唤恶魔卫士
+END
+VER 3 000000000000000A "冲锋" "Ability_Creature_Cursed_04"
+END
+VER 3 0000000000000022 "变身" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/cast 恶魔变形
+/use 10
+/use 13
+END
+VER 3 0000000000000021 "啊" "SPELL_MISC_PETHEAL"
+/施放 攻击(宠物命令)
+END
+VER 3 0000000000000026 "喊话" "ABILITY_HUNTER_MENDPET"
+/y 小号p1p2p3升级 M我1自动进组 无反应就是组满了
+END
+VER 3 0000000000000012 "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END
+VER 3 000000000000001F "小鬼" "INV_MISC_QUESTIONMARK"
+#showtooltip 召唤小鬼
+/cast 灵魂燃烧
+/cast 召唤小鬼
+END
+VER 3 0000000000000020 "工兵" "SPELL_FROST_ARCTICWINDS"
+/target 暮光工兵
+/cast 寒冰锁链
+END
+VER 3 0000000000000007 "心脏打击" "INV_Misc_QuestionMark"
+#showtooltips 心脏打击
+/cast 心脏打击
+/cast 符文打击
+END
+VER 3 000000000000000C "拉糖" "INV_Misc_QuestionMark"
+#showtooltip 灵魂仪式(等级 2)
+/e 摸了摸%t的胸部，雪白的阿尔卑斯奶糖如泉涌般喷了出來！
+/CAST 灵魂仪式(等级 2)
+END
+VER 3 0000000000000010 "救命" "Ability_Creature_Cursed_01"
+/cast 灵魂燃烧
+/cast 治疗石
+END
+VER 3 000000000000001C "暗蛋" "SPELL_SHADOW_SHADOWBOLT"
+/use 10
+/cast 暗影箭
+END
+VER 3 0000000000000016 "湮没" "Spell_Deathknight_ClassIcon"
+#showtooltip 湮没
+/cast 湮没
+/cast 符文打击
+END
+VER 3 0000000000000008 "灵界打击" "INV_Misc_QuestionMark"
+#showtooltips 灵界打击
+/cast 灵界打击
+/cast 符文打击
+END
+VER 3 0000000000000023 "灵魂交换" "INV_MISC_QUESTIONMARK"
+#showtooltips 灵魂交换
+/cast 灵魂燃烧
+/cast 灵魂交换
+END
+VER 3 0000000000000027 "灵魂兽" "ABILITY_AMBUSH"
+/target 桑巴斯
+END
+VER 3 0000000000000014 "灵魂种子" "Spell_Shadow_SeedOfDestruction"
+/cast 灵魂燃烧
+/cast 腐蚀之种
+END
+VER 3 000000000000001E "烧尽" "INV_MISC_QUESTIONMARK"
+#showtooltip 烧尽
+/use 10
+/cast 烧尽
+/cast 暗影灼烧
+END
+VER 3 000000000000001A "爆发" "INV_ENCHANT_SHARDBRILLIANTSMALL"
+/use 10
+/use 13
+/use 14
+/cast 黑暗灵魂：易爆
+END
+VER 3 000000000000000F "瞬发灵魂火" "Spell_Fire_Fireball02"
+/cast 灵魂燃烧
+/cast 灵魂之火
+END
+VER 3 0000000000000024 "种子" "INV_MISC_QUESTIONMARK"
+#showtooltips 腐蚀之种
+/cast 灵魂燃烧
+/cast 灵魂交换
+END
+VER 3 0000000000000025 "组队" "ABILITY_HUNTER_BEASTCALL"
+/run if (not IPM_F) then CreateFrame("Frame","IPM_F",UIParent);IPM_F:RegisterEvent("CHAT_MSG_WHISPER");end IPM_F:SetScript("OnEvent",function(_,_,a,b) if (a=="1" and b~=UnitName("player")) then InviteUnit(b) end end);
+END
+VER 3 0000000000000011 "考古" "Ability_Kick"
+/run local ta=0; for x=1,9 do local c=GetNumArtifactsByRace(x); local a=0; for y=1,c do local t=select(9, GetArtifactInfoByRace(x, y)); a=a+t;end local rn=GetArchaeologyRaceInfo(x); if(c>1) then print(rn..": "..a); ta=ta+a; end end print("Total: "..ta);
+END
+VER 3 0000000000000019 "鞭打" "ACHIEVEMENT_GUILDPERK_FASTTRACK_RANK2"
+#showtooltip 魔能鞭笞
+/cast 魔能鞭笞(特殊技能)
+END
+VER 3 000000000000001B "驱散" "Ability_CheapShot"
+/cast 烧灼驱魔
+END
+VER 3 0000000000000018 "魅惑" "SPELL_SHADOW_SUMMONSUCCUBUS"
+/施放 迷魅(特殊技能)
+END
+VER 3 0000000000000006 "鲜血打击" "INV_Misc_QuestionMark"
+#showtooltips 鲜血打击
+/cast 鲜血打击
+/cast 符文打击
+END

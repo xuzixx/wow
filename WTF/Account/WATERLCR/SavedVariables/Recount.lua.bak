@@ -1,0 +1,35 @@
+
+RecountDB = {
+	["profileKeys"] = {
+		["Dadanion - 石爪峰"] = "Dadanion - 石爪峰",
+	},
+	["profiles"] = {
+		["Dadanion - 石爪峰"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -3.05175781250e-005,
+					["w"] = 140.000061035156,
+					["h"] = 200.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["minimap"] = {
+				["minimapPos"] = 220,
+				["radius"] = 80,
+				["hide"] = false,
+			},
+			["MainWindowVis"] = false,
+			["CurDataSet"] = "OverallData",
+			["LastInstanceName"] = "盘牙湖泊：奴隶围栏",
+		},
+	},
+}

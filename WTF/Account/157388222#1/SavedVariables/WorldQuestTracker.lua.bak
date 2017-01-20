@@ -1,0 +1,21 @@
+
+WQTrackerDB = {
+	["profileKeys"] = {
+		["风追月 - 暗影之月"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["quests_tracked"] = {
+				["Player-916-03764C93"] = {
+				},
+			},
+			["player_names"] = {
+				["Player-916-03764C93"] = {
+					["class"] = "HUNTER",
+					["name"] = "风追月",
+					["realm"] = "暗影之月",
+				},
+			},
+		},
+	},
+}

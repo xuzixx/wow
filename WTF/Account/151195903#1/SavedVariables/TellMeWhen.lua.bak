@@ -1,0 +1,4300 @@
+
+TellMeWhenDB = {
+	["profileKeys"] = {
+		["也爹追随者 - 暗影之月"] = "也爹追随者 - 暗影之月",
+	},
+	["global"] = {
+		["TextLayouts"] = {
+			["icon1"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["bar2"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+		},
+		["HelpSettings"] = {
+			["CNDT_ANDOR_FIRSTSEE"] = true,
+			["CNDT_PARENTHESES_FIRSTSEE"] = true,
+			["SUG_FIRSTHELP"] = true,
+			["SCROLLBAR_DROPDOWN"] = true,
+		},
+	},
+	["Version"] = 82302,
+	["profiles"] = {
+		["也爹追随者 - 暗影之月"] = {
+			["Version"] = 82302,
+			["Groups"] = {
+				{
+					["Scale"] = 1.37500130524534,
+					["OnlyInCombat"] = true,
+					["EnabledSpecs"] = {
+						[70] = false,
+						[65] = false,
+					},
+					["GUID"] = "TMW:group:1KM5ybXVZI9d",
+					["Columns"] = 6,
+					["Name"] = "防护1组",
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["DurationMin"] = 3,
+							["Type"] = "cooldown",
+							["StackMin"] = 5,
+							["Name"] = "奉献",
+							["DurationMinEnabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "BUFFSTACKS",
+									["Operator"] = ">",
+									["Name"] = "奉献",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"[Stacks:Hide(0)]", -- [1]
+										"", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 0.9,
+								},
+								[101] = {
+									["Alpha"] = 0.2,
+								},
+								[102] = {
+									["Alpha"] = 1,
+								},
+							},
+							["Enabled"] = true,
+							["OnlyMine"] = true,
+						}, -- [1]
+						{
+							["DurationMin"] = 7,
+							["Type"] = "cooldown",
+							["Icons"] = {
+								"TMW:icon:1KM5ybXWayaq", -- [1]
+							},
+							["Name"] = "神圣马驹",
+							["DurationMinEnabled"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0.8,
+								}, -- [1]
+								{
+									["Alpha"] = 0.2,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 0.8,
+								},
+							},
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["DurationMin"] = 5,
+							["Type"] = "cooldown",
+							["Icons"] = {
+								"TMW:icon:1Krf6niDt2NE", -- [1]
+							},
+							["Name"] = "守护之光",
+							["DurationMinEnabled"] = true,
+							["States"] = {
+								{
+									["Alpha"] = 0.8,
+								}, -- [1]
+								{
+									["Alpha"] = 0.2,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 0.8,
+								},
+								[102] = {
+									["Alpha"] = 0.21,
+								},
+							},
+							["Enabled"] = true,
+						}, -- [3]
+						{
+							["ShowTimer"] = true,
+							["Sort"] = 1,
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1NjAqNbA8V7s", -- [1]
+								"TMW:icon:1NjAqNbF56TE", -- [2]
+								"TMW:icon:1NjAqNbJpOA2", -- [3]
+								"TMW:icon:1NjAqNbOg73J", -- [4]
+							},
+							["DurationMaxEnabled"] = true,
+							["Name"] = "炽天使",
+							["States"] = {
+								{
+									["Alpha"] = 0.8,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 0.2,
+								},
+							},
+							["Enabled"] = true,
+							["OnlyMine"] = true,
+							["DurationMax"] = 10,
+						}, -- [4]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "十字军打击",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon1",
+									["Texts"] = {
+										"", -- [1]
+										"[Stacks]", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 0.36,
+								},
+							},
+							["Enabled"] = true,
+							["DurationMax"] = 2,
+						}, -- [5]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "复仇者之盾",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"", -- [1]
+										"", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["DurationMax"] = 2,
+						}, -- [6]
+					},
+					["Point"] = {
+						["y"] = -110.272478049367,
+						["x"] = -6.90918051571814,
+					},
+				}, -- [1]
+				{
+					["Scale"] = 1.05000066948862,
+					["Rows"] = 6,
+					["GUID"] = "TMW:group:1KM5ybXVnDae",
+					["Name"] = "隐藏图标",
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "conditionicon",
+							["Icons"] = {
+								"TMW:icon:1Kg4rNaWvznm", -- [1]
+								"TMW:icon:1Kg4rhUplSg4", -- [2]
+								"TMW:icon:1Kg4rivdRjD9", -- [3]
+								"TMW:icon:1Kg4rkhlOaw7", -- [4]
+								"TMW:icon:1Kg4rklJeFAI", -- [5]
+								"TMW:icon:1Kg4rkna5tyN", -- [6]
+								"TMW:icon:1Kg4rksc_hy0", -- [7]
+								"TMW:icon:1Kg4rlvrKUUv", -- [8]
+								"", -- [9]
+							},
+							["ClockGCD"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "BLIZZEQUIPSET",
+									["Name"] = "惩戒",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1Kg4rl4qnjjg",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"装备！", -- [1]
+										"[Stacks:Hide(0)]", -- [2]
+									},
+								},
+							},
+							["CustomTex"] = "207604",
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "保护祝福",
+							["Conditions"] = {
+								{
+									["Type"] = "LIBRANGECHECK",
+									["Operator"] = "<=",
+									["Unit"] = "target",
+									["Level"] = 10,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1Net10CReLG8",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"10", -- [1]
+										"[Stacks:Hide(0)]", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.8,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "保护祝福",
+							["Conditions"] = {
+								{
+									["Type"] = "LIBRANGECHECK",
+									["Operator"] = "<=",
+									["Unit"] = "target",
+									["Level"] = 30,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1Net10D0MmXo",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"30", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0.8,
+								}, -- [1]
+								{
+									["Alpha"] = 0.6,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "保护祝福",
+							["Conditions"] = {
+								{
+									["Type"] = "LIBRANGECHECK",
+									["Operator"] = "<=",
+									["Unit"] = "target",
+									["Level"] = 40,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1Net10DPe1kQ",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"40", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0.6,
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "保护祝福",
+							["Conditions"] = {
+								{
+									["Type"] = "LIBRANGECHECK",
+									["Operator"] = ">=",
+									["Level"] = 40,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1Net10Dz=_qc",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"&infin;", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0.4,
+								}, -- [1]
+								{
+									["Alpha"] = 0.2,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "神圣震击",
+							["GUID"] = "TMW:icon:1NxhaOUrYQdV",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [21]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "MANA",
+									["Operator"] = "<",
+									["Level"] = 40,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1NxhaOUtUTOK",
+							["CustomTex"] = "210294",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [22]
+						{
+							["Type"] = "totem",
+							["GUID"] = "TMW:icon:1NxhaOUvaDJL",
+							["States"] = {
+								{
+									["Alpha"] = 0,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+					},
+					["Point"] = {
+						["y"] = 183.09489549934,
+						["point"] = "RIGHT",
+						["relativePoint"] = "RIGHT",
+						["x"] = -369.523209504806,
+					},
+				}, -- [2]
+				{
+					["Scale"] = 1.15498173236847,
+					["OnlyInCombat"] = true,
+					["EnabledSpecs"] = {
+						[65] = false,
+						[66] = false,
+					},
+					["GUID"] = "TMW:group:1Kg4rFXQqrY1",
+					["Columns"] = 5,
+					["Name"] = "惩戒1组",
+					["Icons"] = {
+						{
+							["BuffOrDebuff"] = "HARMFUL",
+							["Unit"] = "target",
+							["DurationMin"] = 3,
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1NyMT6Xxr2jo", -- [1]
+								"TMW:icon:1NyMT6XaJmjn", -- [2]
+								"TMW:icon:1NyMT6XCqrJV", -- [3]
+								"TMW:icon:1NyMT6WvUvlu", -- [4]
+								"TMW:icon:1NyMT6WSZuuA", -- [5]
+								"TMW:icon:1NyMT6VyIrJi", -- [6]
+							},
+							["Name"] = "审判",
+							["DurationMinEnabled"] = true,
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"", -- [1]
+										"[Stacks:Hide(0)]", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0.2,
+								}, -- [1]
+								{
+									["Alpha"] = 0.8,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 0.8,
+								},
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["DurationMin"] = 10,
+							["Type"] = "cooldown",
+							["Name"] = "灰烬觉醒",
+							["DurationMinEnabled"] = true,
+							["GUID"] = "TMW:icon:1Kg4rksc_hy0",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"J", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 0.8,
+								},
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["DurationMin"] = 1,
+							["Type"] = "cooldown",
+							["Name"] = "愤怒之剑",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [3]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "审判",
+							["Conditions"] = {
+								{
+									["Type"] = "DEBUFFDUR",
+									["Checked"] = true,
+									["Operator"] = "<=",
+									["Unit"] = "target",
+									["Name"] = "审判",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 0.8,
+								},
+								[102] = {
+									["Alpha"] = 0.4,
+								},
+							},
+							["Enabled"] = true,
+						}, -- [4]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "十字军打击",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"[Stacks]", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [5]
+					},
+					["Point"] = {
+						["y"] = -137.945423025154,
+						["x"] = -6.6006254512472,
+					},
+				}, -- [3]
+				{
+					["Scale"] = 1.14000189304352,
+					["Rows"] = 10,
+					["EnabledSpecs"] = {
+						[65] = false,
+						[66] = false,
+					},
+					["GUID"] = "TMW:group:1Kg4rNaTVqtD",
+					["Columns"] = 6,
+					["Name"] = "惩戒隐藏1组",
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "征伐",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1NyMT6VyIrJi",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"0", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.7,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "征伐",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 1,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1NyMT6WSZuuA",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"1", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.7,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "征伐",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 2,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1NyMT6WvUvlu",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"2", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.7,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [3]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "征伐",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 3,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1NyMT6XCqrJV",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"3", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.7,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [4]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "征伐",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 4,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1NyMT6XaJmjn",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"4", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.7,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [5]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "征伐",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 5,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1NyMT6Xxr2jo",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"5", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.7,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [35]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [36]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [39]
+						{
+							["Icons"] = {
+								"TMW:icon:1Kg4rl4qnjjg", -- [1]
+							},
+							["GUID"] = "TMW:icon:1Kg5ULvpntmU",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"", -- [1]
+										"[Stacks:Hide(0)]", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [40]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [41]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [42]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [43]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [44]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [45]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [46]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [47]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [48]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [49]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [50]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [51]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [52]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [53]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [54]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [55]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [56]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [57]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [58]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [59]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [60]
+					},
+					["Point"] = {
+						["y"] = -134.210062311194,
+						["point"] = "RIGHT",
+						["relativePoint"] = "RIGHT",
+						["x"] = -332.454760871986,
+					},
+				}, -- [4]
+				{
+					["Scale"] = 1.31666505336761,
+					["Role"] = 2,
+					["OnlyInCombat"] = true,
+					["EnabledSpecs"] = {
+						[66] = false,
+						[70] = false,
+					},
+					["GUID"] = "TMW:group:1NbE4dYlFTWM",
+					["Columns"] = 6,
+					["Name"] = "治疗1组",
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "神圣震击",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "黎明之光",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "美德道标",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.6,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1Net10CReLG8", -- [1]
+								"TMW:icon:1Net10D0MmXo", -- [2]
+								"TMW:icon:1Net10DPe1kQ", -- [3]
+								"TMW:icon:1Net10Dz=_qc", -- [4]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [5]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "赋予信仰",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [6]
+					},
+					["Point"] = {
+						["y"] = -126.645479835171,
+						["x"] = 3.41782078840446,
+					},
+				}, -- [5]
+				{
+					["Scale"] = 1.26333630084991,
+					["OnlyInCombat"] = true,
+					["EnabledSpecs"] = {
+						[66] = false,
+						[70] = false,
+					},
+					["GUID"] = "TMW:group:1Net6aqjIInz",
+					["Columns"] = 5,
+					["Name"] = "治疗2组",
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["Name"] = "神圣复仇者",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["Name"] = "光环掌握",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["Name"] = "复仇之怒",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [3]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["Name"] = "拯救祝福",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [4]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["ShowTimerText"] = true,
+							["Name"] = "圣疗术",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [5]
+					},
+					["Point"] = {
+						["y"] = -164.603873937893,
+						["x"] = 4.94707170645866,
+					},
+				}, -- [6]
+				{
+					["Scale"] = 1.04999947547913,
+					["Rows"] = 4,
+					["Role"] = 4,
+					["EnabledSpecs"] = {
+						[70] = false,
+						[65] = false,
+					},
+					["GUID"] = "TMW:group:1NjAqNb6sjMw",
+					["Columns"] = 6,
+					["Name"] = "防护隐藏1组",
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["DurationMin"] = 3,
+							["Type"] = "cooldown",
+							["Name"] = "审判",
+							["Conditions"] = {
+								{
+									["Type"] = "SPELLCHARGES",
+									["Name"] = "正义盾击",
+									["Level"] = 3,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1NjAqNbA8V7s",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon1",
+									["Texts"] = {
+										[2] = "3",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.8,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 1,
+								},
+							},
+							["Enabled"] = true,
+							["ShowCBar"] = true,
+							["FakeHidden"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["DurationMin"] = 3,
+							["Type"] = "cooldown",
+							["Name"] = "审判",
+							["Conditions"] = {
+								{
+									["Type"] = "SPELLCHARGES",
+									["Name"] = "正义盾击",
+									["Level"] = 2,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1NjAqNbF56TE",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon1",
+									["Texts"] = {
+										"", -- [1]
+										"2", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 1,
+								},
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["DurationMin"] = 3,
+							["Type"] = "cooldown",
+							["Name"] = "审判",
+							["Conditions"] = {
+								{
+									["Type"] = "SPELLCHARGES",
+									["Name"] = "正义盾击",
+									["Level"] = 1,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1NjAqNbJpOA2",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon1",
+									["Texts"] = {
+										[2] = "1",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 1,
+								},
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [3]
+						{
+							["ShowTimer"] = true,
+							["DurationMin"] = 3,
+							["Type"] = "cooldown",
+							["Name"] = "审判",
+							["Conditions"] = {
+								{
+									["Type"] = "SPELLCHARGES",
+									["Name"] = "正义盾击",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1NjAqNbOg73J",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon1",
+									["Texts"] = {
+										[2] = "0",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 1,
+								},
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "BLIZZEQUIPSET",
+									["Name"] = "防护",
+									["Level"] = 1,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["GUID"] = "TMW:icon:1N=01=8=BwAg",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "装备！",
+									},
+								},
+							},
+							["CustomTex"] = "215854",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+					},
+					["Point"] = {
+						["y"] = -0.714257472521949,
+						["point"] = "RIGHT",
+						["relativePoint"] = "RIGHT",
+						["x"] = -364.762160223791,
+					},
+				}, -- [7]
+				{
+					["Scale"] = 3.70000457763672,
+					["Rows"] = 2,
+					["EnabledSpecs"] = {
+						[65] = false,
+						[70] = false,
+					},
+					["GUID"] = "TMW:group:1No1iWwsq5_s",
+					["Columns"] = 1,
+					["Name"] = "防护-加大号审判提示器",
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["DurationMin"] = 1.5,
+							["Type"] = "cooldown",
+							["Name"] = "审判",
+							["DurationMinEnabled"] = true,
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+								[100] = {
+									["Alpha"] = 0.8,
+								},
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1N=01=8=BwAg", -- [1]
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [2]
+					},
+					["Point"] = {
+						["y"] = -9.32431651113621,
+						["x"] = 67.9730261785606,
+					},
+				}, -- [8]
+				{
+					["Scale"] = 1.28125214576721,
+					["Rows"] = 3,
+					["Role"] = 2,
+					["OnlyInCombat"] = true,
+					["EnabledSpecs"] = {
+						[66] = false,
+						[70] = false,
+					},
+					["GUID"] = "TMW:group:1Nxhkxg9PgbU",
+					["Columns"] = 1,
+					["Name"] = "奶骑输出1组",
+					["Icons"] = {
+						{
+							["Type"] = "totem",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon1",
+									["Texts"] = {
+										"", -- [1]
+										"", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0.4,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "审判",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "十字军打击",
+							["States"] = {
+								{
+									["Alpha"] = 0.8,
+								}, -- [1]
+								{
+									["Alpha"] = 0.4,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [3]
+					},
+					["Point"] = {
+						["y"] = -146.048381757211,
+						["x"] = -117.097171191042,
+					},
+				}, -- [9]
+				{
+					["Scale"] = 3.3333306312561,
+					["Rows"] = 2,
+					["Role"] = 2,
+					["EnabledSpecs"] = {
+						[66] = false,
+						[70] = false,
+					},
+					["GUID"] = "TMW:group:1NxhqIcUA3o_",
+					["Columns"] = 1,
+					["Name"] = "治疗-加大号提示",
+					["Icons"] = {
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1NxhaOUrYQdV", -- [1]
+								"TMW:icon:1NxhaOUtUTOK", -- [2]
+								"TMW:icon:1NxhaOUvaDJL", -- [3]
+							},
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "BLIZZEQUIPSET",
+									["Name"] = "治疗",
+									["Level"] = 1,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "装备！",
+									},
+								},
+							},
+							["CustomTex"] = "82326",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [2]
+					},
+					["Point"] = {
+						["y"] = -13.7999194481389,
+						["x"] = 93.6001357434294,
+					},
+				}, -- [10]
+				{
+					["Scale"] = 1.43333375453949,
+					["Rows"] = 4,
+					["Role"] = 1,
+					["EnabledSpecs"] = {
+						[66] = false,
+						[65] = false,
+					},
+					["GUID"] = "TMW:group:1Nyz_xKCOb8b",
+					["Columns"] = 10,
+					["Name"] = "惩戒输出循环隐藏",
+					["Icons"] = {
+						{
+							["Type"] = "conditionicon",
+							["Name"] = "审判",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 5,
+								}, -- [1]
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "审判",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["GUID"] = "TMW:icon:1Ny=k6FkBlvT",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"5JD", -- [1]
+										"[Stacks:Hide(0)]", -- [2]
+									},
+								},
+							},
+							["CustomTex"] = "20271",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [1]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 4,
+								}, -- [1]
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "审判",
+								}, -- [2]
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "十字军打击",
+								}, -- [3]
+								["n"] = 3,
+							},
+							["GUID"] = "TMW:icon:1Ny=kvS=vqUz",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"4JD-CS", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "35395",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [2]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 4,
+								}, -- [1]
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "审判",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["GUID"] = "TMW:icon:1Ny=ktGT7QMf",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"4JD", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "20271",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [3]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 3,
+								}, -- [1]
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "审判",
+								}, -- [2]
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "公正之剑",
+								}, -- [3]
+								{
+									["Type"] = "TIMER",
+									["Operator"] = "<=",
+									["Name"] = "jd_timer",
+									["Level"] = 1.5,
+								}, -- [4]
+								["n"] = 4,
+							},
+							["GUID"] = "TMW:icon:1Ny=kqYfRsTv",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"3JD-SJ", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "184575",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [4]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "审判",
+								}, -- [1]
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 3,
+								}, -- [2]
+								["n"] = 2,
+							},
+							["GUID"] = "TMW:icon:1Ny=koSrpBEY",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"3JD", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "20271",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [5]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 2,
+								}, -- [1]
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "审判",
+								}, -- [2]
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "十字军打击",
+								}, -- [3]
+								["n"] = 3,
+							},
+							["GUID"] = "TMW:icon:1Ny=0IT4e95j",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"2JD-CS", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "35395",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [6]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "审判",
+								}, -- [1]
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 2,
+								}, -- [2]
+								["n"] = 2,
+							},
+							["GUID"] = "TMW:icon:1Ny=0IT9EPyV",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"2JD", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "20271",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [7]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 1,
+								}, -- [1]
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "审判",
+								}, -- [2]
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "公正之剑",
+								}, -- [3]
+								{
+									["Type"] = "TIMER",
+									["Operator"] = "<=",
+									["Name"] = "jd_timer",
+									["Level"] = 1.5,
+								}, -- [4]
+								["n"] = 4,
+							},
+							["GUID"] = "TMW:icon:1Ny=0ITDt65r",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"1JD-SJ", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "184575",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [8]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "SPELLCD",
+									["Name"] = "审判",
+								}, -- [1]
+								{
+									["Type"] = "HOLY_POWER",
+									["Operator"] = "<=",
+									["Level"] = 1,
+								}, -- [2]
+								["n"] = 2,
+							},
+							["GUID"] = "TMW:icon:1Ny=0ITIH54T",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"1JD", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "20271",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [9]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1Ny=k6FkBlvT", -- [1]
+								"TMW:icon:1Ny=kvS=vqUz", -- [2]
+								"TMW:icon:1Ny=ktGT7QMf", -- [3]
+								"TMW:icon:1Ny=kqYfRsTv", -- [4]
+								"TMW:icon:1Ny=koSrpBEY", -- [5]
+								"TMW:icon:1Ny=0IT4e95j", -- [6]
+								"TMW:icon:1Ny=0IT9EPyV", -- [7]
+								"TMW:icon:1Ny=0ITDt65r", -- [8]
+								"TMW:icon:1Ny=0ITIH54T", -- [9]
+							},
+							["GUID"] = "TMW:icon:1NzGuXYkvA5d",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [10]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "SPELLCD",
+									["Operator"] = "<=",
+									["Name"] = "灰烬觉醒",
+									["Level"] = 3,
+								}, -- [1]
+								{
+									["Type"] = "HOLY_POWER",
+									["Operator"] = ">=",
+									["Level"] = 3,
+								}, -- [2]
+								["n"] = 2,
+							},
+							["GUID"] = "TMW:icon:1Ny=0ITW7UE7",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"AW-TV", -- [1]
+										"[Stacks:Hide(0)]", -- [2]
+									},
+								},
+							},
+							["CustomTex"] = "85256",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [11]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "十字军打击",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 2,
+								}, -- [1]
+								{
+									["Type"] = "SPELLCD",
+									["Operator"] = "<=",
+									["Name"] = "灰烬觉醒",
+									["Level"] = 3,
+								}, -- [2]
+								["n"] = 2,
+							},
+							["GUID"] = "TMW:icon:1Ny=0MleV7c7",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"AW-CS", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [12]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "灰烬觉醒",
+							["GUID"] = "TMW:icon:1Ny=0ITRNyR6",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"AW", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["Type"] = "item",
+							["Name"] = "托尼的承诺",
+							["Conditions"] = {
+								{
+									["Type"] = "SPELLCD",
+									["Operator"] = ">",
+									["Name"] = "征伐",
+									["Level"] = 40,
+								}, -- [1]
+								{
+									["Type"] = "BUFFDUR",
+									["Operator"] = ">",
+									["AndOr"] = "OR",
+									["Name"] = "征伐",
+								}, -- [2]
+								["n"] = 2,
+							},
+							["GUID"] = "TMW:icon:1O6_ql3wU2nH",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"TK", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1O6_ql3wU2nH", -- [1]
+								"TMW:icon:1Ny=0ITW7UE7", -- [2]
+								"TMW:icon:1Ny=0MleV7c7", -- [3]
+								"TMW:icon:1Ny=0ITRNyR6", -- [4]
+							},
+							["GUID"] = "TMW:icon:1NzIOJ1zlWm1",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [20]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "审判",
+							["Events"] = {
+								{
+									["Type"] = "Timer",
+									["Counter"] = "jd_timer",
+									["Event"] = "OnFinish",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [21]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "审判",
+							["Events"] = {
+								{
+									["TimerOperation"] = "stop",
+									["Type"] = "Timer",
+									["Counter"] = "jd_timer",
+									["Event"] = "OnStart",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [22]
+						{
+							["Type"] = "conditionicon",
+							["Events"] = {
+								{
+									["TimerOperation"] = "stop",
+									["Type"] = "Timer",
+									["Counter"] = "jd_timer",
+									["Event"] = "OnCondition",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "TIMER",
+											["Operator"] = ">=",
+											["Name"] = "jd_timer",
+											["Level"] = 20,
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"[Timer(\"jd_timer\"):Round]", -- [1]
+										"[Stacks:Hide(0)]", -- [2]
+									},
+								},
+							},
+							["CustomTex"] = "20271",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "HOLY_POWER",
+									["Level"] = 5,
+								}, -- [1]
+								{
+									["Type"] = "BUFFDUR",
+									["Checked"] = true,
+									["Operator"] = ">",
+									["AndOr"] = "OR",
+									["Name"] = "征伐",
+									["PrtsBefore"] = 1,
+								}, -- [2]
+								{
+									["Type"] = "BUFFSTACKS",
+									["Operator"] = "<",
+									["Name"] = "征伐",
+									["Level"] = 15,
+								}, -- [3]
+								{
+									["Type"] = "HOLY_POWER",
+									["PrtsAfter"] = 1,
+									["Operator"] = ">=",
+									["Level"] = 3,
+								}, -- [4]
+								["n"] = 4,
+							},
+							["GUID"] = "TMW:icon:1Nyz_xKKJCWX",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"5TV", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "85256",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [25]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "十字军打击",
+							["Conditions"] = {
+								{
+									["Type"] = "BUFFDUR",
+									["Name"] = "征伐",
+								}, -- [1]
+								{
+									["Type"] = "SPELLCHARGES",
+									["Name"] = "十字军打击",
+									["Level"] = 2,
+								}, -- [2]
+								["n"] = 2,
+							},
+							["GUID"] = "TMW:icon:1Nyz_xKOkMoi",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"2CS", -- [1]
+										"2CS", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [26]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "DEBUFFDUR",
+									["Checked"] = true,
+									["Operator"] = "<=",
+									["Unit"] = "target",
+									["Name"] = "审判",
+									["Level"] = 2,
+								}, -- [1]
+								{
+									["Type"] = "DEBUFFDUR",
+									["Checked"] = true,
+									["Operator"] = ">",
+									["Name"] = "审判",
+								}, -- [2]
+								{
+									["Type"] = "HOLY_POWER",
+									["Operator"] = ">=",
+									["Level"] = 3,
+								}, -- [3]
+								["n"] = 3,
+							},
+							["GUID"] = "TMW:icon:1Nyz_xKTByMQ",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"JD-TV", -- [1]
+										"JDTV", -- [2]
+									},
+								},
+							},
+							["CustomTex"] = "85256",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [27]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "公正之剑",
+							["GUID"] = "TMW:icon:1Ny=0IS_vaTd",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"SJ", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "184575",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [28]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "十字军打击",
+							["GUID"] = "TMW:icon:1NzIftn9eD_r",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"1CS", -- [1]
+										"1CS", -- [2]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [29]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1NzIO9giV=mC", -- [1]
+								"TMW:icon:1Nyz_xKKJCWX", -- [2]
+								"TMW:icon:1Nyz_xKOkMoi", -- [3]
+								"TMW:icon:1Nyz_xKTByMQ", -- [4]
+								"TMW:icon:1Ny=0IS_vaTd", -- [5]
+								"TMW:icon:1NzIftn9eD_r", -- [6]
+								"TMW:icon:1NzJxxEc6i=W", -- [7]
+							},
+							["GUID"] = "TMW:icon:1NzIfMNUsfCE",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [30]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "灰烬觉醒",
+							["Events"] = {
+								{
+									["Type"] = "Timer",
+									["Counter"] = "aw_timer",
+									["Event"] = "OnFinish",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [31]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "灰烬觉醒",
+							["Events"] = {
+								{
+									["TimerOperation"] = "stop",
+									["Type"] = "Timer",
+									["Counter"] = "aw_timer",
+									["Event"] = "OnStart",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [32]
+						{
+							["Type"] = "cooldown",
+							["DurationMaxEnabled"] = true,
+							["Name"] = "灰烬觉醒",
+							["GUID"] = "TMW:icon:1NzIO9gTjEHO",
+							["Events"] = {
+								{
+									["TimerOperation"] = "stop",
+									["Type"] = "Timer",
+									["Counter"] = "aw_timer",
+									["Event"] = "OnCondition",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "TIMER",
+											["Operator"] = ">=",
+											["Name"] = "aw_timer",
+											["Level"] = 30,
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "icon2",
+									["Texts"] = {
+										"[Timer(\"aw_timer\"):Round]", -- [1]
+										"[Stacks:Hide(0)]", -- [2]
+									},
+								},
+							},
+							["CustomTex"] = "205290",
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.6,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+							["DurationMax"] = 5,
+						}, -- [33]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [34]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["DurationMaxEnabled"] = true,
+							["Name"] = "征伐",
+							["GUID"] = "TMW:icon:1NzIO9gdY_sr",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "",
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.6,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+							["DurationMax"] = 5,
+						}, -- [35]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "奥术洪流",
+							["Conditions"] = {
+								{
+									["Type"] = "BUFFDUR",
+									["Operator"] = ">",
+									["Name"] = "征伐",
+								}, -- [1]
+								{
+									["Type"] = "HOLY_POWER",
+									["Operator"] = "<",
+									["Level"] = 5,
+								}, -- [2]
+								["n"] = 2,
+							},
+							["GUID"] = "TMW:icon:1NzIO9giV=mC",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"AT", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [36]
+						{
+							["Type"] = "conditionicon",
+							["Conditions"] = {
+								{
+									["Type"] = "DEBUFFDUR",
+									["Checked"] = true,
+									["Operator"] = ">",
+									["Unit"] = "target",
+									["Name"] = "审判",
+								}, -- [1]
+								{
+									["Type"] = "HOLY_POWER",
+									["Operator"] = ">=",
+									["Level"] = 3,
+								}, -- [2]
+								["n"] = 2,
+							},
+							["GUID"] = "TMW:icon:1NzJxxEc6i=W",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"3TV", -- [1]
+									},
+								},
+							},
+							["CustomTex"] = "85256",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [37]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [38]
+						{
+							["Type"] = "cooldown",
+							["Name"] = "审判",
+							["Conditions"] = {
+								{
+									["Type"] = "BUFFDUR",
+									["Name"] = "征伐",
+								}, -- [1]
+								{
+									["Type"] = "HOLY_POWER",
+									["PrtsBefore"] = 3,
+									["Level"] = 4,
+								}, -- [2]
+								{
+									["Type"] = "HOLY_POWER",
+									["PrtsAfter"] = 1,
+									["AndOr"] = "OR",
+									["Level"] = 2,
+								}, -- [3]
+								{
+									["Type"] = "SPELLCD",
+									["PrtsAfter"] = 1,
+									["Operator"] = ">",
+									["Name"] = "十字军打击",
+									["Level"] = 1,
+								}, -- [4]
+								{
+									["Type"] = "HOLY_POWER",
+									["AndOr"] = "OR",
+									["PrtsBefore"] = 1,
+									["Level"] = 1,
+								}, -- [5]
+								{
+									["Type"] = "SPELLCD",
+									["PrtsAfter"] = 1,
+									["Operator"] = ">",
+									["Name"] = "公正之剑",
+									["Level"] = 1,
+								}, -- [6]
+								{
+									["Type"] = "HOLY_POWER",
+									["PrtsAfter"] = 2,
+									["AndOr"] = "OR",
+									["PrtsBefore"] = 1,
+									["Level"] = 5,
+								}, -- [7]
+								["n"] = 7,
+							},
+							["GUID"] = "TMW:icon:1Nyz_xKFk6yf",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [39]
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1NzIOJ1zlWm1", -- [1]
+								"TMW:icon:1NzGuXYkvA5d", -- [2]
+								"TMW:icon:1NzIfMNUsfCE", -- [3]
+							},
+							["GUID"] = "TMW:icon:1NzIO9h38tT6",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["FakeHidden"] = true,
+						}, -- [40]
+					},
+					["Point"] = {
+						["y"] = -97.6740857458946,
+						["point"] = "TOP",
+						["relativePoint"] = "TOP",
+						["x"] = 91.395585031833,
+					},
+				}, -- [11]
+				{
+					["Scale"] = 3.80000305175781,
+					["Rows"] = 2,
+					["Role"] = 1,
+					["EnabledSpecs"] = {
+						[65] = false,
+						[66] = false,
+					},
+					["GUID"] = "TMW:group:1Ny=5DSae40g",
+					["Columns"] = 1,
+					["Name"] = "惩戒-加大号提示",
+					["Icons"] = {
+						{
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1NzIO9h38tT6", -- [1]
+							},
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["Type"] = "meta",
+							["Icons"] = {
+								"TMW:icon:1Kg4rl4qnjjg", -- [1]
+							},
+							["DurationMaxEnabled"] = true,
+							["Name"] = "灰烬觉醒",
+							["Conditions"] = {
+								{
+									["Type"] = "COMBAT",
+									["Level"] = 1,
+								}, -- [1]
+								["n"] = 1,
+							},
+							["States"] = {
+								{
+								}, -- [1]
+								{
+									["Alpha"] = 0.6,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+							["DurationMax"] = 5,
+						}, -- [2]
+					},
+					["Point"] = {
+						["y"] = -20.2630901037482,
+						["x"] = 72.3683830927202,
+					},
+				}, -- [12]
+				{
+					["Scale"] = 2.7333345413208,
+					["GUID"] = "TMW:group:1O0HUgpkGbiR",
+					["Name"] = "移动速度提示",
+					["Icons"] = {
+						{
+							["Type"] = "conditionicon",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["Texts"] = {
+										[2] = "[GroundSpeed]",
+									},
+								},
+							},
+							["CustomTex"] = "226974",
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+					},
+					["Point"] = {
+						["y"] = 5.85353136062622,
+						["point"] = "BOTTOMLEFT",
+						["relativePoint"] = "BOTTOMLEFT",
+						["x"] = 33.6585159301758,
+					},
+				}, -- [13]
+				{
+					["Scale"] = 1.29166615009308,
+					["Rows"] = 4,
+					["GUID"] = "TMW:group:1OAT7=SjIPgh",
+					["Columns"] = 8,
+					["Name"] = "通用第三方技能监视",
+					["Icons"] = {
+						{
+							["ShowTimer"] = true,
+							["CLEUEvents"] = {
+								["SPELL_CAST_SUCCESS"] = true,
+							},
+							["Type"] = "cleu",
+							["CLEUDur"] = 120,
+							["ShowTimerText"] = true,
+							["Name"] = "生存本能",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"树皮", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0.4,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [1]
+						{
+							["ShowTimer"] = true,
+							["CLEUEvents"] = {
+								["SPELL_CAST_SUCCESS"] = true,
+							},
+							["Type"] = "cleu",
+							["CLEUDur"] = 60,
+							["ShowTimerText"] = true,
+							["Name"] = "树皮术",
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1Kg4_lShcnnP",
+									["Texts"] = {
+										"树皮", -- [1]
+									},
+								},
+							},
+							["States"] = {
+								{
+									["Alpha"] = 0.4,
+								}, -- [1]
+								{
+									["Alpha"] = 1,
+								}, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+							["Enabled"] = true,
+						}, -- [2]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [3]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [4]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [5]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [6]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [7]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [8]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [9]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [10]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [11]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [12]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [13]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [14]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [15]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [16]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [17]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [18]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [19]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [20]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [21]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [22]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [23]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [24]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [25]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [26]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [27]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [28]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [29]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [30]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [31]
+						{
+							["States"] = {
+								{
+								}, -- [1]
+								nil, -- [2]
+								{
+								}, -- [3]
+								{
+								}, -- [4]
+							},
+						}, -- [32]
+					},
+					["Point"] = {
+						["y"] = 106.064567565918,
+						["point"] = "BOTTOMRIGHT",
+						["relativePoint"] = "BOTTOMRIGHT",
+						["x"] = -298.064614396398,
+					},
+				}, -- [14]
+			},
+			["NumGroups"] = 14,
+		},
+	},
+}
