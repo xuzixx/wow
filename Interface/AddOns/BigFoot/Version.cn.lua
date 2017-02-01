@@ -1,6 +1,6 @@
 if GetLocale()~='zhCN' then return end
 local main= "7.1.0."
-local minor = "610"
+local minor = "611"
 BIGFOOT_VERSION = "zhCN"..main..minor;
 
 function GetMinorVersion()
@@ -8,6 +8,14 @@ function GetMinorVersion()
 end
 
 BigFootChangelog_ah();
+
+	BigFootChangelog_at("2017/01/25 (7.1.0.611)")
+	BigFootChangelog_ar("大脚插件","恢复节日助手插件(FestivalHelper)。")
+	BigFootChangelog_ar("世界任务","升级至最新版本(108)。")
+	BigFootChangelog_ar("诺米大厨","升级至最新版本(7.1.5.1)。")
+	BigFootChangelog_ar("一键驱散","升级至最新版本(2.7.5.1)。")
+	BigFootChangelog_ar("首领报警","升级至最新版本(7.1.11.15711)。")
+
 
 	BigFootChangelog_at("2017/01/19 (7.1.0.610)")
 	BigFootChangelog_ar("团队记录","添加新团队本首领支持。")
@@ -307,4 +315,4 @@ BigFootChangelog_ah();
 BigFootChangelog_af();
 
 
-BF_VERSION_CHECKSUM = "48"
+BF_VERSION_CHECKSUM = "49"
